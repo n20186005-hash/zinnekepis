@@ -95,8 +95,10 @@
     "title": "门票价格",
     "park": "雕像参观",
     "parkPrice": "完全免费，无需门票",
-    "guided": "导览游",
-    "guidedPrice": "可通过布鲁塞尔旅游局预订，查看 visitbrussels.be"
+    "guided": "自助游览",
+    "guidedPrice": "无需向导，您可自由漫步于夏特勒区，感受最真实的当地氛围。",
+    "parking": "周边停车",
+    "parkingPrice": "附近街道设有收费停车位（约2-3欧元/小时），建议停放在 Bourse 停车场或使用公共交通。"
   },
   "transport": {
     "title": "交通方式",
@@ -109,7 +111,9 @@
     "walking": "步行游览",
     "walkingDesc": "布鲁塞尔步行游的完美补充——结合小尿童（5分钟）、女性小尿童（7分钟）和大广场（10分钟）。",
     "driving": "自驾与停车",
-    "drivingDesc": "该地区停车位有限。建议停在\"Bourse 停车场\"或使用公共交通。该地区适合步行。"
+    "drivingDesc": "该地区停车位有限。建议停在\"Bourse 停车场\"或使用公共交通。该地区适合步行。",
+    "fromAirport": "从布鲁塞尔机场出发",
+    "fromAirportDesc": "乘坐直达火车（约20分钟）至布鲁塞尔中央车站，然后步行12分钟即可到达雕像所在区域。"
   },
   "route": {
     "title": "推荐步行路线",
@@ -156,24 +160,24 @@
     "title": "住宿建议",
     "hotels": [
       {
-        "name": "阿米戈酒店（Hotel Amigo）",
-        "desc": "大广场附近的豪华酒店，优雅客房，卓越服务，步行5分钟到齐内克皮斯",
-        "price": "约180-250欧元/晚"
+        "name": "市中心精品酒店",
+        "desc": "位于大广场附近，步行即可轻松到达所有主要景点，提供现代设计与舒适体验",
+        "price": "约120-250欧元/晚"
       },
       {
-        "name": "布鲁塞尔枕头城市酒店（Pillows City Hotel Brussels）",
-        "desc": "市中心精品酒店，现代设计，步行可达所有景点",
-        "price": "约120-180欧元/晚"
-      },
-      {
-        "name": "宜必思布鲁塞尔大广场外酒店（Ibis Brussels Off Grand Place）",
-        "desc": "经济实惠的选择，干净舒适，价格无可匹敌的位置",
+        "name": "经济型连锁酒店",
+        "desc": "干净舒适且价格实惠的选择，适合预算有限但希望住在市中心的旅客",
         "price": "约80-120欧元/晚"
       },
       {
-        "name": "马罗尔斯区（Marolles）的爱彼迎（Airbnb）",
-        "desc": "正宗的社区体验，当地氛围，步行15分钟到市中心",
+        "name": "本地特色民宿（B&B）",
+        "desc": "深入体验正宗的社区氛围，感受布鲁塞尔当地人的生活方式",
         "price": "约60-100欧元/晚"
+      },
+      {
+        "name": "历史风情酒店",
+        "desc": "入住由历史建筑改造的酒店，沉浸在布鲁塞尔丰富的文化底蕴中",
+        "price": "约150-300欧元/晚"
       }
     ]
   },
@@ -188,7 +192,10 @@
       "侧面轮廓",
       "街景",
       "当地氛围",
-      "附近鹅卵石"
+      "附近鹅卵石",
+      "游客合影互动",
+      "冬季雪景",
+      "夜间灯光下的雕像"
     ],
     "viewAll": "在 Google Maps 查看位置",
     "showAll": "查看全部照片",
@@ -317,16 +324,40 @@
     "attractionsTitle": "附近景点",
     "toursTitle": "推荐行程与活动",
     "attractions": [
-      {"name": "小尿童（Manneken Pis）", "url": "https://visitbrussels.be/"},
-      {"name": "大广场（Grand Place）", "url": "https://visitbrussels.be/"},
-      {"name": "女性小尿童（Jeanneke Pis）", "url": "https://visitbrussels.be/"},
-      {"name": "布鲁塞尔城市博物馆", "url": "https://www.brusselscitymuseum.brussels/"}
+      {
+        "name": "小尿童（Manneken Pis）",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "大广场（Grand Place）",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "女性小尿童（Jeanneke Pis）",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "布鲁塞尔城市博物馆",
+        "url": "https://www.brusselscitymuseum.brussels/"
+      }
     ],
     "tours": [
-      {"name": "布鲁塞尔步行游览", "url": "https://visitbrussels.be/"},
-      {"name": "比利时巧克力品鉴", "url": "https://visitbrussels.be/"},
-      {"name": "布鲁塞尔啤酒体验", "url": "https://visitbrussels.be/"},
-      {"name": "漫画路线", "url": "https://visitbrussels.be/"}
+      {
+        "name": "布鲁塞尔步行游览",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "比利时巧克力品鉴",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "布鲁塞尔啤酒体验",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "漫画路线",
+        "url": "https://visitbrussels.be/"
+      }
     ]
   }
 }

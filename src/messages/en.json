@@ -95,8 +95,10 @@
     "title": "Ticket Prices",
     "park": "Statue Viewing",
     "parkPrice": "Completely free, no ticket required",
-    "guided": "Guided Tours",
-    "guidedPrice": "Available through Brussels tourist office, check visitbrussels.be"
+    "guided": "Self-Guided Exploration",
+    "guidedPrice": "No guide needed. Feel free to wander through the Chartreux district and soak in the authentic local atmosphere.",
+    "parking": "Parking",
+    "parkingPrice": "Paid street parking available (~€2-3/hour). Recommended to park at Interparking Bourse or use public transport."
   },
   "transport": {
     "title": "How to Get Here",
@@ -109,7 +111,9 @@
     "walking": "Walking Tour",
     "walkingDesc": "Perfect addition to Brussels walking tour — combine with Manneken Pis (5 min), Jeanneke Pis (7 min), and Grand Place (10 min).",
     "driving": "Driving & Parking",
-    "drivingDesc": "Parking is limited in the area. Recommended to park at 'Interparking Bourse' or use public transport. The area is pedestrian-friendly."
+    "drivingDesc": "Parking is limited in the area. Recommended to park at 'Interparking Bourse' or use public transport. The area is pedestrian-friendly.",
+    "fromAirport": "From Brussels Airport",
+    "fromAirportDesc": "Take a direct train (~20 mins) to Brussels Central Station, then walk 12 minutes to the statue's location."
   },
   "route": {
     "title": "Recommended Walking Route",
@@ -156,24 +160,24 @@
     "title": "Accommodation",
     "hotels": [
       {
-        "name": "Hotel Amigo",
-        "desc": "Luxury hotel near Grand Place, elegant rooms, excellent service, 5 minutes walk to Zinneke Pis",
-        "price": "~€180-250/night"
+        "name": "City Center Boutique Hotels",
+        "desc": "Located near Grand Place, walking distance to all main attractions, offering modern design and comfort.",
+        "price": "~€120-250/night"
       },
       {
-        "name": "Pillows City Hotel Brussels",
-        "desc": "Boutique hotel in city center, modern design, walking distance to all attractions",
-        "price": "~€120-180/night"
-      },
-      {
-        "name": "Ibis Brussels Off Grand Place",
-        "desc": "Budget-friendly option, clean and comfortable, unbeatable location for the price",
+        "name": "Budget-Friendly Chain Hotels",
+        "desc": "Clean, comfortable and affordable options for travelers on a budget wanting a central location.",
         "price": "~€80-120/night"
       },
       {
-        "name": "Airbnb in Marolles",
-        "desc": "Authentic neighborhood experience, local atmosphere, 15 minutes walk to city center",
+        "name": "Local Bed & Breakfasts (B&B)",
+        "desc": "Immerse yourself in authentic neighborhood vibes and experience the lifestyle of Brussels locals.",
         "price": "~€60-100/night"
+      },
+      {
+        "name": "Historic Heritage Hotels",
+        "desc": "Stay in beautifully restored historic buildings and soak in Brussels' rich cultural heritage.",
+        "price": "~€150-300/night"
       }
     ]
   },
@@ -188,7 +192,10 @@
       "Side Profile",
       "Street Scene",
       "Local Atmosphere",
-      "Nearby Cobblestones"
+      "Nearby Cobblestones",
+      "Tourist Interaction",
+      "Winter Snow Scene",
+      "Statue Illuminated at Night"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -317,16 +324,40 @@
     "attractionsTitle": "Nearby Attractions",
     "toursTitle": "Recommended Tours & Activities",
     "attractions": [
-      {"name": "Manneken Pis", "url": "https://visitbrussels.be/"},
-      {"name": "Grand Place", "url": "https://visitbrussels.be/"},
-      {"name": "Jeanneke Pis", "url": "https://visitbrussels.be/"},
-      {"name": "Brussels City Museum", "url": "https://www.brusselscitymuseum.brussels/"}
+      {
+        "name": "Manneken Pis",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "Grand Place",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "Jeanneke Pis",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "Brussels City Museum",
+        "url": "https://www.brusselscitymuseum.brussels/"
+      }
     ],
     "tours": [
-      {"name": "Brussels Walking Tour", "url": "https://visitbrussels.be/"},
-      {"name": "Belgian Chocolate Tasting", "url": "https://visitbrussels.be/"},
-      {"name": "Brussels Beer Experience", "url": "https://visitbrussels.be/"},
-      {"name": "Comic Strip Route", "url": "https://visitbrussels.be/"}
+      {
+        "name": "Brussels Walking Tour",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "Belgian Chocolate Tasting",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "Brussels Beer Experience",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "Comic Strip Route",
+        "url": "https://visitbrussels.be/"
+      }
     ]
   }
 }

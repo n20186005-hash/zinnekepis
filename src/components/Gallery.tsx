@@ -1,21 +1,16 @@
 'use client';
 
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
-
-const photos = [
-  { src: '/gallery/zinnekepis (1).jpg', alt: 'Zinneke Pis 雕像正面' },
-  { src: '/gallery/zinnekepis (2).jpg', alt: '青铜细节' },
-  { src: '/gallery/zinnekepis (3).jpg', alt: '社区魅力' },
-  { src: '/gallery/zinnekepis (4).jpg', alt: '与柱子合影' },
-  { src: '/gallery/zinnekepis (5).jpg', alt: '侧面轮廓' },
-  { src: '/gallery/zinnekepis (6).jpg', alt: '街景' },
-  { src: '/gallery/zinnekepis (7).jpg', alt: '当地氛围' },
-  { src: '/gallery/zinnekepis (8).jpg', alt: '附近鹅卵石街道' },
-];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const captions = t.raw('captions') as string[];
+  const photos = captions.map((caption, i) => ({
+    src: `/gallery/zinnekepis (${i + 1}).jpg`,
+    alt: caption
+  }));
+
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
