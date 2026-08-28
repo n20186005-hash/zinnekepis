@@ -19,7 +19,10 @@
     "openMaps": "查看位置"
   },
   "intro": {
-    "title": "探索齐内克皮斯",
+    "title": "关于 Zinneke Pis",
+    "breadcrumbs": "Zinneke Pis → 布鲁塞尔 → 布鲁塞尔首都大区 → 比利时",
+    "firstParagraph": "欢迎来到 <strong>Zinneke Pis</strong>（齐内克皮斯），被广泛公认为核心的<strong>齐内克皮斯</strong>地标。坐落于<strong>比利时</strong> <strong>布鲁塞尔首都大区</strong> <strong>布鲁塞尔</strong>市中心，该目的地是到访该地区游客的主要枢纽。",
+    "nearbyText": "参观 <strong>Zinneke Pis</strong> 时，游客可以轻松游览周边的历史地标和风景名胜，包括 <strong>小尿童（Manneken Pis）</strong> 和 <strong>大广场（Grand Place）</strong>。",
     "description": "认识齐内克皮斯（Zinneke Pis），这座自1998年以来就深受布鲁塞尔游客喜爱的小狗雕像。由雕塑家汤姆·弗兰岑（Tom Frantzen）创作，这座青铜雕像描绘了一只小狗对着柱子小便的场景——这是著名的小尿童雕像（Manneken Pis）的幽默\"兄弟\"。\n\n齐内克皮斯位于迷人的夏特勒区（Chartreux district），代表着布鲁塞尔叛逆和幽默的精神。\"Zinneke\"是当地方言词汇，指的是曾经在布鲁塞尔街头游荡的混种狗，象征着布鲁塞尔的国际化特质。\n\n与它更著名的人类\"同胞\"不同，齐内克皮斯在 locals 中拥有忠实的追随者，他们欣赏它的机智和艺术家俏皮的幽默感。在节日期间，这座雕像经常穿上服装，延续了小尿童建立的传统。\n\n周边社区充满了特色——狭窄的鹅卵石街道、正宗的比利时咖啡馆，以及远离游客人群的真正布鲁塞尔风貌。这里是寻求正宗本地体验的完美地点。",
     "visitGuide": {
       "title": "游览建议",
@@ -41,7 +44,7 @@
     }
   },
   "knowledge": {
-    "title": "齐内克皮斯的故事",
+    "title": "Zinneke Pis 的历史与意义",
     "sections": [
       {
         "id": "history",
@@ -66,7 +69,7 @@
     ]
   },
   "basicInfo": {
-    "title": "基础信息",
+    "title": "Zinneke Pis 基础信息",
     "officialName": "正式名称",
     "officialNameValue": "齐内克皮斯（Zinneke Pis）",
     "type": "景点类型",
@@ -81,7 +84,7 @@
     "addressValue": "Rue des Chartreux 35, 1000 Bruxelles, Belgium"
   },
   "hours": {
-    "title": "参观信息",
+    "title": "Zinneke Pis 参观信息",
     "park": "参观方式",
     "parkTime": "免费参观，24小时开放，无限制",
     "bestTime": "最佳参观时间",
@@ -92,7 +95,7 @@
     "tip": "布鲁塞尔节日和庆祝活动期间留意特殊服装"
   },
   "tickets": {
-    "title": "门票价格",
+    "title": "Zinneke Pis 门票价格",
     "park": "雕像参观",
     "parkPrice": "完全免费，无需门票",
     "guided": "自助游览",
@@ -101,7 +104,7 @@
     "parkingPrice": "附近街道设有收费停车位（约2-3欧元/小时），建议停放在 Bourse 停车场或使用公共交通。"
   },
   "transport": {
-    "title": "交通方式",
+    "title": "Zinneke Pis 的位置与前往布鲁塞尔方式",
     "fromCenter": "从大广场出发",
     "fromCenterDesc": "从大广场步行10分钟，穿过布鲁塞尔迷人的街道。沿 Rue au Beurre 走，然后走 Rue des Chartreux。雕像位于一个小广场。",
     "fromStation": "从布鲁塞尔中央车站出发",
@@ -116,7 +119,7 @@
     "fromAirportDesc": "乘坐直达火车（约20分钟）至布鲁塞尔中央车站，然后步行12分钟即可到达雕像所在区域。"
   },
   "route": {
-    "title": "推荐步行路线",
+    "title": "Zinneke Pis 周边推荐步行路线",
     "overview": "从大广场出发，步行到小尿童（5分钟），然后到齐内克皮斯（5分钟），继续到女性小尿童（7分钟），探索迷人的夏特勒区。包括拍照停留和咖啡馆休息，整个路线大约需要2小时。",
     "steps": [
       "从大广场出发，欣赏宏伟的市政厅和行会大楼",
@@ -132,7 +135,7 @@
     ]
   },
   "photoSpots": {
-    "title": "拍照机位",
+    "title": "Zinneke Pis 拍照机位",
     "spots": [
       {
         "name": "正面视角",
@@ -157,7 +160,7 @@
     ]
   },
   "hotels": {
-    "title": "住宿建议",
+    "title": "Zinneke Pis 周边住宿建议",
     "hotels": [
       {
         "name": "市中心精品酒店",
@@ -182,27 +185,27 @@
     ]
   },
   "gallery": {
-    "title": "精彩照片",
-    "subtitle": "齐内克皮斯 - 布鲁塞尔的爱心小狗雕像",
+    "title": "Zinneke Pis 精彩照片",
+    "subtitle": "Zinneke Pis - 布鲁塞尔的爱心小狗雕像",
     "captions": [
-      "雕像正面视图",
-      "青铜细节",
-      "社区魅力",
-      "与柱子",
-      "侧面轮廓",
-      "街景",
-      "当地氛围",
-      "附近鹅卵石",
-      "游客合影互动",
-      "冬季雪景",
-      "夜间灯光下的雕像"
+      "Zinneke Pis - 比利时布鲁塞尔雕像正面视图",
+      "Zinneke Pis - 青铜细节特写",
+      "Zinneke Pis - 夏特勒区社区魅力",
+      "Zinneke Pis - 与灯柱合影",
+      "Zinneke Pis - 侧面轮廓视图",
+      "Zinneke Pis - 本地街景",
+      "Zinneke Pis - 正宗当地氛围",
+      "Zinneke Pis - 附近鹅卵石街道",
+      "Zinneke Pis - 游客合影互动",
+      "Zinneke Pis - 布鲁塞尔冬季雪景",
+      "Zinneke Pis - 布鲁塞尔夜间灯光下的雕像"
     ],
     "viewAll": "在 Google Maps 查看位置",
     "showAll": "查看全部照片",
     "showLess": "收起照片"
   },
   "reviews": {
-    "title": "游客评价",
+    "title": "Zinneke Pis 游客评价",
     "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
     "moreReviews": "在 Google Maps 查看更多评价",
     "items": [
@@ -233,9 +236,27 @@
     ]
   },
   "mapSection": {
-    "title": "交通指南",
+    "title": "Zinneke Pis 在布鲁塞尔的位置地图",
     "subtitle": "Rue des Chartreux 35, 1000 Bruxelles, Belgium",
-    "openMaps": "在 Google Maps 查看"
+    "openMaps": "在 Google Maps 查看",
+    "govtTourismText": "关于官方更新和区域旅游信息，请访问"
+  },
+  "faq": {
+    "title": "Zinneke Pis 常见问题",
+    "items": [
+      {
+        "question": "Zinneke Pis 位于哪里？",
+        "answer": "Zinneke Pis（齐内克皮斯）位于比利时布鲁塞尔首都大区布鲁塞尔 Rue des Chartreux 35, 1000 Bruxelles。"
+      },
+      {
+        "question": "参观 Zinneke Pis 是免费的吗？",
+        "answer": "是的，Zinneke Pis 是一个公共场所，全年免费向公众开放参观，24小时均可访问，无需门票。"
+      },
+      {
+        "question": "Zinneke Pis 附近有哪些著名景点？",
+        "answer": "周边著名地标包括小尿童（Manneken Pis）（步行约5分钟）、大广场（Grand Place）（步行约10分钟）和女性小尿童（Jeanneke Pis）（步行约7分钟）。"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 齐内克皮斯独立旅游研究协会 · 保留所有权利。",
@@ -320,7 +341,7 @@
     "text": "齐内克皮斯（Zinneke Pis）是由比利时雕塑家汤姆·弗兰岑（Tom Frantzen）于1998年创作的备受喜爱的青铜雕像。位于布鲁塞尔正宗的夏特勒区，代表着这座城市的叛逆和幽默精神。\n\n这座雕像是布鲁塞尔文化遗产的一部分，象征着这座城市的国际化和混合身份。\"Zinneke\"指的是曾经在布鲁塞尔游荡的混种狗，成为这座城市多样性和多元文化精神的非官方象征。"
   },
   "recommendations": {
-    "title": "探索更多",
+    "title": "Zinneke Pis 周边地标与景点",
     "attractionsTitle": "附近景点",
     "toursTitle": "推荐行程与活动",
     "attractions": [

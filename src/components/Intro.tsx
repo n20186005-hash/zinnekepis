@@ -18,6 +18,45 @@ export default function Intro() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
+        <nav
+          className="mb-6 text-sm tracking-wide"
+          style={{ color: 'var(--text-muted)' }}
+          aria-label="Breadcrumb"
+        >
+          <div
+          className="flex flex-wrap items-center gap-2 border border-dashed px-4 py-3 rounded-lg"
+          style={{ borderColor: 'var(--border-color)', background: 'var(--bg-tertiary)' }}
+          >
+            <span className="font-medium" style={{ color: 'var(--accent)' }}>
+              &#9082;
+            </span>
+            <span
+              dangerouslySetInnerHTML={{ __html: t('breadcrumbs').replace(/→/g, '<span class="mx-2 opacity-40">›</span>') }}
+            />
+          </div>
+        </nav>
+
+        <div
+          className="text-lg leading-relaxed mb-6 p-6 rounded-xl border-l-4"
+          style={{
+            color: 'var(--text-primary)',
+            borderColor: 'var(--accent)',
+            background: 'var(--bg-tertiary)',
+          }}
+        >
+          <p dangerouslySetInnerHTML={{ __html: t('firstParagraph') }} />
+        </div>
+
+        <p
+          className="text-lg leading-relaxed mb-8 px-6 py-4 rounded-lg"
+          style={{
+            color: 'var(--text-secondary)',
+            background: 'linear-gradient(90deg, var(--bg-secondary), transparent)',
+          }}
+        >
+          <span dangerouslySetInnerHTML={{ __html: t('nearbyText') }} />
+        </p>
+
         <p
           className="text-lg leading-relaxed mb-12"
           style={{ color: 'var(--text-secondary)' }}

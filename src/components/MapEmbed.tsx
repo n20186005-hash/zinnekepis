@@ -1,5 +1,9 @@
 import { useTranslations } from 'next-intl';
 
+const MAPS_EMBED_SRC =
+  'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d17935.098881751346!2d4.3266355!3d50.8487904!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c3880548ea1f%3A0x4b33b3c3e67ce1fb!2sHet%20Zinneke!5e1!3m2!1szh-CN!2s!4v1787895931776!5m2!1szh-CN!2s';
+const GOVT_TOURISM_URL = 'https://visitbrussels.be/';
+
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
 
@@ -20,19 +24,15 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Zinneke+Pis+Brussels&output=embed"
+            src={MAPS_EMBED_SRC}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Zinneke Pis"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Zinneke Pis, Brussels"
           />
         </div>
 
@@ -56,6 +56,23 @@ export default function MapEmbed() {
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
           </a>
+        </div>
+
+        <div
+          className="mt-10 text-sm leading-relaxed p-5 rounded-lg text-center max-w-3xl mx-auto"
+          style={{ color: 'var(--text-muted)', background: 'var(--bg-tertiary)', borderTop: '1px dashed var(--border-color)' }}
+        >
+          <span>{t('govtTourismText')}</span>
+          <a
+            href={GOVT_TOURISM_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium underline underline-offset-4 ml-1"
+            style={{ color: 'var(--accent)' }}
+          >
+            Belgium / Brussels-Capital Region Official Tourism Portal (VisitBrussels.be)
+          </a>
+          <span>.</span>
         </div>
       </div>
     </section>
