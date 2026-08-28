@@ -1,13 +1,16 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
 export default function Header() {
   const t = useTranslations('header');
+  const locale = useLocale();
   const [scrolled, setScrolled] = useState(false);
+  const homeHref = `/${locale}`;
 
   useEffect(() => {
     const handler = () => setScrolled(window.scrollY > 50);
@@ -25,7 +28,7 @@ export default function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href="/" className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
+        <a href={homeHref} className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
           Zinneke Pis
         </a>
 
@@ -33,7 +36,7 @@ export default function Header() {
           {(['gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
-              href={`/#${section}`}
+              href={`${homeHref}#${section}`}
               className="text-sm font-medium transition-colors"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >

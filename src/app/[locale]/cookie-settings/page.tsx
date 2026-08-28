@@ -1,28 +1,23 @@
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
+import { routing } from '@/i18n/routing';
 
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/cookie-settings`;
-  const enUrl = `${baseUrl}/en/cookie-settings`;
-  const frUrl = `${baseUrl}/fr/cookie-settings`;
-  const zhUrl = `${baseUrl}/zh-Hant/cookie-settings`;
+  const { locale } = await params;
+  const baseUrl = 'https://zinnekepis.com';
 
   return {
     alternates: {
-      canonical: itUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      canonical: `${baseUrl}/${locale}/cookie-settings`,
+      languages: Object.fromEntries([
+        ...routing.locales.map((loc) => [loc, `${baseUrl}/${loc}/cookie-settings`]),
+        ['x-default', `${baseUrl}/${routing.defaultLocale}/cookie-settings`],
+      ]),
     },
   };
 }

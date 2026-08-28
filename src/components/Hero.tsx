@@ -10,7 +10,13 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/zinnekepis (1).jpg"
-          alt={locale === 'zh' ? 'Zinneke Pis - 比利时布鲁塞尔主视图' : 'Zinneke Pis - Main view in Brussels, Belgium'}
+          alt={
+            locale === 'nl'
+              ? 'Zinneke Pis - hoofdbeeld in Brussel, België'
+              : locale === 'zh'
+                ? 'Zinneke Pis - 比利时布鲁塞尔主视图'
+                : 'Zinneke Pis - Main view in Brussels, Belgium'
+          }
           className="w-full h-full object-cover"
           loading="eager"
         />
@@ -21,7 +27,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 w-full">
         <div className="max-w-3xl">
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 animate-fade-in-up">
-            {locale === 'zh' ? 'Zinneke Pis (布鲁塞尔)' : 'Zinneke Pis (Brussels)'}
+            {locale === 'nl' ? 'Zinneke Pis (Brussel)' : locale === 'zh' ? 'Zinneke Pis (布鲁塞尔)' : 'Zinneke Pis (Brussels)'}
           </h1>
           <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
             {t('subtitle')}

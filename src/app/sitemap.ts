@@ -8,9 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const sitemapEntries = routes.flatMap((route) => {
     return routing.locales.map((locale) => {
-      // Default to root or locale root
-      const isDefaultLocale = locale === routing.defaultLocale;
-      const path = isDefaultLocale && route === '' ? '/' : `/${locale}${route}`;
+      const path = `/${locale}${route}`;
       
       return {
         url: `${baseUrl}${path}`,
