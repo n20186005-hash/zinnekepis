@@ -1,161 +1,191 @@
 {
-  "meta": {
-    "title": "Zinneke Pis | Geliefd hondenbeeld van Brussel - beroemde bezienswaardigheid",
-    "description": "Complete gids voor Zinneke Pis in Brussel. Ontdek de geschiedenis, locatie en praktische bezoekersinformatie van dit geliefde hondenbeeld."
-  },
   "header": {
     "home": "Home",
-    "gallery": "Galerij",
-    "reviews": "Beoordelingen",
+    "gallery": "Foto's",
+    "reviews": "Beoordeling",
     "map": "Kaart",
     "backToHome": "Terug naar home"
   },
   "hero": {
     "title": "Zinneke Pis",
-    "subtitle": "Het geliefde hondenbeeld van Brussel en een symbool van de stadsgeest",
-    "rating": "4.2",
-    "reviewCount": "7.051 beoordelingen",
-    "type": "Toeristische attractie · Symbool van Brussel",
-    "openMaps": "Bekijk locatie"
+    "h1": "Zinneke Pis (Het Zinneke) in Brussel",
+    "subtitle": "De bronzen plassende hond van de Kartuizersstraat — exacte locatie, kaart en geschiedenis van het derde Pis-beeld van Brussel.",
+    "imageAlt": "Het Zinneke (Zinneke Pis), het bronzen plassende hondenbeeld in de Kartuizersstraat in Brussel",
+    "reviewsLabel": "beoordelingen",
+    "type": "Toeristische attractie · Kunst in openbare ruimte",
+    "openMaps": "Openen in Google Maps"
+  },
+  "location": {
+    "title": "Waar ligt Zinneke Pis?",
+    "answer": "Zinneke Pis staat op het voetpad voor nummer 35 in de Kartuizersstraat (Rue des Chartreux) in het centrum van Brussel, in de Kartuizerswijk. Het is een klein bronzen beeld tegen een lantaarnpaal, op ongeveer 10 minuten wandelen van de Grote Markt.",
+    "addressLabel": "Adres",
+    "addressValue": "Rue des Chartreux 35, 1000 Brussel, België",
+    "plusCodeLabel": "Plus Code",
+    "coordinatesLabel": "Coördinaten",
+    "walkFromGrandPlaceLabel": "Wandelen vanaf de Grote Markt",
+    "walkFromGrandPlaceValue": "Ongeveer 10 minuten via Boterstraat en Kartuizersstraat",
+    "openMaps": "Openen in Google Maps",
+    "freeLabel": "Toegang",
+    "freeValue": "Gratis — een beeld in de openbare ruimte, geen ticket, op elk uur te bekijken"
   },
   "intro": {
     "title": "Over Zinneke Pis",
-    "breadcrumbs": "Zinneke Pis → Brussel → Brussels Hoofdstedelijk Gewest → België",
-    "firstParagraph": "Welkom bij <strong>Zinneke Pis</strong>, algemeen erkend als het centrale <strong>Zinneke Pis</strong>-monument. Gelegen in het hart van <strong>Brussel</strong>, <strong>Brussels Hoofdstedelijk Gewest</strong>, <strong>België</strong>, vormt deze plek een belangrijk oriëntatiepunt voor bezoekers van de stad.",
-    "nearbyText": "Tijdens een bezoek aan <strong>Zinneke Pis</strong> kun je gemakkelijk omliggende historische bezienswaardigheden verkennen, waaronder <strong>Manneken Pis</strong> en de <strong>Grote Markt</strong>.",
-    "description": "Maak kennis met Zinneke Pis, het charmante hondenbeeld dat sinds 1998 de harten van bezoekers van Brussel verovert. Het bronzen beeld werd gemaakt door beeldhouwer Tom Frantzen en toont een hond die tegen een paaltje plast - een speelse tegenhanger van het beroemde Manneken Pis.\n\nZinneke Pis ligt in de karaktervolle Kartuizerswijk en belichaamt de rebelse en humoristische geest van Brussel. Het woord 'Zinneke' komt uit het Brusselse dialect en verwees naar bastaardhonden die vroeger door de stad zwierven, als symbool van het kosmopolitische karakter van Brussel.\n\nIn tegenstelling tot zijn beroemdere menselijke tegenhanger heeft Zinneke Pis een trouwe schare lokale bewonderaars die de ironie en de speelse humor van de kunstenaar waarderen. Tijdens festivals krijgt het beeld soms zelfs een kostuum, in lijn met de Brusselse traditie.\n\nDe omliggende buurt heeft veel karakter: smalle kasseistraatjes, authentieke Belgische cafés en een blik op het echte Brussel, weg van de grootste toeristenmassa's. Het is een ideale halte voor wie de stad op een meer lokale manier wil ervaren.",
+    "breadcrumbs": "Het Zinneke → Brussel → Brussels Hoofstedelijk Gewest → België",
+    "firstParagraph": "<strong>Het Zinneke</strong>, algemeen bekend als <strong>Zinneke Pis</strong>, is het beroemde bronzen plassende hondenbeeld in de <strong>Kartuizersstraat</strong> in het centrum van <strong>Brussel</strong>. Het beeld is klein, zit bijna op kniehoogte naast een lantaarnpaal en is makkelijk voorbij te lopen als je niet weet dat het er staat.",
+    "nearbyText": "Vanaf het beeld wandel je in ongeveer 8 minuten naar <strong>Manneken Pis</strong>, in ongeveer 10 minuten naar de <strong>Grote Markt</strong> en in ongeveer 12 minuten naar <strong>Jeanneke Pis</strong>. Zo past het beeld vanzelf in een korte lus door het centrum.",
+    "description": "Het Zinneke toont een slordige straathond die zijn poot optilt tegen een lantaarnpaal. Het werd in 1999 gemaakt door de Brusselse beeldhouwer Tom Frantzen en vervolledigt het trio 'Pis'-beelden in het centrum, naast Manneken Pis (1619) en Jeanneke Pis (1987).\n\nHet woord 'Zinneke' komt uit het Brusselse dialect en duidde een bastaardhond aan: een hond uit een kruising tussen een stadshond en een dorpshond. Brusselaars gebruiken het woord met evenveel plezier voor zichzelf. Daarom leest het beeld eerder als een knipoog naar het dagelijkse stadsleven dan als een officieel monument.\n\nDe meeste bezoekers blijven hier vijf tot tien minuten. Er valt niets te kopen en er staat geen hek rond: de hond staat gewoon op een smalle straat met cafés, voedingszaken en kasseien, een paar stappen van de drukke winkelstraten maar merkbaar rustiger.",
     "visitGuide": {
-      "title": "Bezoektips",
+      "title": "Praktisch bezoek",
       "items": [
-        "Gratis te bezoeken, geen tickets nodig - 24/7 toegankelijk",
-        "Goed te combineren met Manneken Pis (5 minuten wandelen) en Jeanneke Pis (7 minuten wandelen)",
-        "Het beste te fotograferen in de ochtend, wanneer het rustiger is",
-        "Kijk tijdens Brusselse festivals uit naar speciale kostuums of versieringen"
+        "Gratis en altijd toegankelijk — geen ticket, geen hek, geen openingsuren",
+        "Ongeveer 10 minuten wandelen vanaf de Grote Markt via Boterstraat en Kartuizersstraat",
+        "De meeste bezoekers blijven 5 tot 10 minuten: er is geen wachtrij",
+        "'s Ochtends is het rustigst om het beeld zonder mensen in beeld te fotograferen",
+        "Goed te combineren met Manneken Pis (8 min), Jeanneke Pis (12 min) en de Grote Markt (10 min)"
       ]
     },
     "alsoKnownAs": {
-      "title": "Hoogtepunten",
+      "title": "Ook bekend als",
       "items": [
-        "Gemaakt in 1998 door de Belgische beeldhouwer Tom Frantzen",
-        "Verwijst naar de 'zinneke', de bastaardhond als symbool van Brusselse diversiteit",
-        "Onderdeel van de Brusselse 'Pis'-trilogie samen met Manneken Pis en Jeanneke Pis",
-        "Gelegen in een authentieke Brusselse buurt buiten de drukste toeristische assen"
+        "Het Zinneke",
+        "Zinneke Pis",
+        "Zinneke-Pis"
       ]
     }
   },
   "knowledge": {
-    "title": "Geschiedenis en betekenis van Zinneke Pis",
+    "title": "Geschiedenis en betekenis van Het Zinneke",
     "sections": [
       {
-        "id": "history",
-        "title": "Geschiedenis en ontstaan",
-        "content": "Zinneke Pis werd in 1998 gemaakt door de Belgische beeldhouwer Tom Frantzen. Het beeld maakte deel uit van een stedelijk vernieuwingsproject in de Kartuizerswijk. Frantzen, bekend om zijn humoristische en levendige dierensculpturen, creëerde een bronzen werk dat al snel een geliefd symbool van de buurt werd.\n\nHet beeld toont een hond in een spontaan, alledaags moment en vangt daarmee de nonchalante en eigenzinnige geest die zo sterk met Brussel wordt geassocieerd. In plaats van een formeel monument viert Zinneke Pis juist het gewone stadsleven."
+        "id": "dog-statue",
+        "title": "Wat is het plassende hondenbeeld in Brussel?",
+        "content": "Het beroemde plassende hondenbeeld in Brussel is Het Zinneke, beter bekend als Zinneke Pis. Het is een bronzen sculptuur van een bastaardhond die tegen een lantaarnpaal plast, in 1999 geplaatst in de Kartuizersstraat, op ongeveer 10 minuten wandelen van de Grote Markt.\n\nHet beeld is veel kleiner dan de meeste bezoekers verwachten — ongeveer zo groot als een echte hond. Kijk dus omlaag naar de voet van de lantaarnpaal in plaats van langs de gevels. De officiële naam in Google Maps is 'Het Zinneke', en daarom toont een zoekopdracht op de Nederlandse naam foto's van dezelfde bronzen hond."
       },
       {
         "id": "meaning",
-        "title": "Culturele betekenis",
-        "content": "Het woord 'Zinneke' komt uit het Brusselse dialect en verwees oorspronkelijk naar bastaardhonden, vooral honden die zich tussen stad en omliggende dorpen bewogen. Zulke honden waren ooit een vertrouwd straatbeeld in Brussel.\n\nVandaag staat 'Zinneke' voor de gemengde, multiculturele identiteit van Brussel. Net zoals de stad verschillende talen, gemeenschappen en tradities samenbrengt, is Zinneke Pis uitgegroeid tot een informele belichaming van die stedelijke diversiteit."
+        "title": "Wat betekent Zinneke?",
+        "content": "In het Brusselse dialect was een 'Zinneke' een bastaardhond: een hond uit een kruising tussen een stadshond en een dorpshond, een dier van gemengde afkomst. 'Zinne' verwijst zelf naar de Zenne, de rivier door de stad.\n\nHet woord groeide uit tot een bijnaam voor de gemengde bevolking van Brussel en voor de Brusseleir-identiteit — niet helemaal Nederlandstalig en niet helemaal Franstalig. Die dubbele betekenis is precies de grap van het beeld: een kleine bastaardhond is een eerlijker symbool voor Brussel dan welk officieel monument ook."
+      },
+      {
+        "id": "history",
+        "title": "Geschiedenis en ontstaan",
+        "content": "Het Zinneke werd in 1999 gemaakt door Tom Frantzen, een Brusselse beeldhouwer die bekendstaat om zijn humoristische bronzen dieren. Visit Brussels vermeldt het werk als onderdeel van de hedendaagse kunst in de openbare ruimte van de Kartuizerswijk.\n\nFrantzen gaf de hond een bewust losse houding, midden in een beweging, waardoor het eerder als een momentopname leest dan als een formeel monument. Het beeld staat rechtstreeks op straat in plaats van op een sokkel, zodat voorbijgangers er tot vlakbij kunnen komen."
       },
       {
         "id": "trilogy",
-        "title": "De 'Pis'-trilogie",
-        "content": "Zinneke Pis vervolledigt de humoristische Brusselse trilogie van plassende beelden:\n\n1. Manneken Pis (1619) - de beroemde kleine jongen en het bekendste symbool van Brussel\n2. Jeanneke Pis (1987) - het meisje in een steegje nabij de binnenstad\n3. Zinneke Pis (1998) - de hond, vaak gezien als de meest volkse en aardse figuur van de drie\n\nSamen tonen deze beelden verschillende gezichten van Brussel: het officiële, het speelse en het alledaagse."
+        "title": "De drie Pis-beelden van Brussel",
+        "content": "Zinneke Pis is het derde van de Brusselse 'Pis'-beelden:\n\n1. Manneken Pis (1619) — het jongetje, het bekendste van de drie\n2. Jeanneke Pis (1987) — het meisje in de Impasse de la Fidélité\n3. Het Zinneke / Zinneke Pis (1999) — de hond, het jongste van de drie\n\nZe liggen alle drie binnen ongeveer een kwartier wandelen van elkaar, dus je kunt ze in één lus bekijken die begint en eindigt op de Grote Markt."
       },
       {
         "id": "artist",
         "title": "Over de kunstenaar",
-        "content": "Tom Frantzen (geboren in 1954) is een van de bekendste hedendaagse beeldhouwers van België. Zijn werk staat bekend om beweging, karakter en humor, vooral in sculpturen van dieren.\n\nZijn publieke werken zijn op verschillende plaatsen in Brussel te zien. Zinneke Pis blijft een van zijn toegankelijkste en populairste creaties, juist omdat het tegelijk geestig, herkenbaar en uitgesproken Brusseleirs aanvoelt."
+        "content": "Tom Frantzen (geboren in 1954) is een Belgische beeldhouwer wiens openbare werken dieren, figuren en fonteingroepen omvatten in Brussel en andere Belgische steden. Zijn stijl is verhalend en vaak komisch, met een beweging die van op afstand leesbaar blijft.\n\nHet Zinneke is zijn bekendste kleine werk, juist omdat het op ooghoogte staat in een straat waar dagelijks duizenden mensen voorbijkomen."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basisinformatie over Zinneke Pis",
-    "officialName": "Officiële naam",
-    "officialNameValue": "Zinneke Pis",
+    "title": "Basisinformatie over Het Zinneke (Zinneke Pis)",
+    "officialName": "Officiële / vermelde naam",
     "type": "Type attractie",
-    "typeValue": "Beeld, toeristische attractie, symbool van Brussel",
+    "typeValue": "Bronzen beeld, toeristische attractie, kunst in openbare ruimte",
+    "alsoKnownAs": "Alternatieve namen",
     "country": "Land",
     "countryValue": "België",
     "city": "Stad",
-    "cityValue": "Brussel",
-    "googleRating": "Google-score",
-    "phone": "Telefoon",
+    "cityValue": "Brussel (Brussels Hoofstedelijk Gewest)",
+    "createdBy": "Gemaakt door",
+    "googleRating": "Google Maps-score",
+    "reviewsSuffix": "beoordelingen",
     "address": "Adres",
-    "addressValue": "Rue des Chartreux 35, 1000 Bruxelles, Belgium"
+    "addressValue": "Rue des Chartreux 35, 1000 Brussel, België",
+    "ratingNote": "Score en aantal beoordelingen zijn een momentopname van de publieke Google Maps-vermelding voor Het Zinneke en kunnen in de loop van de tijd veranderen. Laatst gecontroleerd in oktober 2026."
   },
   "hours": {
-    "title": "Bezoekersinformatie voor Zinneke Pis",
+    "title": "Zinneke Pis bezoeken",
     "park": "Toegang",
-    "parkTime": "Vrij toegankelijk 24/7, geen beperkingen",
-    "bestTime": "Beste bezoekmoment",
-    "bestTimeSpring": "Ochtend (8-10 uur): minder druk, beter licht voor foto's",
-    "bestTimeSummer": "Avond (18-20 uur): mooi avondlicht en aangename temperatuur",
-    "bestTimeAutumn": "Namiddag (14-16 uur): zacht licht en prettig om te wandelen",
-    "bestTimeWinter": "Middag (11-14 uur): beste natuurlijke licht in de wintermaanden",
-    "tip": "Let tijdens Brusselse festivals op eventuele speciale kostuums of versieringen"
+    "parkTime": "Gratis en altijd toegankelijk — het staat op een openbare straat",
+    "bestTime": "Beste moment van de dag",
+    "bestTimeSpring": "Ochtend (8-10 uur): rustigste straat, helder licht op het brons",
+    "bestTimeSummer": "Avond (18-20 uur): warmer licht, terrassen in de buurt open",
+    "bestTimeAutumn": "Namiddag (14-16 uur): aangenaam wandelweer voor de volledige Pis-lus",
+    "bestTimeWinter": "Middag (11-14 uur): het beste natuurlijke licht in de donkere maanden",
+    "tip": "Dit is een straat met verkeer, geen voetgangerszone. Blijf op het voetpad als je achteruit stapt voor een foto."
   },
   "tickets": {
-    "title": "Ticketprijzen voor Zinneke Pis",
-    "park": "Bezoek aan het beeld",
+    "title": "Tickets en kosten",
+    "park": "Het beeld bekijken",
     "parkPrice": "Volledig gratis, geen ticket nodig",
     "guided": "Zelfstandig bezoek",
-    "guidedPrice": "Geen gids nodig. Wandel op je eigen tempo door de Kartuizerswijk en ontdek de sfeer van de buurt.",
+    "guidedPrice": "Vijf tot tien minuten ter plaatse is genoeg; een gids of reservatie is niet nodig.",
     "parking": "Parkeren",
-    "parkingPrice": "Betaald straatparkeren in de buurt (ongeveer €2-3/uur). Interparking Bourse of openbaar vervoer wordt aanbevolen."
+    "parkingPrice": "Beperkt straatparkeren. De parkings onder de Grote Markt en aan De Brouckère liggen op korte wandelafstand, en metro De Brouckère is ongeveer 8 minuten te voet."
   },
   "transport": {
-    "title": "Ligging en bezoek aan Zinneke Pis in Brussel",
-    "fromCenter": "Vanaf de Grote Markt",
-    "fromCenterDesc": "Wandel ongeveer 10 minuten vanaf de Grote Markt door de charmante straten van Brussel. Volg Rue au Beurre en daarna Rue des Chartreux.",
-    "fromStation": "Vanaf Brussel-Centraal",
-    "fromStationDesc": "Vanaf het station is het ongeveer 12 minuten wandelen. Ga richting Rue de l'Impératrice, wandel naar de Grote Markt en vervolg naar de Kartuizerswijk.",
+    "title": "Zo kom je bij Zinneke Pis",
+    "fromCenter": "Vanaf de Grote Markt — 10 minuten",
+    "fromCenterDesc": "Verlaat de Grote Markt via de Boterstraat, volg de Beenhouwersstraat of de Grétrystraat en sla dan in in de Kartuizersstraat. De hond staat op het voetpad bij nummer 35.",
+    "fromStation": "Vanaf station Brussel-Centraal — 15 minuten",
+    "fromStationDesc": "Wandel vanaf het station naar de Grote Markt en volg dan de Boterstraat en de Kartuizersstraat. Samen ongeveer 15 minuten op normaal tempo.",
     "publicTransport": "Openbaar vervoer",
-    "publicTransportDesc": "Neem metro 1 of 5 naar station De Brouckère en wandel nog ongeveer 8 minuten. Of neem bus 48 naar halte Bourse en wandel 5 minuten.",
-    "walking": "Wandelroute door de stad",
-    "walkingDesc": "Een mooie halte tijdens een Brusselse stadswandeling, goed te combineren met Manneken Pis, Jeanneke Pis en de Grote Markt.",
-    "driving": "Met de auto en parkeren",
-    "drivingDesc": "Parkeerplaatsen zijn beperkt in de buurt. Interparking Bourse of openbaar vervoer is meestal praktischer.",
+    "publicTransportDesc": "Metrolijnen 1 en 5 stoppen aan De Brouckère, op ongeveer 8 minuten wandelen. Verschillende bussen stoppen aan De Brouckère of Beurs, net ten zuiden van het beeld.",
+    "walking": "Wandellus",
+    "walkingDesc": "Grote Markt → Manneken Pis → Jeanneke Pis → Het Zinneke → Grote Markt lukt in ongeveer 45 tot 60 minuten zonder te haasten.",
+    "driving": "Met de auto",
+    "drivingDesc": "De straat is smal en het centrum van Brussel is een lage-emissiezone. Parkeren onder de Grote Markt of aan De Brouckère en dan wandelen is eenvoudiger.",
     "fromAirport": "Vanaf Brussels Airport",
-    "fromAirportDesc": "Neem de trein naar Brussel-Centraal (ongeveer 20 minuten) en wandel daarna naar het beeld."
+    "fromAirportDesc": "De trein naar Brussel-Centraal duurt ongeveer 20 minuten, daarna wandel je 15 minuten, of je neemt de metro één halte tot De Brouckère en wandelt van daar."
   },
   "route": {
     "title": "Aanbevolen wandelroute rond Zinneke Pis",
-    "overview": "Start op de Grote Markt, wandel naar Manneken Pis, vervolg naar Zinneke Pis en ga daarna richting Jeanneke Pis. Met fotostops en een cafépauze duurt deze route ongeveer twee uur.",
+    "overview": "Start op de Grote Markt, neem de twee andere Pis-beelden mee en eindig weer in het centrum. Met fotostops en een koffiepauze duurt de lus ongeveer twee uur.",
     "steps": [
       "Begin op de Grote Markt en bewonder het stadhuis en de gildehuizen",
-      "Wandel via Rue au Beurre naar Manneken Pis (ongeveer 5 minuten)",
-      "Maak foto's bij het beroemde beeld en kijk of het een kostuum draagt",
-      "Loop verder naar Zinneke Pis in de Kartuizerswijk (ongeveer 5 minuten)",
-      "Neem de tijd voor foto's van het hondenbeeld en de omgeving",
-      "Wandel naar Jeanneke Pis in het steegje (ongeveer 7 minuten)",
-      "Voltooi de Brusselse 'Pis'-trilogie",
-      "Verken de authentieke buurt en stop bij een lokaal café",
-      "Keer via Rue des Bouchers terug naar de Grote Markt (ongeveer 10 minuten)",
-      "Sluit af met een Brusselse wafel of een Belgisch bier op een terras"
+      "Wandel via de Stoofstraat naar Manneken Pis (ongeveer 8 minuten)",
+      "Sla de Impasse de la Fidélité in voor Jeanneke Pis (ongeveer 2 minuten)",
+      "Loop noordwaarts door de winkelstraten naar de Kartuizerswijk",
+      "Zoek Het Zinneke bij nummer 35 en maak je foto's (ongeveer 8 minuten vanaf Manneken Pis)",
+      "Slenter door de Kartuizerswijk langs voedingszaken, cafés en kasseien",
+      "Keer via de Beenhouwersstraat terug naar de Grote Markt (ongeveer 10 minuten)",
+      "Eindig op een terras aan de Grote Markt met wafels of Belgisch bier"
     ]
+  },
+  "topics": {
+    "title": "Verder lezen",
+    "statues": {
+      "linkTitle": "De 3 beroemde Pis-beelden van Brussel",
+      "linkIntro": "Manneken Pis, Jeanneke Pis en Het Zinneke vergeleken, met de afstanden ertussen."
+    },
+    "route": {
+      "linkTitle": "Wandelroute Zinneke Pis naar Manneken Pis",
+      "linkIntro": "Hoe ver het is, hoe lang het duurt en welke straten je volgt tussen de twee beelden."
+    }
   },
   "photoSpots": {
     "title": "Fotoplekken bij Zinneke Pis",
     "spots": [
       {
         "name": "Vooraanzicht",
-        "desc": "Klassieke hoek die het volledige beeld toont en de speelse houding van de hond benadrukt"
+        "desc": "Ga op het voetpad voor de hond staan om het volledige silhouet tegen de lantaarnpaal te krijgen"
       },
       {
         "name": "Zijaanzicht",
-        "desc": "Profielzicht waarin de dynamiek van het beeld en de details van de anatomie goed zichtbaar zijn"
+        "desc": "Een profielfoto toont de opgetilde poot en de vloeiende bronsdetails van het lichaam"
       },
       {
-        "name": "Met het paaltje",
-        "desc": "Neem ook het paaltje mee in beeld om de volledige compositie van de kunstenaar te tonen"
+        "name": "Close-up van het brons",
+        "desc": "Kom dichtbij op kop en krullende staart: een korte brandpuntsafstand volstaat"
       },
       {
-        "name": "Buurtcontext",
-        "desc": "Neem wat afstand om het beeld in zijn stedelijke omgeving en buurtcontext te laten zien"
+        "name": "Met de lantaarnpaal",
+        "desc": "Neem de volledige paal mee om de compositie van de kunstenaar te tonen"
       },
       {
-        "name": "Creatieve hoeken",
-        "desc": "Experimenteer met speelse en onverwachte standpunten, helemaal in de geest van Brussel"
+        "name": "Straatcontext",
+        "desc": "Steek over en fotografeer breder om het beeld in de Kartuizerswijk te plaatsen"
+      },
+      {
+        "name": "Na zonsondergang",
+        "desc": "Straatverlichting licht het brons uit, al vraagt weinig licht om een hogere ISO of een statief"
       }
     ]
   },
@@ -163,221 +193,341 @@
     "title": "Overnachten in de buurt van Zinneke Pis",
     "hotels": [
       {
-        "name": "Boetiekhotels in het centrum",
-        "desc": "Dicht bij de Grote Markt en op wandelafstand van de voornaamste bezienswaardigheden.",
+        "name": "Boetiekhotels nabij de Grote Markt",
+        "desc": "Binnen tien minuten wandelen van het beeld, dicht bij de belangrijkste bezienswaardigheden.",
         "price": "~€120-250/nacht"
       },
       {
-        "name": "Betaalbare ketenhotels",
-        "desc": "Praktische en comfortabele keuze voor reizigers met een beperkter budget.",
+        "name": "Middelgrote ketenhotels",
+        "desc": "Praktische opties rond De Brouckère en de lanen, met vlotte metroverbinding.",
         "price": "~€80-120/nacht"
       },
       {
-        "name": "Lokale B&B's",
-        "desc": "Een goede manier om de buurt en de sfeer van Brussel meer van dichtbij te ervaren.",
+        "name": "Bed & breakfasts",
+        "desc": "Een rustigere manier om in Brusselse woonwijken te overnachten.",
         "price": "~€60-100/nacht"
       },
       {
-        "name": "Historische erfgoedhotels",
-        "desc": "Verblijf in gerestaureerde historische panden en geniet van de culturele sfeer van Brussel.",
+        "name": "Historische hotels",
+        "desc": "Gerenoveerde historische panden in de oudere delen van het centrum.",
         "price": "~€150-300/nacht"
       }
     ]
   },
   "gallery": {
-    "title": "Fotogalerij van Zinneke Pis",
-    "subtitle": "Zinneke Pis - het geliefde hondenbeeld van Brussel",
+    "title": "Foto's van Zinneke Pis",
+    "subtitle": "Het Zinneke in de Kartuizersstraat, 1000 Brussel — voor-, zij- en detailaanzichten",
     "captions": [
-      "Zinneke Pis - vooraanzicht in Brussel, België",
-      "Zinneke Pis - close-up van bronzen details",
-      "Zinneke Pis - charme van de Kartuizerswijk",
-      "Zinneke Pis - met het paaltje",
-      "Zinneke Pis - zijprofiel",
-      "Zinneke Pis - lokale straatscène",
-      "Zinneke Pis - authentieke buurtsfeer",
-      "Zinneke Pis - kasseien in de omgeving",
-      "Zinneke Pis - interactie met bezoekers",
-      "Zinneke Pis - winters tafereel in Brussel",
-      "Zinneke Pis - 's avonds verlicht in Brussel"
+      "Het Zinneke (Zinneke Pis), bronzen hondenbeeld in de Kartuizersstraat, Brussel",
+      "Close-up van de bronzen kop en gekrulde staart van Het Zinneke",
+      "Zijaanzicht van Zinneke Pis die zijn poot optilt tegen de lantaarnpaal",
+      "Het Zinneke met zijn lantaarnpaal voor nummer 35 in de Kartuizersstraat",
+      "Profiel van het Zinneke Pis-beeld met zicht op het bronsoppervlak",
+      "Straatbeeld van de Kartuizersstraat met Het Zinneke in Brussel",
+      "Bronsdetails en patina van de hondensculptuur Zinneke Pis",
+      "Kasseien naast Het Zinneke in de Kartuizerswijk",
+      "Dagelijkse sfeer van de buurt rond Zinneke Pis in het centrum van Brussel",
+      "Het Zinneke op een koude winterdag in 1000 Brussel",
+      "Zinneke Pis 's avonds verlicht door straatverlichting in Brussel"
     ],
-    "viewAll": "Bekijk op Google Maps",
+    "viewAll": "Meer foto's op Google Maps",
     "showAll": "Bekijk alle foto's",
     "showLess": "Toon minder"
   },
-  "reviews": {
-    "title": "Beoordelingen van bezoekers van Zinneke Pis",
-    "declaration": "Bezoekersfeedback is te raadplegen via Google Maps (externe link).",
-    "moreReviews": "Bekijk meer beoordelingen op Google Maps",
-    "items": [
-      {
-        "name": "Marie Dubois",
-        "date": "mei 2026",
-        "rating": 5,
-        "text": "Absoluut charmant! Veel rustiger dan Manneken Pis. Ik hou van de rebelse sfeer en de buurt voelt heel authentiek aan."
-      },
-      {
-        "name": "John Smith",
-        "date": "april 2026",
-        "rating": 5,
-        "text": "Per toeval ontdekt tijdens het rondwandelen. Wat een leuke verrassing. Het hondenbeeld heeft echt karakter."
-      },
-      {
-        "name": "Anna Müller",
-        "date": "maart 2026",
-        "rating": 4,
-        "text": "Leuk beeld in een fijne buurt. Gratis en op elk moment te bezoeken. Ideaal in combinatie met Manneken Pis en Jeanneke Pis."
-      },
-      {
-        "name": "Pieter Van Dam",
-        "date": "februari 2026",
-        "rating": 5,
-        "text": "Als local is Zinneke mijn favoriet van de drie 'Pis'-beelden. Het vertegenwoordigt het echte, gemengde en humoristische Brussel."
-      }
-    ]
-  },
-  "mapSection": {
-    "title": "Locatiekaart van Zinneke Pis in Brussel",
-    "subtitle": "Rue des Chartreux 35, 1000 Bruxelles, Belgium",
-    "openMaps": "Bekijk op Google Maps",
-    "govtTourismText": "Voor officiële updates en regionale toeristische informatie, bezoek"
+  "ratings": {
+    "title": "Google Maps-beoordeling van Zinneke Pis",
+    "reviewCount": "{count} Google Maps-beoordelingen",
+    "sourceNote": "Dit cijfer is een momentopname van de publieke Google Maps-vermelding voor Het Zinneke en verandert in de loop van de tijd. Deze website verzamelt zelf geen beoordelingen en kan afzonderlijke recensies niet verifiëren — lees ze op Google Maps.",
+    "cta": "Bekijk de actuele beoordelingen op Google Maps"
   },
   "faq": {
     "title": "Veelgestelde vragen over Zinneke Pis",
     "items": [
       {
         "question": "Waar ligt Zinneke Pis?",
-        "answer": "Zinneke Pis ligt aan Rue des Chartreux 35, 1000 Brussel, in Brussel, Brussels Hoofdstedelijk Gewest, België."
+        "answer": "Zinneke Pis staat voor nummer 35 in de Kartuizersstraat, 1000 Brussel, in de Kartuizerswijk. Het is ongeveer 10 minuten wandelen vanaf de Grote Markt. Plus Code: R8XW+G7 Brussel."
       },
       {
         "question": "Is Zinneke Pis gratis te bezoeken?",
-        "answer": "Ja, Zinneke Pis is een openbare plek en het hele jaar gratis te bezoeken, 24 uur per dag en zonder ticket."
+        "answer": "Ja. Het Zinneke is een beeld in de openbare ruimte zonder ticket, zonder hek en zonder openingsuren. Je kunt het op elk moment bekijken."
       },
       {
-        "question": "Welke bezienswaardigheden liggen in de buurt van Zinneke Pis?",
-        "answer": "In de buurt vind je onder meer Manneken Pis, de Grote Markt en Jeanneke Pis, allemaal op wandelafstand."
+        "question": "Wanneer is Zinneke Pis gemaakt?",
+        "answer": "Het bronzen beeld werd in 1999 gemaakt door de Brusselse beeldhouwer Tom Frantzen, volgens Visit Brussels."
+      },
+      {
+        "question": "Hoe heet het plassende hondenbeeld in Brussel?",
+        "answer": "Het heet Het Zinneke en wordt ook Zinneke Pis genoemd. In Google Maps staat de vermelding op 'Het Zinneke', terwijl 'Zinneke Pis' de naam is waar de meeste bezoekers op zoeken."
+      },
+      {
+        "question": "Wat betekent Zinneke?",
+        "answer": "In het Brusselse dialect was een 'Zinneke' een bastaardhond: het resultaat van een kruising tussen een stadshond en een dorpshond. Het woord werd een bijnaam voor de gemengde bevolking van Brussel en voor de lokale Brusseleir-identiteit."
+      },
+      {
+        "question": "Hoe geraak ik vanaf de Grote Markt bij Zinneke Pis?",
+        "answer": "Verlaat de Grote Markt via de Boterstraat, loop verder noordwaarts en sla in in de Kartuizersstraat. Het beeld staat op het voetpad bij nummer 35, ongeveer 10 minuten ver. Metro De Brouckère ligt op ongeveer 8 minuten wandelen."
+      },
+      {
+        "question": "Hoe lang blijf je best bij Zinneke Pis?",
+        "answer": "De meeste bezoekers blijven vijf tot tien minuten. Er is geen wachtrij en geen binnenruimte, dus je combineert het beeld best met Manneken Pis, Jeanneke Pis en de Grote Markt tijdens één wandeling."
+      },
+      {
+        "question": "Liggen Manneken Pis en Jeanneke Pis in de buurt?",
+        "answer": "Ja. Manneken Pis ligt op ongeveer 8 minuten wandelen, Jeanneke Pis op ongeveer 12 minuten en de Grote Markt op ongeveer 10 minuten. Je ziet ze alle drie in één lus."
+      },
+      {
+        "question": "Mag je foto's nemen bij Zinneke Pis?",
+        "answer": "Ja, fotograferen is vrij en onbeperkt. 's Ochtends is het het rustigst, en omdat het beeld op een straat met verkeer staat, blijf je best op het voetpad als je een foto kiest."
       }
     ]
   },
   "footer": {
-    "rights": "© 2026 Onafhankelijke toeristische onderzoeksvereniging Zinneke Pis · Alle rechten voorbehouden.",
+    "rights": "© 2026 Onafhankelijk bezoekersinformatieproject over Zinneke Pis · Alle rechten voorbehouden.",
     "privacy": "Privacybeleid",
     "terms": "Gebruiksvoorwaarden",
     "cookies": "Cookie-instellingen",
-    "officialResourcesTitle": "Gerelateerde bronnen en informatie",
+    "officialResourcesTitle": "Officiële en referentiebronnen",
     "officialLinks": {
       "belgium": "België",
       "brussels": "Stad Brussel",
-      "brusselsRegion": "Brussels Hoofdstedelijk Gewest",
+      "brusselsRegion": "Brussels Hoofstedelijk Gewest",
       "visitBrussels": "Visit Brussels",
       "belgiumDiplomacy": "Belgische diplomatie"
     },
-    "disclaimer": "Deze website is een onafhankelijk toeristisch informatieproject van derden. Er bestaat geen band met de overheid of andere officiële instellingen."
+    "disclaimer": "Dit is een onafhankelijke bezoekersinformatiesite, niet verbonden met de Stad Brussel of enige overheidsdienst. Beoordelingen zijn een momentopname van de publieke Google Maps-vermelding en kunnen veranderen."
   },
   "privacy": {
     "title": "Privacybeleid",
-    "lastUpdated": "Laatst bijgewerkt: mei 2026",
+    "lastUpdated": "Laatst bijgewerkt: oktober 2026",
     "sections": [
       {
-        "heading": "1. Verzameling van informatie",
-        "content": "Wij verzamelen in het algemeen niet actief persoonlijk identificeerbare informatie van bezoekers. Informatie die je vrijwillig via contact of e-mail verstrekt, behandelen wij vertrouwelijk."
+        "heading": "1. Welke gegevens we verzamelen",
+        "content": "Deze site vereist geen registratie en vraagt geen persoonsgegevens. We stellen geen profielen van individuele bezoekers op."
       },
       {
-        "heading": "2. Gebruik van informatie",
-        "content": "Eventuele verzamelde informatie wordt uitsluitend gebruikt om onze dienst te onderhouden, te verbeteren of om met je te communiceren. Wij verkopen of delen geen persoonsgegevens voor marketingdoeleinden."
+        "heading": "2. Cookies",
+        "content": "Essentiële cookies bewaren je taal- en themakeuze. Analytics- of advertentiecookies worden pas geladen nadat je ze hebt toegestaan op de cookie-instellingenpagina."
       },
       {
-        "heading": "3. Cookies en tracking",
-        "content": "Wij gebruiken cookies en vergelijkbare technologieën om basisfuncties van de site mogelijk te maken en inzicht te krijgen in gebruik. Je kunt cookies via je browserinstellingen beheren."
+        "heading": "3. Diensten van derden",
+        "content": "Ingesloten Google Maps-inhoud en eventuele analytics- of advertentiepartners zijn derden met een eigen privacybeleid. Verzoeken aan die diensten vallen onder hun voorwaarden."
       },
       {
-        "heading": "4. Gegevensbeveiliging",
-        "content": "Wij nemen redelijke maatregelen om gegevens te beschermen, al kan geen enkele methode van internetoverdracht volledige veiligheid garanderen."
+        "heading": "4. Contact en wijzigingen",
+        "content": "We kunnen dit beleid aanpassen wanneer de site verandert. De datum bovenaan toont de laatste herziening."
       }
     ]
   },
   "terms": {
     "title": "Gebruiksvoorwaarden",
-    "lastUpdated": "Laatst bijgewerkt: mei 2026",
+    "lastUpdated": "Laatst bijgewerkt: oktober 2026",
     "sections": [
       {
-        "heading": "1. Aanvaarding van de voorwaarden",
-        "content": "Door deze website te bezoeken en te gebruiken, ga je akkoord met deze gebruiksvoorwaarden. Als je het niet eens bent met een deel ervan, gebruik de site dan niet."
+        "heading": "1. Aard van de site",
+        "content": "Deze website is een onafhankelijk bezoekersinformatieproject. Het is geen officiële site van een toeristische dienst en is niet verbonden met enige overheid."
       },
       {
-        "heading": "2. Gebruik van de dienst",
-        "content": "Deze website is een onafhankelijk toeristisch informatieproject van derden. De informatie wordt uitsluitend ter algemene informatie aangeboden. Gebruik de site op een verantwoorde en wettelijke manier."
+        "heading": "2. Juistheid van de informatie",
+        "content": "Praktische gegevens zoals scores en aantallen beoordelingen zijn momentopnamen uit publieke bronnen en kunnen veranderen. Controleer praktische informatie altijd bij de officiële uitbater voordat je reist."
       },
       {
-        "heading": "3. Intellectuele eigendom",
-        "content": "Alle inhoud van deze website, waaronder teksten, afbeeldingen en logo's, is eigendom van de beheerder tenzij anders vermeld. Ongeoorloofd gebruik of verspreiding is niet toegestaan."
+        "heading": "3. Toegestaan gebruik",
+        "content": "Je mag de site lezen en ernaar verwijzen. Het systematisch kopiëren van pagina's of inhoud voor herpublicatie is niet toegestaan."
       },
       {
-        "heading": "4. Beperking van aansprakelijkheid",
-        "content": "Wij zijn niet aansprakelijk voor directe of indirecte schade die voortvloeit uit het gebruik van deze website of de daarop vermelde informatie."
+        "heading": "4. Aansprakelijkheid",
+        "content": "De informatie wordt uitsluitend ter algemene oriëntatie aangeboden. Wij aanvaarden geen aansprakelijkheid voor schade die uit het gebruik ontstaat."
       }
     ]
   },
   "cookieSettings": {
     "title": "Cookie-instellingen",
-    "description": "Beheer je cookievoorkeuren.",
+    "description": "Kies welke cookies deze site mag gebruiken.",
     "essential": {
       "title": "Essentiële cookies",
-      "description": "Nodig voor de basisfunctionaliteit van de website.",
+      "description": "Nodig voor taal, thema en basisfuncties. Deze kunnen niet worden uitgeschakeld.",
       "badge": "Altijd actief"
     },
     "analytics": {
       "title": "Analytische cookies",
-      "description": "Helpen ons begrijpen hoe bezoekers met de site omgaan."
+      "description": "Helpen ons in aggregaat begrijpen hoe bezoekers de pagina's gebruiken."
     },
     "marketing": {
-      "title": "Marketingcookies",
-      "description": "Worden gebruikt om bezoekers over meerdere websites te volgen."
+      "title": "Advertentiecookies",
+      "description": "Worden gebruikt om advertenties op de site te meten en te beperken."
     },
     "save": "Voorkeuren opslaan",
     "saved": "Voorkeuren opgeslagen!"
   },
   "officialManagement": {
-    "title": "Over Zinneke Pis",
-    "text": "Zinneke Pis is een geliefd bronzen beeld dat in 1998 werd gemaakt door de Belgische beeldhouwer Tom Frantzen. Het staat in de Kartuizerswijk van Brussel en belichaamt de humoristische en eigenzinnige geest van de stad.\n\nHet beeld maakt deel uit van het culturele erfgoed van Brussel en verwijst naar de gemengde identiteit van de stad. 'Zinneke' was de benaming voor bastaardhonden die vroeger in Brussel rondliepen en groeide uit tot een symbool van stedelijke diversiteit."
+    "title": "Bronnen en kanttekeningen",
+    "text": "Factchecking-notities bij deze pagina.\n\n• Naam en ontstaansjaar komen van Visit Brussels, dat Het Zinneke (Zinneke-Pis) vermeldt als een werk van Tom Frantzen uit 1999 in de Kartuizersstraat 35.\n\n• Adres, Plus Code en kaartlinks volgen de publieke Google Maps-vermelding voor Het Zinneke.\n\n• De hierboven vermelde score en het aantal beoordelingen zijn een momentopname van die vermelding, genomen in oktober 2026, en kunnen later afwijken.\n\nWaar oudere internetpagina's 1998 vermelden, wijst actuele officiële informatie op 1999."
   },
   "recommendations": {
-    "title": "Bezienswaardigheden rond Zinneke Pis",
-    "attractionsTitle": "Attracties in de buurt",
-    "toursTitle": "Aanbevolen routes en activiteiten",
+    "title": "Plan de rest van je wandeling",
+    "attractionsTitle": "Beelden in de buurt",
+    "toursTitle": "Officiële en referentielinks",
     "attractions": [
       {
-        "name": "Manneken Pis",
-        "url": "https://visitbrussels.be/"
+        "name": "Manneken Pis — het jongetje (1619)",
+        "url": "/brussels-pis-statues"
       },
       {
-        "name": "Grote Markt",
-        "url": "https://visitbrussels.be/"
+        "name": "Jeanneke Pis — het meisje (1987)",
+        "url": "/brussels-pis-statues"
       },
       {
-        "name": "Jeanneke Pis",
-        "url": "https://visitbrussels.be/"
+        "name": "Wandelroute: Zinneke Pis naar Manneken Pis",
+        "url": "/zinneke-pis-to-manneken-pis"
       },
       {
-        "name": "Brussels City Museum",
+        "name": "Brussels City Museum (officiële site)",
         "url": "https://www.brusselscitymuseum.brussels/"
       }
     ],
     "tours": [
       {
-        "name": "Wandeling door Brussel",
+        "name": "Visit Brussels — officieel toerismeportaal",
         "url": "https://visitbrussels.be/"
       },
       {
-        "name": "Belgische chocoladeproeverij",
-        "url": "https://visitbrussels.be/"
+        "name": "Visit Brussels-vermelding voor Het Zinneke",
+        "url": "https://www.visit.brussels/en/visitors/venue-details.Zinneke-Pis.50001051"
       },
       {
-        "name": "Brusselse bierervaring",
-        "url": "https://visitbrussels.be/"
+        "name": "Google Maps-vermelding voor Het Zinneke",
+        "url": "https://maps.app.goo.gl/JYWuyur9ydE1bJCF7"
       },
       {
-        "name": "Striproute",
-        "url": "https://visitbrussels.be/"
+        "name": "Officiële site van de Stad Brussel",
+        "url": "https://www.brussels.be/"
+      }
+    ]
+  },
+  "topicStatues": {
+    "pageTitle": "De 3 beroemde Pis-beelden van Brussel: Manneken, Jeanneke & Zinneke Pis",
+    "pageDescription": "Vergelijk de drie Pis-beelden van Brussel: Manneken Pis (1619), Jeanneke Pis (1987) en Het Zinneke / Zinneke Pis (1999). Locaties, wandelafstanden en hoe je ze alle drie in één lus ziet.",
+    "title": "De 3 beroemde Pis-beelden van Brussel",
+    "intro": "Brussel heeft drie beelden die beroemd zijn omdat ze hetzelfde doen. Manneken Pis is het jongetje dat iedereen fotografeert, Jeanneke Pis is het meisje weggestopt in een steegje, en Het Zinneke — beter bekend als Zinneke Pis — is de hond. Ze liggen binnen ongeveer een kwartier wandelen van elkaar, dus één lus volstaat voor de drie.",
+    "factsTitle": "De drie beelden op een rij",
+    "facts": [
+      {
+        "label": "Manneken Pis",
+        "value": "1619 · Stoofstraat / Eikstraat, naast de Grote Markt. Bronzen figuur van ongeveer 61 cm en de drukst gefotografeerde plek van de stad."
+      },
+      {
+        "label": "Jeanneke Pis",
+        "value": "1987 · Impasse de la Fidélité, een korte steeg nabij Manneken Pis. Kleiner en een stuk rustiger dan het jongetje."
+      },
+      {
+        "label": "Het Zinneke / Zinneke Pis",
+        "value": "1999 · Kartuizersstraat 35, in de Kartuizerswijk. Een bronzen bastaardhond die zijn poot optilt tegen een lantaarnpaal, op ongeveer 10 minuten wandelen van de Grote Markt."
+      },
+      {
+        "label": "Totale wandelafstand",
+        "value": "Ongeveer 2 km voor een lus langs de Grote Markt die de drie beelden meeneemt, comfortabel te doen in 45 tot 60 minuten."
+      }
+    ],
+    "stepsTitle": "Een volgorde die werkt",
+    "steps": [
+      "Begin op de Grote Markt, het vanzelfsprekende oriëntatiepunt in het centrum",
+      "Wandel naar Manneken Pis via de Stoofstraat (2 minuten)",
+      "Sla de Impasse de la Fidélité in voor Jeanneke Pis (2 minuten)",
+      "Ga noordwaarts door de winkelstraten richting de Kartuizerswijk",
+      "Eindig bij Het Zinneke in de Kartuizersstraat 35 (ongeveer 8 minuten vanaf Manneken Pis)",
+      "Wandel in 10 minuten terug naar de Grote Markt om de lus te sluiten"
+    ],
+    "faqTitle": "Vragen over de Pis-beelden",
+    "faq": [
+      {
+        "question": "Hoe heten de drie plassende beelden in Brussel?",
+        "answer": "Manneken Pis (het jongetje, 1619), Jeanneke Pis (het meisje, 1987) en Het Zinneke, ook bekend als Zinneke Pis (de hond, 1999)."
+      },
+      {
+        "question": "Hoe ver liggen de drie Pis-beelden uit elkaar?",
+        "answer": "Manneken Pis en Jeanneke Pis liggen een paar minuten uit elkaar. Van Manneken Pis naar Het Zinneke wandel je ongeveer 8 minuten, en de Grote Markt ligt ongeveer 10 minuten van Het Zinneke."
+      },
+      {
+        "question": "Zijn de drie beelden gratis te bezoeken?",
+        "answer": "Ja. Alle drie staan op openbare straten zonder ticket, zonder hek en zonder openingsuren."
+      },
+      {
+        "question": "Welk Pis-beeld is het oudst?",
+        "answer": "Manneken Pis, voor het eerst geplaatst in 1619. Jeanneke Pis dateert uit 1987 en Het Zinneke uit 1999."
+      },
+      {
+        "question": "Waar is het het rustigst van de drie?",
+        "answer": "Het Zinneke in de Kartuizersstraat is meestal het rustigst. Ook Jeanneke Pis ziet veel minder volk dan Manneken Pis."
+      },
+      {
+        "question": "Hoe lang duurt het om de drie te zien?",
+        "answer": "Ongeveer 45 tot 60 minuten wandelen als je niet talmt, of tot twee uur met fotostops en een terraspauze."
+      }
+    ]
+  },
+  "topicRoute": {
+    "pageTitle": "Zinneke Pis naar Manneken Pis: afstand, wandelroute & kaart",
+    "pageDescription": "Hoe ver Zinneke Pis van Manneken Pis ligt in Brussel: ongeveer 0,6 km en 8 minuten wandelen, met stap-voor-stap straten, alternatieven en hoe je Jeanneke Pis en de Grote Markt meeneemt.",
+    "title": "Zinneke Pis naar Manneken Pis",
+    "intro": "Zinneke Pis (Het Zinneke) en Manneken Pis liggen dicht genoeg bij elkaar voor één korte wandeling. De route loopt van de Kartuizersstraat door de winkelstraten naar de Stoofstraat naast de Grote Markt, en is vrijwel volledig vlak.",
+    "factsTitle": "Afstand en tijd",
+    "facts": [
+      {
+        "label": "Wandelafstand",
+        "value": "Ongeveer 0,6 km van de Kartuizersstraat 35 naar de Stoofstraat, afhankelijk van het voetpad dat je volgt."
+      },
+      {
+        "label": "Wandeltijd",
+        "value": "Ongeveer 8 minuten op normaal tempo, of 10 tot 15 minuten met fotostops en straatoversteken."
+      },
+      {
+        "label": "Moeilijkheidsgraad",
+        "value": "Vlakke, geplaveide stadsstraten. Geschikt voor rolstoelen en kinderwagens, al zijn de voetpaden 's namiddags druk."
+      },
+      {
+        "label": "Alternatief",
+        "value": "Er is geen zinvolle tussenstop met het openbaar vervoer: wandelen is korter dan wachten op een tram."
+      },
+      {
+        "label": "Jeanneke Pis erbij",
+        "value": "Vanaf Manneken Pis loop je verder de Impasse de la Fidélité in, ongeveer 2 minuten extra."
+      }
+    ],
+    "stepsTitle": "Wandelbeschrijving",
+    "steps": [
+      "Verlaat Het Zinneke bij Kartuizersstraat 35 in noordelijke richting langs de straat",
+      "Loop verder richting Nieuwstraat, de belangrijkste winkelstraat van het centrum",
+      "Volg de Nieuwstraat zuidwaarts langs de winkelpanden",
+      "Ga richting het Munthof en vervolg het zuidelijke deel van de Nieuwstraat",
+      "Draai richting Grasmarkt of Kleerkopersstraat om naar de oude kern te gaan",
+      "Sla in op de Stoofstraat — Manneken Pis staat op de hoek",
+      "Optioneel: loop door naar de Impasse de la Fidélité voor Jeanneke Pis"
+    ],
+    "faqTitle": "Vragen over de wandeling",
+    "faq": [
+      {
+        "question": "Hoe ver ligt Zinneke Pis van Manneken Pis?",
+        "answer": "Ongeveer 0,6 km, ofwel een kleine 8 minuten wandelen over vlakke stadsstraten."
+      },
+      {
+        "question": "Kan je van Zinneke Pis naar Manneken Pis wandelen?",
+        "answer": "Ja. De volledige route loopt over openbare voetpaden en duurt geen tien minuten. Het is de eenvoudigste manier om de twee beelden te verbinden."
+      },
+      {
+        "question": "Is er een metro of tram tussen beide?",
+        "answer": "Openbaar vervoer is op zo'n korte afstand de moeite niet, maar metrostation De Brouckère is het dichtstbijzijnde station en ligt tussen de twee beelden in."
+      },
+      {
+        "question": "Hoe geraak ik van Zinneke Pis bij Jeanneke Pis?",
+        "answer": "Wandel eerst naar Manneken Pis (ongeveer 8 minuten) en loop dan door naar de Impasse de la Fidélité, ongeveer 2 minuten verder."
+      },
+      {
+        "question": "Is de route rolstoeltoegankelijk?",
+        "answer": "De straten zijn geplaveid en vlak, maar voetpaden in het centrum zijn op plaatsen smal en druk. Reken 's namiddags op extra tijd."
+      },
+      {
+        "question": "Wat ligt er nog onderweg?",
+        "answer": "De winkelstraat Nieuwstraat, het Munthof en uiteindelijk de Grote Markt, op ongeveer 10 minuten van Het Zinneke."
       }
     ]
   }

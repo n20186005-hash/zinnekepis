@@ -2,6 +2,9 @@ import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
 import { routing } from '@/i18n/routing';
+import { SITE_URL, hreflangAlternates, localizedPath } from '@/lib/site';
+
+const PATH = '/cookie-settings';
 
 export async function generateMetadata({
   params,
@@ -9,15 +12,12 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://zinnekepis.com';
 
   return {
+    metadataBase: new URL(SITE_URL),
     alternates: {
-      canonical: `${baseUrl}/${locale}/cookie-settings`,
-      languages: Object.fromEntries([
-        ...routing.locales.map((loc) => [loc, `${baseUrl}/${loc}/cookie-settings`]),
-        ['x-default', `${baseUrl}/${routing.defaultLocale}/cookie-settings`],
-      ]),
+      canonical: localizedPath(locale, PATH),
+      languages: hreflangAlternates(routing.locales, PATH),
     },
   };
 }

@@ -2,13 +2,14 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { GALLERY_IMAGES } from '@/lib/site';
 
 export default function Gallery() {
   const t = useTranslations('gallery');
   const captions = t.raw('captions') as string[];
   const photos = captions.map((caption, i) => ({
-    src: `/gallery/zinnekepis (${i + 1}).jpg`,
-    alt: caption
+    src: GALLERY_IMAGES[i] ?? GALLERY_IMAGES[0],
+    alt: caption,
   }));
 
   const [currentIndex, setCurrentIndex] = useState(0);

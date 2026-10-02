@@ -7,8 +7,9 @@ import { useState, useRef, useEffect } from 'react';
 
 const labels: Record<string, string> = {
   nl: 'Nederlands',
-  zh: '中文',
   en: 'English',
+  fr: 'Français',
+  zh: '中文',
 };
 
 export default function LanguageToggle() {

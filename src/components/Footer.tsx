@@ -3,6 +3,7 @@ import { useLocale } from 'next-intl';
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const tt = useTranslations('topics');
   const locale = useLocale();
   const prefix = `/${locale}`;
 
@@ -38,7 +39,16 @@ export default function Footer() {
               </a>
             </div>
           </div>
-          <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+          <div className="flex flex-col gap-4 text-sm">
+            <div className="flex flex-col gap-2">
+              <a href={`${prefix}/brussels-pis-statues`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {tt('statues.linkTitle')}
+              </a>
+              <a href={`${prefix}/zinneke-pis-to-manneken-pis`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {tt('route.linkTitle')}
+              </a>
+            </div>
+            <div className="flex flex-wrap gap-4">
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>
@@ -48,6 +58,7 @@ export default function Footer() {
             <a href={`${prefix}/cookie-settings`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('cookies')}
             </a>
+            </div>
           </div>
         </div>
 

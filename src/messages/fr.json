@@ -1,0 +1,534 @@
+{
+  "header": {
+    "home": "Accueil",
+    "gallery": "Photos",
+    "reviews": "Avis",
+    "map": "Carte",
+    "backToHome": "Retour à l'accueil"
+  },
+  "hero": {
+    "title": "Zinneke Pis",
+    "h1": "Zinneke Pis (Het Zinneke) à Bruxelles",
+    "subtitle": "Le chien de bronze qui fait pipi, rue des Chartreux — adresse exacte, carte et histoire de la troisième statue Pis de Bruxelles.",
+    "imageAlt": "Het Zinneke (Zinneke Pis), statue de bronze représentant un chien qui fait pipi, rue des Chartreux à Bruxelles",
+    "reviewsLabel": "avis",
+    "type": "Attraction touristique · Œuvre d'art gratuite",
+    "openMaps": "Ouvrir dans Google Maps"
+  },
+  "location": {
+    "title": "Où se trouve Zinneke Pis ?",
+    "answer": "Zinneke Pis se dresse sur le trottoir, devant le numéro 35 de la rue des Chartreux, dans le centre de Bruxelles, au cœur du quartier des Chartreux. C'est une petite sculpture en bronze adossée à un lampadaire, à environ 10 minutes de marche de la Grand-Place.",
+    "addressLabel": "Adresse",
+    "addressValue": "Rue des Chartreux 35, 1000 Bruxelles, Belgique",
+    "plusCodeLabel": "Plus Code",
+    "coordinatesLabel": "Coordonnées",
+    "walkFromGrandPlaceLabel": "Depuis la Grand-Place",
+    "walkFromGrandPlaceValue": "Environ 10 minutes par la rue au Beurre et la rue des Chartreux",
+    "openMaps": "Ouvrir dans Google Maps",
+    "freeLabel": "Entrée",
+    "freeValue": "Gratuite — une statue dans la rue, sans billet, visible à toute heure"
+  },
+  "intro": {
+    "title": "À propos de Zinneke Pis",
+    "breadcrumbs": "Het Zinneke → Bruxelles → Région de Bruxelles-Capitale → Belgique",
+    "firstParagraph": "Le <strong>Het Zinneke</strong>, plus connu sous le nom de <strong>Zinneke Pis</strong>, est la célèbre statue de bronze du chien qui fait pipi, installée <strong>rue des Chartreux</strong> dans le centre de <strong>Bruxelles</strong>. Elle est petite, presque à hauteur de genou au pied d'un lampadaire, et il est facile de passer devant sans la remarquer.",
+    "nearbyText": "Depuis la statue, comptez environ 8 minutes à pied jusqu'au <strong>Manneken Pis</strong>, environ 10 minutes jusqu'à la <strong>Grand-Place</strong> et environ 12 minutes jusqu'au <strong>Jeanneke Pis</strong> : elle s'intègre naturellement dans une courte boucle autour du centre.",
+    "description": "Het Zinneke montre un chien des rues, l'air un peu dégingandé, qui lève la patte contre un lampadaire. L'œuvre a été réalisée en 1999 par le sculpteur bruxellois Tom Frantzen et complète le trio de statues « Pis » du centre, aux côtés du Manneken Pis (1619) et de la Jeanneke Pis (1987).\n\nLe mot « Zinneke » vient du dialecte bruxellois et désignait un chien bâtard, issu du croisement entre un chien de la ville et un chien de village. Les Bruxellois emploient volontiers ce mot pour parler d'eux-mêmes. C'est pourquoi la statue se lit moins comme un monument officiel que comme un clin d'œil à la vie quotidienne de la ville.\n\nLa plupart des visiteurs restent cinq à dix minutes. Il n'y a rien à acheter ni aucune barrière : le chien se tient simplement sur une rue étroite bordée de cafés, de commerces de bouche et de pavés, à deux pas des grandes rues commerçantes mais nettement plus calme.",
+    "visitGuide": {
+      "title": "Comment la visiter",
+      "items": [
+        "Gratuite et accessible à tout moment : pas de billet, pas de grille, pas d'horaires",
+        "Environ 10 minutes de marche depuis la Grand-Place par la rue au Beurre et la rue des Chartreux",
+        "La plupart des visiteurs restent 5 à 10 minutes : il n'y a aucune file d'attente",
+        "Le matin est le moment le plus calme pour photographier la statue sans personne dans le cadre",
+        "À combiner avec le Manneken Pis (8 min), la Jeanneke Pis (12 min) et la Grand-Place (10 min)"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Aussi appelée",
+      "items": [
+        "Het Zinneke",
+        "Zinneke Pis",
+        "Zinneke-Pis"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Histoire et signification de Het Zinneke",
+    "sections": [
+      {
+        "id": "dog-statue",
+        "title": "Quelle est la statue du chien qui fait pipi à Bruxelles ?",
+        "content": "La célèbre statue du chien qui fait pipi à Bruxelles est Het Zinneke, plus connue sous le nom de Zinneke Pis. Il s'agit d'une sculpture en bronze représentant un chien bâtard urinant contre un lampadaire, installée en 1999 rue des Chartreux, à environ 10 minutes de marche de la Grand-Place.\n\nElle est beaucoup plus petite que la plupart des visiteurs ne l'imaginent — à peu près la taille d'un vrai chien. Regardez donc au pied du lampadaire plutôt que vers les façades. Le nom officiel dans Google Maps est « Het Zinneke », ce qui explique pourquoi une recherche en néerlandais renvoie les photos du même chien de bronze."
+      },
+      {
+        "id": "meaning",
+        "title": "Que signifie « Zinneke » ?",
+        "content": "En dialecte bruxellois, un « Zinneke » était un chien bâtard : le résultat du croisement entre un chien de la ville et un chien de village, un animal d'origine mêlée. « Zinne » renvoie lui-même à la Senne, la rivière qui traverse la ville.\n\nLe mot est devenu un surnom pour la population métissée de Bruxelles et pour l'identité brusseleir — ni tout à fait néerlandophone, ni tout à fait francophone. C'est tout le sel de cette statue : un petit chien bâtard est un emblème plus honnête de Bruxelles que n'importe quel monument officiel."
+      },
+      {
+        "id": "history",
+        "title": "Histoire et création",
+        "content": "Het Zinneke a été créé en 1999 par Tom Frantzen, un sculpteur bruxellois connu pour ses animaux de bronze pleins d'humour. Visit Brussels recense l'œuvre parmi l'art public contemporain du quartier des Chartreux.\n\nFrantzen a donné au chien une pose volontairement relâchée, saisie en plein mouvement, si bien que la statue se lit comme un instantané plutôt que comme un monument solennel. Elle repose directement sur la chaussée, sans socle, et l'on peut s'en approcher de très près."
+      },
+      {
+        "id": "trilogy",
+        "title": "Les trois statues Pis de Bruxelles",
+        "content": "Zinneke Pis est la troisième des statues « Pis » de Bruxelles :\n\n1. Manneken Pis (1619) — le petit garçon, le plus célèbre des trois\n2. Jeanneke Pis (1987) — la petite fille, dans l'impasse de la Fidélité\n3. Het Zinneke / Zinneke Pis (1999) — le chien, le plus récent des trois\n\nElles sont toutes à moins d'un quart d'heure de marche les unes des autres, ce qui permet de les voir dans une seule boucle qui part et se termine à la Grand-Place."
+      },
+      {
+        "id": "artist",
+        "title": "À propos de l'artiste",
+        "content": "Tom Frantzen (né en 1954) est un sculpteur belge dont les œuvres publiques peuplent Bruxelles et d'autres villes du pays : animaux, figures et groupes fontaines. Son style est narratif et souvent comique, avec un mouvement exagéré pour rester lisible de loin.\n\nHet Zinneke est sa création la plus connue à petite échelle, précisément parce qu'elle est installée à hauteur d'œil dans une rue où passent chaque jour des milliers de personnes."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informations pratiques sur Het Zinneke (Zinneke Pis)",
+    "officialName": "Nom officiel / nom de la fiche",
+    "type": "Type d'attraction",
+    "typeValue": "Statue de bronze, attraction touristique, œuvre d'art publique",
+    "alsoKnownAs": "Autres noms",
+    "country": "Pays",
+    "countryValue": "Belgique",
+    "city": "Ville",
+    "cityValue": "Bruxelles (Région de Bruxelles-Capitale)",
+    "createdBy": "Créée par",
+    "googleRating": "Note Google Maps",
+    "reviewsSuffix": "avis",
+    "address": "Adresse",
+    "addressValue": "Rue des Chartreux 35, 1000 Bruxelles, Belgique",
+    "ratingNote": "La note et le nombre d'avis sont un instantané de la fiche Google Maps publique de Het Zinneke et peuvent évoluer dans le temps. Vérifié pour la dernière fois en octobre 2026."
+  },
+  "hours": {
+    "title": "Visiter Zinneke Pis",
+    "park": "Accès",
+    "parkTime": "Gratuite et visible à toute heure — elle se trouve sur une voie publique",
+    "bestTime": "Meilleur moment de la journée",
+    "bestTimeSpring": "Matin (8 h – 10 h) : rue la plus calme et lumière nette sur le bronze",
+    "bestTimeSummer": "Soirée (18 h – 20 h) : lumière plus chaude, terrasses ouvertes à proximité",
+    "bestTimeAutumn": "Après-midi (14 h – 16 h) : température agréable pour faire toute la boucle des Pis",
+    "bestTimeWinter": "Midi (11 h – 14 h) : la meilleure lumière naturelle pendant les mois sombres",
+    "tip": "Il s'agit d'une rue ouverte à la circulation, pas d'une zone piétonne. Restez sur le trottoir lorsque vous reculez pour cadrer une photo."
+  },
+  "tickets": {
+    "title": "Billets et prix",
+    "park": "Voir la statue",
+    "parkPrice": "Gratuité totale, aucun billet nécessaire",
+    "guided": "Visite en autonomie",
+    "guidedPrice": "Cinq à dix minutes sur place suffisent ; aucun guide, aucune réservation.",
+    "parking": "Stationnement",
+    "parkingPrice": "Peu de places dans la rue. Les parkings de la Grand-Place et de De Brouckère sont à quelques minutes, et la station de métro De Brouckère est à environ 8 minutes à pied."
+  },
+  "transport": {
+    "title": "Comment rejoindre Zinneke Pis",
+    "fromCenter": "Depuis la Grand-Place — 10 minutes",
+    "fromCenterDesc": "Quittez la Grand-Place par la rue au Beurre, continuez par la rue des Bouchers ou la rue Grétry, puis tournez dans la rue des Chartreux. Le chien est sur le trottoir, au numéro 35.",
+    "fromStation": "Depuis la gare de Bruxelles-Central — 15 minutes",
+    "fromStationDesc": "Depuis la gare, rejoignez la Grand-Place, puis suivez la rue au Beurre et la rue des Chartreux. Comptez environ 15 minutes à allure normale.",
+    "publicTransport": "Transports en commun",
+    "publicTransportDesc": "Les lignes de métro 1 et 5 s'arrêtent à De Brouckère, à environ 8 minutes à pied. Plusieurs lignes de bus s'arrêtent à De Brouckère ou à la Bourse, juste au sud de la statue.",
+    "walking": "Boucle à pied",
+    "walkingDesc": "Grand-Place → Manneken Pis → Jeanneke Pis → Het Zinneke → Grand-Place se fait en 45 à 60 minutes sans courir.",
+    "driving": "En voiture",
+    "drivingDesc": "La rue est étroite et le centre de Bruxelles est une zone de basses émissions. Garer sous la Grand-Place ou à De Brouckère puis continuer à pied est plus simple.",
+    "fromAirport": "Depuis l'aéroport de Bruxelles",
+    "fromAirportDesc": "Le train jusqu'à Bruxelles-Central prend environ 20 minutes, puis comptez 15 minutes de marche, ou descendez d'une station de métro jusqu'à De Brouckère et finissez à pied."
+  },
+  "route": {
+    "title": "Boucle pédestre recommandée autour de Zinneke Pis",
+    "overview": "Partez de la Grand-Place, ajoutez les deux autres statues Pis et terminez dans le centre. Avec les arrêts photo et une pause café, la boucle prend environ deux heures.",
+    "steps": [
+      "Commencez à la Grand-Place et admirez l'hôtel de ville et les maisons des corporations",
+      "Descendez vers le Manneken Pis par la rue de l'Étuve (environ 8 minutes)",
+      "Engagez-vous dans l'impasse de la Fidélité pour la Jeanneke Pis (environ 2 minutes)",
+      "Remontez vers le nord par les rues commerçantes jusqu'au quartier des Chartreux",
+      "Trouvez Het Zinneke au numéro 35 et prenez vos photos (environ 8 minutes depuis le Manneken Pis)",
+      "Flânez dans le quartier des Chartreux entre commerces de bouche, cafés et pavés",
+      "Revenez vers la Grand-Place par la rue des Bouchers (environ 10 minutes)",
+      "Terminez en terrasse sur la Grand-Place avec une gaufre ou une bière belge"
+    ]
+  },
+  "topics": {
+    "title": "À lire ensuite",
+    "statues": {
+      "linkTitle": "Les 3 célèbres statues Pis de Bruxelles",
+      "linkIntro": "Manneken Pis, Jeanneke Pis et Het Zinneke comparés, avec les distances entre chacune."
+    },
+    "route": {
+      "linkTitle": "Itinéraire à pied Zinneke Pis – Manneken Pis",
+      "linkIntro": "Distance, durée et rues à suivre pour relier les deux statues à pied."
+    }
+  },
+  "photoSpots": {
+    "title": "Où photographier Zinneke Pis",
+    "spots": [
+      {
+        "name": "Vue de face",
+        "desc": "Placez-vous sur le trottoir devant le chien pour cadrer toute sa silhouette contre le lampadaire"
+      },
+      {
+        "name": "Angle de côté",
+        "desc": "Une vue de profil met en valeur la patte levée et les détails de bronze le long du corps"
+      },
+      {
+        "name": "Gros plan sur le bronze",
+        "desc": "Approchez-vous de la tête et de la queue repliée : une courte focale suffit"
+      },
+      {
+        "name": "Avec le lampadaire",
+        "desc": "Cadrez le lampadaire entier pour restituer la composition voulue par le sculpteur"
+      },
+      {
+        "name": "Dans le décor de la rue",
+        "desc": "Traversez et élargissez le cadre pour replacer la statue dans le quartier des Chartreux"
+      },
+      {
+        "name": "À la nuit tombée",
+        "desc": "L'éclairage public fait ressortir le bronze, mais le manque de lumière demande une sensibilité plus haute ou un trépied"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Où dormir près de Zinneke Pis",
+    "hotels": [
+      {
+        "name": "Hôtels-boutiques près de la Grand-Place",
+        "desc": "À moins de dix minutes à pied de la statue, au plus près des principaux sites du centre.",
+        "price": "~120-250 €/nuit"
+      },
+      {
+        "name": "Hôtels de chaîne milieu de gamme",
+        "desc": "Options pratiques autour de De Brouckère et des boulevards, avec un accès métro facile.",
+        "price": "~80-120 €/nuit"
+      },
+      {
+        "name": "Chambres d'hôtes",
+        "desc": "Une façon plus tranquille de séjourner dans les rues résidentielles bruxelloises.",
+        "price": "~60-100 €/nuit"
+      },
+      {
+        "name": "Hôtels de patrimoine",
+        "desc": "Immeubles historiques restaurés dans les parties les plus anciennes du centre.",
+        "price": "~150-300 €/nuit"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photos de Zinneke Pis",
+    "subtitle": "Het Zinneke, rue des Chartreux, 1000 Bruxelles — vues de face, de côté et détails",
+    "captions": [
+      "Het Zinneke (Zinneke Pis), statue de bronze du chien rue des Chartreux à Bruxelles",
+      "Gros plan sur la tête en bronze et la queue repliée de Het Zinneke",
+      "Vue de côté de Zinneke Pis levant la patte contre le lampadaire",
+      "Het Zinneke et son lampadaire devant le numéro 35 de la rue des Chartreux",
+      "Profil de la statue Zinneke Pis révélant le travail du bronze",
+      "Scène de rue rue des Chartreux avec Het Zinneke à Bruxelles",
+      "Détails et patine du bronze de la sculpture Zinneke Pis",
+      "Rue pavée bordant Het Zinneke dans le quartier des Chartreux",
+      "Ambiance quotidienne du quartier autour de Zinneke Pis dans le centre de Bruxelles",
+      "Het Zinneke un jour de froid hivernal à 1000 Bruxelles",
+      "Zinneke Pis éclairée par le lampadaire à la tombée du jour à Bruxelles"
+    ],
+    "viewAll": "Plus de photos sur Google Maps",
+    "showAll": "Voir toutes les photos",
+    "showLess": "Voir moins"
+  },
+  "ratings": {
+    "title": "Note Google Maps de Zinneke Pis",
+    "reviewCount": "{count} avis Google Maps",
+    "sourceNote": "Ce chiffre est un instantané de la fiche Google Maps publique de Het Zinneke et varie dans le temps. Ce site ne collecte pas d'avis et ne peut pas vérifier les avis individuels : consultez-les sur Google Maps.",
+    "cta": "Voir les notes et avis actuels sur Google Maps"
+  },
+  "faq": {
+    "title": "Questions fréquentes sur Zinneke Pis",
+    "items": [
+      {
+        "question": "Où se trouve Zinneke Pis ?",
+        "answer": "Zinneke Pis se dresse devant le numéro 35 de la rue des Chartreux, 1000 Bruxelles, dans le quartier des Chartreux, à environ 10 minutes de marche de la Grand-Place. Plus Code : R8XW+G7 Bruxelles."
+      },
+      {
+        "question": "La visite de Zinneke Pis est-elle gratuite ?",
+        "answer": "Oui. Het Zinneke est une statue installée dans l'espace public, sans billet, sans grille et sans horaires : vous pouvez la voir à n'importe quelle heure."
+      },
+      {
+        "question": "Quand Zinneke Pis a-t-il été créé ?",
+        "answer": "Le bronze a été réalisé en 1999 par le sculpteur bruxellois Tom Frantzen, selon Visit Brussels."
+      },
+      {
+        "question": "Comment s'appelle la statue du chien qui fait pipi à Bruxelles ?",
+        "answer": "Elle s'appelle Het Zinneke et porte aussi le nom de Zinneke Pis. Sa fiche Google Maps utilise « Het Zinneke », alors que « Zinneke Pis » est le nom que recherchent la plupart des visiteurs."
+      },
+      {
+        "question": "Que signifie « Zinneke » ?",
+        "answer": "En dialecte bruxellois, un « Zinneke » était un chien bâtard, issu du croisement entre un chien de la ville et un chien de village. Le mot est devenu un surnom pour la population mêlée de Bruxelles et pour l'identité brusseleir."
+      },
+      {
+        "question": "Comment rejoindre Zinneke Pis depuis la Grand-Place ?",
+        "answer": "Quittez la Grand-Place par la rue au Beurre, continuez vers le nord et tournez dans la rue des Chartreux. La statue est sur le trottoir au numéro 35, à environ 10 minutes. Le métro De Brouckère est à environ 8 minutes à pied."
+      },
+      {
+        "question": "Combien de temps prévoir sur place ?",
+        "answer": "La plupart des visiteurs restent cinq à dix minutes. Il n'y a ni file d'attente ni espace intérieur : combinez la statue avec le Manneken Pis, la Jeanneke Pis et la Grand-Place en une seule promenade."
+      },
+      {
+        "question": "Le Manneken Pis et la Jeanneke Pis sont-ils à proximité ?",
+        "answer": "Oui. Le Manneken Pis est à environ 8 minutes de marche, la Jeanneke Pis à environ 12 minutes et la Grand-Place à environ 10 minutes. On peut donc voir les trois dans une même boucle."
+      },
+      {
+        "question": "Peut-on prendre des photos de Zinneke Pis ?",
+        "answer": "Oui, la photographie est libre et sans restriction. Le matin est le moment le plus calme, et comme la statue se trouve sur une rue circulée, restez sur le trottoir pour composer votre image."
+      }
+    ]
+  },
+  "footer": {
+    "rights": "© 2026 Projet d'information indépendant sur Zinneke Pis · Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Paramètres des cookies",
+    "officialResourcesTitle": "Sources officielles et de référence",
+    "officialLinks": {
+      "belgium": "Belgique",
+      "brussels": "Ville de Bruxelles",
+      "brusselsRegion": "Région de Bruxelles-Capitale",
+      "visitBrussels": "Visit Brussels",
+      "belgiumDiplomacy": "Diplomatie belge"
+    },
+    "disclaimer": "Ce site est un projet d'information touristique indépendant, non affilié à la Ville de Bruxelles ni à une autorité publique. Les notes sont un instantané de la fiche Google Maps publique et peuvent changer."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : octobre 2026",
+    "sections": [
+      {
+        "heading": "1. Données collectées",
+        "content": "Ce site n'exige aucune inscription et ne demande pas de données personnelles. Nous n'établissons pas de profils individuels de visiteurs."
+      },
+      {
+        "heading": "2. Cookies",
+        "content": "Les cookies essentiels conservent votre choix de langue et de thème. Les cookies d'analyse ou de publicité ne sont chargés qu'après votre accord sur la page des paramètres."
+      },
+      {
+        "heading": "3. Services tiers",
+        "content": "Le contenu Google Maps intégré et les éventuels prestataires d'analyse ou de publicité sont des tiers soumis à leurs propres règles de confidentialité."
+      },
+      {
+        "heading": "4. Contact et modifications",
+        "content": "Nous pouvons mettre à jour cette politique lorsque le site évolue. La date en haut de page indique la dernière révision."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : octobre 2026",
+    "sections": [
+      {
+        "heading": "1. Nature du site",
+        "content": "Ce site est un projet d'information touristique indépendant. Il n'est pas le site officiel d'un office du tourisme et n'est affilié à aucune autorité publique."
+      },
+      {
+        "heading": "2. Exactitude des informations",
+        "content": "Les données pratiques telles que les notes et le nombre d'avis sont des instantanés issus de sources publiques et peuvent changer. Vérifiez toujours les informations pratiques auprès de l'exploitant officiel avant de voyager."
+      },
+      {
+        "heading": "3. Usage autorisé",
+        "content": "Vous pouvez lire ce site et partager des liens vers celui-ci. La copie systématique de ses pages ou de son contenu en vue d'une republication est interdite."
+      },
+      {
+        "heading": "4. Responsabilité",
+        "content": "Les informations sont fournies à titre d'orientation générale. Nous déclinons toute responsabilité pour les préjudices liés à leur utilisation."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Paramètres des cookies",
+    "description": "Choisissez les cookies que ce site peut utiliser.",
+    "essential": {
+      "title": "Cookies essentiels",
+      "description": "Nécessaires à la langue, au thème et aux fonctions de base. Ils ne peuvent pas être désactivés.",
+      "badge": "Toujours actifs"
+    },
+    "analytics": {
+      "title": "Cookies d'analyse",
+      "description": "Nous aident à comprendre, de façon agrégée, comment les pages sont utilisées."
+    },
+    "marketing": {
+      "title": "Cookies publicitaires",
+      "description": "Servent à mesurer et à limiter la publicité affichée sur le site."
+    },
+    "save": "Enregistrer mes préférences",
+    "saved": "Préférences enregistrées !"
+  },
+  "officialManagement": {
+    "title": "Sources et notes",
+    "text": "Notes de vérification de cette page.\n\n• Le nom et l'année de création proviennent de Visit Brussels, qui répertorie Het Zinneke (Zinneke-Pis) comme une œuvre de Tom Frantzen datée de 1999, rue des Chartreux 35.\n\n• L'adresse, le Plus Code et les liens de carte suivent la fiche Google Maps publique de Het Zinneke.\n\n• La note et le nombre d'avis affichés ci-dessus sont un instantané de cette fiche, relevé en octobre 2026, et peuvent différer par la suite.\n\nLorsque d'anciennes pages web mentionnent 1998, les informations officielles actuelles indiquent 1999."
+  },
+  "recommendations": {
+    "title": "Planifiez le reste de la balade",
+    "attractionsTitle": "Statues à proximité",
+    "toursTitle": "Liens officiels et de référence",
+    "attractions": [
+      {
+        "name": "Manneken Pis — le petit garçon (1619)",
+        "url": "/brussels-pis-statues"
+      },
+      {
+        "name": "Jeanneke Pis — la petite fille (1987)",
+        "url": "/brussels-pis-statues"
+      },
+      {
+        "name": "Itinéraire à pied : Zinneke Pis vers Manneken Pis",
+        "url": "/zinneke-pis-to-manneken-pis"
+      },
+      {
+        "name": "Musée de la Ville de Bruxelles (site officiel)",
+        "url": "https://www.brusselscitymuseum.brussels/"
+      }
+    ],
+    "tours": [
+      {
+        "name": "Visit Brussels — portail touristique officiel",
+        "url": "https://visitbrussels.be/"
+      },
+      {
+        "name": "Fiche Visit Brussels de Het Zinneke",
+        "url": "https://www.visit.brussels/en/visitors/venue-details.Zinneke-Pis.50001051"
+      },
+      {
+        "name": "Fiche Google Maps de Het Zinneke",
+        "url": "https://maps.app.goo.gl/JYWuyur9ydE1bJCF7"
+      },
+      {
+        "name": "Site officiel de la Ville de Bruxelles",
+        "url": "https://www.brussels.be/"
+      }
+    ]
+  },
+  "topicStatues": {
+    "pageTitle": "Les 3 célèbres statues Pis de Bruxelles : Manneken, Jeanneke et Zinneke Pis",
+    "pageDescription": "Comparez les trois statues Pis de Bruxelles : Manneken Pis (1619), Jeanneke Pis (1987) et Het Zinneke / Zinneke Pis (1999). Emplacements, distances à pied et une boucle pour les voir toutes les trois.",
+    "title": "Les 3 célèbres statues Pis de Bruxelles",
+    "intro": "Bruxelles compte trois statues célèbres pour la même raison. Manneken Pis est le petit garçon que tout le monde photographie, Jeanneke Pis est la petite fille nichée dans une impasse, et Het Zinneke — plus connu sous le nom de Zinneke Pis — est le chien. Elles sont toutes à moins d'un quart d'heure de marche les unes des autres : une seule boucle suffit pour les trois.",
+    "factsTitle": "Les trois statues en un coup d'œil",
+    "facts": [
+      {
+        "label": "Manneken Pis",
+        "value": "1619 · rue de l'Étuve / rue du Chêne, près de la Grand-Place. Figure de bronze d'environ 61 cm et le point le plus photographié de la ville."
+      },
+      {
+        "label": "Jeanneke Pis",
+        "value": "1987 · impasse de la Fidélité, une petite ruelle proche du Manneken Pis. Plus petite et nettement plus tranquille que le garçon."
+      },
+      {
+        "label": "Het Zinneke / Zinneke Pis",
+        "value": "1999 · rue des Chartreux 35, dans le quartier des Chartreux. Un chien bâtard de bronze qui lève la patte contre un lampadaire, à environ 10 minutes de marche de la Grand-Place."
+      },
+      {
+        "label": "Distance totale à parcourir",
+        "value": "Environ 2 km pour une boucle depuis la Grand-Place incluant les trois statues, soit 45 à 60 minutes à allure confortable."
+      }
+    ],
+    "stepsTitle": "Un ordre qui fonctionne",
+    "steps": [
+      "Commencez à la Grand-Place, point de repère évident du centre",
+      "Rejoignez le Manneken Pis par la rue de l'Étuve (2 minutes)",
+      "Engagez-vous dans l'impasse de la Fidélité pour la Jeanneke Pis (2 minutes)",
+      "Remontez vers le nord par les rues commerçantes jusqu'au quartier des Chartreux",
+      "Terminez par Het Zinneke au 35 rue des Chartreux (environ 8 minutes depuis le Manneken Pis)",
+      "Revenez à la Grand-Place en 10 minutes pour boucler la promenade"
+    ],
+    "faqTitle": "Questions sur les statues Pis",
+    "faq": [
+      {
+        "question": "Comment s'appellent les trois statues Pis de Bruxelles ?",
+        "answer": "Manneken Pis (le garçon, 1619), Jeanneke Pis (la fille, 1987) et Het Zinneke, aussi appelé Zinneke Pis (le chien, 1999)."
+      },
+      {
+        "question": "Quelle distance sépare les trois statues Pis ?",
+        "answer": "Le Manneken Pis et la Jeanneke Pis sont à quelques minutes l'une de l'autre. Du Manneken Pis à Het Zinneke, comptez environ 8 minutes de marche, et la Grand-Place se trouve à environ 10 minutes de Het Zinneke."
+      },
+      {
+        "question": "Les trois statues sont-elles gratuites ?",
+        "answer": "Oui. Elles se trouvent toutes sur la voie publique, sans billet, sans grille et sans horaires."
+      },
+      {
+        "question": "Laquelle est la plus ancienne ?",
+        "answer": "Le Manneken Pis, installé pour la première fois en 1619. La Jeanneke Pis date de 1987 et Het Zinneke de 1999."
+      },
+      {
+        "question": "Laquelle est la moins fréquentée ?",
+        "answer": "Het Zinneke, rue des Chartreux, est généralement la plus tranquille. La Jeanneke Pis attire aussi bien moins de monde que le Manneken Pis."
+      },
+      {
+        "question": "Combien de temps faut-il pour voir les trois ?",
+        "answer": "Environ 45 à 60 minutes de marche si vous ne traînez pas, jusqu'à deux heures avec les arrêts photo et une pause en terrasse."
+      }
+    ]
+  },
+  "topicRoute": {
+    "pageTitle": "Zinneke Pis – Manneken Pis : distance, itinéraire à pied et carte",
+    "pageDescription": "Distance entre Zinneke Pis et Manneken Pis à Bruxelles : environ 0,6 km et 8 minutes de marche, avec les rues à suivre, les alternatives et comment y ajouter Jeanneke Pis et la Grand-Place.",
+    "title": "De Zinneke Pis au Manneken Pis",
+    "intro": "Zinneke Pis (Het Zinneke) et le Manneken Pis sont assez proches pour être réunis dans une seule courte promenade. L'itinéraire part de la rue des Chartreux, traverse les rues commerçantes et rejoint la rue de l'Étuve, près de la Grand-Place, sur un parcours presque entièrement plat.",
+    "factsTitle": "Distance et durée",
+    "facts": [
+      {
+        "label": "Distance à pied",
+        "value": "Environ 0,6 km entre le 35 rue des Chartreux et la rue de l'Étuve, selon le trottoir emprunté."
+      },
+      {
+        "label": "Durée de marche",
+        "value": "Environ 8 minutes à allure normale, ou 10 à 15 minutes avec les arrêts photo et les traversées."
+      },
+      {
+        "label": "Difficulté",
+        "value": "Rues pavées et plates. Accessible aux fauteuils roulants et aux poussettes, même si les trottoirs sont animés l'après-midi."
+      },
+      {
+        "label": "Alternative",
+        "value": "Aucun trajet en transports en commun n'est vraiment utile : la marche est plus courte que l'attente d'un tram."
+      },
+      {
+        "label": "Ajouter la Jeanneke Pis",
+        "value": "Depuis le Manneken Pis, poursuivez dans l'impasse de la Fidélité, environ 2 minutes de plus."
+      }
+    ],
+    "stepsTitle": "Itinéraire pas à pas",
+    "steps": [
+      "Quittez Het Zinneke au 35 rue des Chartreux en remontant la rue vers le nord",
+      "Continuez vers la rue Neuve, la principale rue commerçante du centre",
+      "Suivez la rue Neuve vers le sud en longeant les commerces",
+      "Poursuivez vers la place de la Monnaie et l'extrémité sud de la rue Neuve",
+      "Obliquez vers la rue du Marché aux Herbes ou la rue des Fripiers pour rejoindre le centre ancien",
+      "Tournez vers la rue de l'Étuve : le Manneken Pis est à l'angle",
+      "Option : poursuivez dans l'impasse de la Fidélité pour la Jeanneke Pis"
+    ],
+    "faqTitle": "Questions sur la promenade",
+    "faq": [
+      {
+        "question": "Quelle distance sépare Zinneke Pis du Manneken Pis ?",
+        "answer": "Environ 0,6 km, soit à peine 8 minutes de marche sur des rues plates."
+      },
+      {
+        "question": "Peut-on aller de Zinneke Pis au Manneken Pis à pied ?",
+        "answer": "Oui. Le trajet se fait entièrement sur des trottoirs publics et prend moins de dix minutes. C'est la façon la plus simple de relier les deux statues."
+      },
+      {
+        "question": "Y a-t-il un métro ou un tram entre les deux ?",
+        "answer": "Sur une distance aussi courte, les transports n'apportent rien de plus, mais la station De Brouckère est la plus proche et se situe entre les deux statues."
+      },
+      {
+        "question": "Comment rejoindre la Jeanneke Pis depuis Zinneke Pis ?",
+        "answer": "Rejoignez d'abord le Manneken Pis (environ 8 minutes), puis continuez dans l'impasse de la Fidélité, environ 2 minutes de plus."
+      },
+      {
+        "question": "Le trajet est-il accessible aux personnes à mobilité réduite ?",
+        "answer": "Les rues sont pavées et de plain-pied, mais certains trottoirs du centre sont étroits et fréquentés. Prévoyez un peu de temps l'après-midi."
+      },
+      {
+        "question": "Que voir sur le chemin ?",
+        "answer": "La rue Neuve et ses commerces, la place de la Monnaie, puis la Grand-Place, à environ 10 minutes de Het Zinneke."
+      }
+    ]
+  }
+}

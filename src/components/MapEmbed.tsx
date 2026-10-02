@@ -1,8 +1,5 @@
 import { useTranslations } from 'next-intl';
-
-const MAPS_EMBED_SRC =
-  'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d17935.098881751346!2d4.3266355!3d50.8487904!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c3880548ea1f%3A0x4b33b3c3e67ce1fb!2sHet%20Zinneke!5e1!3m2!1szh-CN!2s!4v1787895931776!5m2!1szh-CN!2s';
-const GOVT_TOURISM_URL = 'https://visitbrussels.be/';
+import { ATTRACTION, MAPS_EMBED_URL } from '@/lib/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
@@ -25,21 +22,21 @@ export default function MapEmbed() {
           style={{ border: '1px solid var(--map-border)' }}
         >
           <iframe
-            src={MAPS_EMBED_SRC}
+            src={MAPS_EMBED_URL}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps - Zinneke Pis, Brussels"
+            title={`Het Zinneke (Zinneke Pis) — ${ATTRACTION.streetAddress}, ${ATTRACTION.postalCode} ${ATTRACTION.addressLocality}`}
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/JYWuyur9ydE1bJCF7"
+            href={ATTRACTION.mapsUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
@@ -64,7 +61,7 @@ export default function MapEmbed() {
         >
           <span>{t('govtTourismText')}</span>
           <a
-            href={GOVT_TOURISM_URL}
+            href={ATTRACTION.officialTourismUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium underline underline-offset-4 ml-1"

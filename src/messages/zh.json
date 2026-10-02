@@ -1,383 +1,533 @@
 {
-  "meta": {
-    "title": "齐内克皮斯 Zinneke Pis｜布鲁塞尔著名小狗雕像 - 必游景点",
-    "description": "探索布鲁塞尔齐内克皮斯（Zinneke Pis）的完整指南。了解这座可爱小狗雕像的历史、位置和游览信息。毗邻著名的小尿童雕像。"
-  },
   "header": {
     "home": "首页",
     "gallery": "图库",
-    "reviews": "评价",
+    "reviews": "评分",
     "map": "地图",
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "齐内克皮斯",
-    "subtitle": "布鲁塞尔的爱心小狗雕像与城市精神的象征",
-    "rating": "4.2(6,836)",
-    "reviewCount": "6,836 条评价",
-    "type": "旅游景点 · 布鲁塞尔象征",
-    "openMaps": "查看位置"
+    "title": "Zinneke Pis",
+    "h1": "Zinneke Pis（Het Zinneke）布鲁塞尔",
+    "subtitle": "夏特勒街的青铜「尿尿狗」——布鲁塞尔第三座 Pis 雕像的确切位置、地图与历史。",
+    "imageAlt": "位于比利时布鲁塞尔夏特勒街的 Zinneke Pis（Het Zinneke）青铜尿尿狗雕像",
+    "reviewsLabel": "条评价",
+    "type": "旅游景点 · 免费公共艺术",
+    "openMaps": "在 Google 地图中打开"
+  },
+  "location": {
+    "title": "Zinneke Pis 在哪里？",
+    "answer": "Zinneke Pis 位于比利时布鲁塞尔市中心夏特勒街（Rue des Chartreux）35 号人行道上，属于夏特勒区（Kartuizers）。它是靠着路灯柱安置的小型青铜雕塑，从大广场步行前往大约需要 10 分钟。",
+    "addressLabel": "地址",
+    "addressValue": "Rue des Chartreux 35, 1000 Bruxelles, Belgium",
+    "plusCodeLabel": "Plus Code",
+    "coordinatesLabel": "坐标",
+    "walkFromGrandPlaceLabel": "从大广场步行",
+    "walkFromGrandPlaceValue": "经 Boterstraat 与夏特勒街约 10 分钟",
+    "openMaps": "在 Google 地图中打开",
+    "freeLabel": "门票",
+    "freeValue": "免费——街道上的露天雕像，无需门票，任何时候都可参观"
   },
   "intro": {
     "title": "关于 Zinneke Pis",
-    "breadcrumbs": "Zinneke Pis → 布鲁塞尔 → 布鲁塞尔首都大区 → 比利时",
-    "firstParagraph": "欢迎来到 <strong>Zinneke Pis</strong>（齐内克皮斯），被广泛公认为核心的<strong>齐内克皮斯</strong>地标。坐落于<strong>比利时</strong> <strong>布鲁塞尔首都大区</strong> <strong>布鲁塞尔</strong>市中心，该目的地是到访该地区游客的主要枢纽。",
-    "nearbyText": "参观 <strong>Zinneke Pis</strong> 时，游客可以轻松游览周边的历史地标和风景名胜，包括 <strong>小尿童（Manneken Pis）</strong> 和 <strong>大广场（Grand Place）</strong>。",
-    "description": "认识齐内克皮斯（Zinneke Pis），这座自1998年以来就深受布鲁塞尔游客喜爱的小狗雕像。由雕塑家汤姆·弗兰岑（Tom Frantzen）创作，这座青铜雕像描绘了一只小狗对着柱子小便的场景——这是著名的小尿童雕像（Manneken Pis）的幽默\"兄弟\"。\n\n齐内克皮斯位于迷人的夏特勒区（Chartreux district），代表着布鲁塞尔叛逆和幽默的精神。\"Zinneke\"是当地方言词汇，指的是曾经在布鲁塞尔街头游荡的混种狗，象征着布鲁塞尔的国际化特质。\n\n与它更著名的人类\"同胞\"不同，齐内克皮斯在 locals 中拥有忠实的追随者，他们欣赏它的机智和艺术家俏皮的幽默感。在节日期间，这座雕像经常穿上服装，延续了小尿童建立的传统。\n\n周边社区充满了特色——狭窄的鹅卵石街道、正宗的比利时咖啡馆，以及远离游客人群的真正布鲁塞尔风貌。这里是寻求正宗本地体验的完美地点。",
+    "breadcrumbs": "Het Zinneke → 布鲁塞尔 → 布鲁塞尔首都大区 → 比利时",
+    "firstParagraph": "<strong>Het Zinneke</strong>，通常被称为 <strong>Zinneke Pis</strong>，是位于<strong>比利时</strong> <strong>布鲁塞尔</strong>市中心<strong>夏特勒街</strong>的著名青铜「尿尿狗」雕像。它体积很小，几乎只有膝盖高度，安置在路灯柱旁，如果事先不知道它的存在，很容易就走过去了。",
+    "nearbyText": "从这座雕像出发，步行约 8 分钟可到<strong>小尿童（Manneken Pis）</strong>，约 10 分钟可到<strong>大广场（Grand Place）</strong>，约 12 分钟可到<strong>女性小尿童（Jeanneke Pis）</strong>，因此很适合放进市中心的一条短程徒步环线里。",
+    "description": "Het Zinneke 刻画的是一只邋遢的街头狗对着路灯柱抬起后腿撒尿的瞬间。它由布鲁塞尔雕塑家汤姆·弗兰岑（Tom Frantzen）于 1999 年创作，与「小尿童」Manneken Pis（1619）和「女性小尿童」Jeanneke Pis（1987）一起，凑成市中心的「Pis」三件套。\n\n「Zinneke」来自布鲁塞尔方言，原指杂种狗——城市狗与乡村狗杂交生下的狗。布鲁塞尔人也常用这个词自嘲。正因为如此，这座雕像更像是对日常城市生活的俏皮致意，而不是一座官方纪念碑。\n\n大多数游客在这里停留五到十分钟。现场没有任何收费项目，也没有围栏：这只狗就站在一条窄街上，两旁是咖啡馆、食品店和鹅卵石路面，距离热闹的购物街只有几步之遥，却明显安静许多。",
     "visitGuide": {
-      "title": "游览建议",
+      "title": "参观方式",
       "items": [
-        "免费参观，无需门票——24小时开放",
-        "可结合参观小尿童（步行5分钟）和女性小尿童（步行7分钟）",
-        "建议早晨光线拍摄，避开人群",
-        "布鲁塞尔节日和庆祝活动期间留意特殊服装"
+        "免费且随时可达——没有门票，没有围栏，也没有开放时间限制",
+        "从大广场经 Boterstraat 与夏特勒街步行约 10 分钟",
+        "大多数游客停留 5 至 10 分钟：现场无需排队",
+        "清晨人最少，最适合拍摄没有路人入镜的照片",
+        "可串联参访小尿童（8 分钟）、女性小尿童（12 分钟）与大广场（10 分钟）"
       ]
     },
     "alsoKnownAs": {
-      "title": "景区特色",
+      "title": "其他名称",
       "items": [
-        "1998年由著名比利时雕塑家汤姆·弗兰岑创作",
-        "代表\"齐内克\"——象征布鲁塞尔多元化的混种狗",
-        "与小尿童和女性小尿童共同组成\"小便\"雕像三部曲",
-        "位于远离主要旅游陷阱的正宗本地社区"
+        "Het Zinneke",
+        "Zinneke Pis",
+        "Zinneke-Pis"
       ]
     }
   },
   "knowledge": {
-    "title": "Zinneke Pis 的历史与意义",
+    "title": "Het Zinneke 的历史与含义",
     "sections": [
       {
-        "id": "history",
-        "title": "历史与创作",
-        "content": "齐内克皮斯创作于1998年，由比利时雕塑家汤姆·弗兰岑（Tom Frantzen）创作。这座雕像是作为夏特勒区城市更新项目的一部分委托创作的。弗兰岑以其幽默和动态的 animal 雕塑而闻名，创作的这座青铜作品瞬间成为该社区深受喜爱的象征。\n\n这座雕像描绘了一只狗自然、非摆姿势的瞬间——捕捉了定义布鲁塞尔性格的随意、不敬的精神。与正式的纪念碑不同，齐内克皮斯庆祝日常、普通，并在城市生活的非脚本时刻中发现美。"
+        "id": "dog-statue",
+        "title": "布鲁塞尔的尿尿狗雕像是什么？",
+        "content": "布鲁塞尔著名的尿尿狗雕像就是 Het Zinneke，广为人知的名称是 Zinneke Pis。它是一座青铜雕塑，刻画一只杂种狗对着路灯柱撒尿，1999 年安置在夏特勒街，距离大广场约 10 分钟步行路程。\n\n它的体积比多数游客想象的要小得多——大约只有真狗那么大。所以请低头看向路灯柱的底部，而不是抬头看建筑立面。它在 Google 地图上的正式名称是「Het Zinneke」，这也是为什么用荷兰语名称搜索时，会出现同一只青铜狗的照片。"
       },
       {
         "id": "meaning",
-        "title": "文化意义",
-        "content": "\"Zinneke\"一词来自布鲁塞尔方言，指的是混种狗——特别是那些由城市狗与乡村狗交配而生的小狗。这些狗曾经在布鲁塞尔很常见，在城市（\"赞内\"（Zenne）河地区）和周边村庄之间自由游荡。\n\n如今，\"Zinneke\"已成为拥抱布鲁塞尔混合、多元文化身份的术语。正如这座城市汇集了法语和荷兰语使用者、欧盟机构和当地传统一样，齐内克皮斯庆祝这种美丽的融合。这座雕像已成为布鲁塞尔国际化精神的非官方象征。"
+        "title": "「Zinneke」是什么意思？",
+        "content": "在布鲁塞尔方言中，「Zinneke」指杂种狗：城市狗与乡村狗杂交生下的狗，一种血统混杂的街头动物。「Zinne」本身与穿过这座城市的塞讷河（Senne / Zenne）有关。\n\n这个词后来成为布鲁塞尔混居人口的绰号，也用来形容既不完全属于荷语区也不完全属于法语区的「布鲁塞尔人」身份认同。正是这层双关构成了雕像的全部笑点：一只小杂种狗，比任何官方纪念碑都更诚实地代表这座城市。"
+      },
+      {
+        "id": "history",
+        "title": "历史与创作",
+        "content": "Het Zinneke 由布鲁塞尔雕塑家汤姆·弗兰岑于 1999 年创作，他以幽默的青铜动物作品知名。布鲁塞尔旅游局（Visit Brussels）将这件作品列为夏特勒区当代公共艺术的一部分。\n\n弗兰岑刻意让狗呈现出随意的姿态，动作捕捉在中途，因此读起来更像快照而非正式的纪念碑。雕像直接放置在街道上，没有基座，路人可以走到很近的地方观看。"
       },
       {
         "id": "trilogy",
-        "title": "\"小便\"三部曲",
-        "content": "齐内克皮斯完成了布鲁塞尔幽默的\"小便\"雕像三部曲：\n\n1. 小尿童（Manneken Pis，1619年）——著名的小男孩，布鲁塞尔的象征\n2. 女性小尿童（Jeanneke Pis，1987年）——小女孩，位于小尿童附近的小巷\n3. 齐内克皮斯（Zinneke Pis，1998年）——狗，代表\"普通民众\"\n\n together，他们代表了布鲁塞尔的不同方面：官方的（小尿童）、女性的（女性小尿童）和流行的、脚踏实地的精神（齐内克）。locals 经常开玩笑说，这个三部曲完美地捕捉了比利时幽默的本质。"
+        "title": "布鲁塞尔的三座 Pis 雕像",
+        "content": "Zinneke Pis 是布鲁塞尔「Pis」系列中的第三座：\n\n1. Manneken Pis（1619）——小男孩，三者中最著名的一座\n2. Jeanneke Pis（1987）——小女孩，位于 Impasse de la Fidélité 小巷内\n3. Het Zinneke / Zinneke Pis（1999）——狗，三者中最年轻的一座\n\n它们彼此相距都在步行约 15 分钟之内，因此完全可以用一条从大广场出发、回到大广场的环线一次看完。"
       },
       {
         "id": "artist",
         "title": "关于艺术家",
-        "content": "汤姆·弗兰岑（Tom Frantzen，生于1954年）是比利时最受赞誉的当代雕塑家之一。以其动态、富有表现力的动物雕塑而闻名，弗兰岑的作品可以在布鲁塞尔及以外的地方找到。\n\n他的风格以运动、情感和经常性的幽默为特征。著名作品包括 BOZAR 的\"曲棍球运动员\"和众多公共雕塑。弗兰岑捕捉动物个性的能力使他成为比利时艺术界的 beloved 人物。齐内克皮斯仍然是他最易接近和受欢迎的作品之一。"
+        "content": "汤姆·弗兰岑（Tom Frantzen，1954 年生）是比利时雕塑家，其公共作品涵盖动物、人物与喷泉群，分布在布鲁塞尔及其他比利时城市。他的风格富有叙事性且常带喜剧感，动作夸张到远看也一目了然。\n\nHet Zinneke 是他最知名的小型作品，正因为它被安装在视线高度上，而且所在的街道每天有成千上万人经过。"
       }
     ]
   },
   "basicInfo": {
-    "title": "Zinneke Pis 基础信息",
-    "officialName": "正式名称",
-    "officialNameValue": "齐内克皮斯（Zinneke Pis）",
+    "title": "Het Zinneke（Zinneke Pis）基本信息",
+    "officialName": "正式／地图登记名称",
     "type": "景点类型",
-    "typeValue": "雕像、旅游景点、布鲁塞尔象征",
+    "typeValue": "青铜雕像、旅游景点、公共艺术",
+    "alsoKnownAs": "别名",
     "country": "国家",
     "countryValue": "比利时",
     "city": "城市",
-    "cityValue": "布鲁塞尔",
-    "googleRating": "谷歌评分",
-    "phone": "电话",
+    "cityValue": "布鲁塞尔（布鲁塞尔首都大区）",
+    "createdBy": "创作者",
+    "googleRating": "Google 地图评分",
+    "reviewsSuffix": "条评价",
     "address": "地址",
-    "addressValue": "Rue des Chartreux 35, 1000 Bruxelles, Belgium"
+    "addressValue": "Rue des Chartreux 35, 1000 Bruxelles, Belgium",
+    "ratingNote": "评分与评价数是 Google 地图上 Het Zinneke 公开资料的快照，可能随时间变化。最近核对时间：2026 年 10 月。"
   },
   "hours": {
-    "title": "Zinneke Pis 参观信息",
-    "park": "参观方式",
-    "parkTime": "免费参观，24小时开放，无限制",
-    "bestTime": "最佳参观时间",
-    "bestTimeSpring": "早晨（8-10点）：人群较少，拍照光线更佳",
-    "bestTimeSummer": "傍晚（18-20点）：美丽的日落光线，气温宜人",
-    "bestTimeAutumn": "下午（14-16点）：柔和光线，适合漫步",
-    "bestTimeWinter": "中午（11点-14点）：冬季最佳自然光",
-    "tip": "布鲁塞尔节日和庆祝活动期间留意特殊服装"
+    "title": "参观 Zinneke Pis",
+    "park": "入场方式",
+    "parkTime": "免费且全天候可参观——雕像位于公共街道上",
+    "bestTime": "一天中的最佳时段",
+    "bestTimeSpring": "上午（8:00–10:00）：街道最安静，青铜上的光线干净",
+    "bestTimeSummer": "傍晚（18:00–20:00）：光线偏暖，附近露天咖啡座开放",
+    "bestTimeAutumn": "下午（14:00–16:00）：气温宜人，适合走完 Pis 全线",
+    "bestTimeWinter": "正午（11:00–14:00）：冬季自然光最好的时段",
+    "tip": "此处是有车辆通行的街道，不是步行区。后退取景时请留在人行道上。"
   },
   "tickets": {
-    "title": "Zinneke Pis 门票价格",
-    "park": "雕像参观",
+    "title": "门票与费用",
+    "park": "观赏雕像",
     "parkPrice": "完全免费，无需门票",
-    "guided": "自助游览",
-    "guidedPrice": "无需向导，您可自由漫步于夏特勒区，感受最真实的当地氛围。",
-    "parking": "周边停车",
-    "parkingPrice": "附近街道设有收费停车位（约2-3欧元/小时），建议停放在 Bourse 停车场或使用公共交通。"
+    "guided": "自行参观",
+    "guidedPrice": "现场停留五到十分钟即可；不需要导游或预约。",
+    "parking": "停车",
+    "parkingPrice": "路边车位有限。大广场或 De Brouckère 的停车场都在步行范围内，地铁 De Brouckère 站约步行 8 分钟。"
   },
   "transport": {
-    "title": "Zinneke Pis 的位置与前往布鲁塞尔方式",
-    "fromCenter": "从大广场出发",
-    "fromCenterDesc": "从大广场步行10分钟，穿过布鲁塞尔迷人的街道。沿 Rue au Beurre 走，然后走 Rue des Chartreux。雕像位于一个小广场。",
-    "fromStation": "从布鲁塞尔中央车站出发",
-    "fromStationDesc": "从车站步行12分钟。出口朝向 Rue de l'Impératrice，直走到大广场，然后按指示牌前往夏特勒区。",
+    "title": "如何前往 Zinneke Pis",
+    "fromCenter": "从大广场出发——10 分钟",
+    "fromCenterDesc": "从大广场经 Boterstraat 离开，沿 Beenhouwersstraat 或 Grétrystraat 前进，然后转入夏特勒街。小狗就停在 35 号人行道上。",
+    "fromStation": "从布鲁塞尔中央车站出发——15 分钟",
+    "fromStationDesc": "从车站步行至大广场，再沿 Boterstraat 与夏特勒街前行，全程按正常速度约 15 分钟。",
     "publicTransport": "公共交通",
-    "publicTransportDesc": "乘坐地铁1号或5号线到\"De Brouckère\"站，然后步行8分钟。或乘坐48路公交车到\"Bourse\"站，然后步行5分钟。",
-    "walking": "步行游览",
-    "walkingDesc": "布鲁塞尔步行游的完美补充——结合小尿童（5分钟）、女性小尿童（7分钟）和大广场（10分钟）。",
-    "driving": "自驾与停车",
-    "drivingDesc": "该地区停车位有限。建议停在\"Bourse 停车场\"或使用公共交通。该地区适合步行。",
+    "publicTransportDesc": "地铁 1 号线与 5 号线可到 De Brouckère 站，下车步行约 8 分钟。多条公交线路停靠 De Brouckère 或 Beurs，位于雕像稍南侧。",
+    "walking": "徒步环线",
+    "walkingDesc": "大广场 → 小尿童 → 女性小尿童 → Het Zinneke → 大广场，不赶路的情况下约 45 至 60 分钟可完成。",
+    "driving": "自驾",
+    "drivingDesc": "街道狭窄，且布鲁塞尔市中心为低排放区。把车停在大广场或 De Brouckère 停车场后步行会更省事。",
     "fromAirport": "从布鲁塞尔机场出发",
-    "fromAirportDesc": "乘坐直达火车（约20分钟）至布鲁塞尔中央车站，然后步行12分钟即可到达雕像所在区域。"
+    "fromAirportDesc": "乘火车到布鲁塞尔中央车站约 20 分钟，然后步行 15 分钟；或乘地铁一站到 De Brouckère 再步行。"
   },
   "route": {
-    "title": "Zinneke Pis 周边推荐步行路线",
-    "overview": "从大广场出发，步行到小尿童（5分钟），然后到齐内克皮斯（5分钟），继续到女性小尿童（7分钟），探索迷人的夏特勒区。包括拍照停留和咖啡馆休息，整个路线大约需要2小时。",
+    "title": "Zinneke Pis 周边推荐散步路线",
+    "overview": "从大广场出发，串联另外两座 Pis 雕像，再回到市中心。加上拍照与咖啡休息，整条约需两小时。",
     "steps": [
-      "从大广场出发，欣赏宏伟的市政厅和行会大楼",
-      "经 Rue au Beurre 步行到小尿童（5分钟）",
-      "与著名的小男孩雕像合影，查看他的服装时间表",
-      "继续到夏特勒区的齐内克皮斯（5分钟）",
-      "欣赏可爱的小狗雕像，拍摄创意照片",
-      "步行到小巷里的女性小尿童（7分钟）",
-      "完成\"小便三部曲\"，与小女孩雕像合影",
-      "探索正宗的夏特勒社区，参观当地咖啡馆",
-      "经 Rue des Bouchers 步行回大广场（10分钟）",
-      "在大广场的露台上以比利时华夫饼或啤酒结束旅程"
+      "从大广场出发，欣赏市政厅与同业公会会馆",
+      "经 Stoofstraat 前往小尿童 Manneken Pis（约 8 分钟）",
+      "转入 Impasse de la Fidélité 参观女性小尿童 Jeanneke Pis（约 2 分钟）",
+      "向北穿过购物街前往夏特勒区",
+      "在 35 号找到 Het Zinneke 并拍照（距小尿童约 8 分钟）",
+      "漫步夏特勒区，逛食品店、咖啡馆与鹅卵石小巷",
+      "经 Beenhouwersstraat 返回大广场（约 10 分钟）",
+      "在大广场的露天座位上以比利时松饼或啤酒收尾"
     ]
   },
+  "topics": {
+    "title": "延伸阅读",
+    "statues": {
+      "linkTitle": "布鲁塞尔的 3 座著名 Pis 雕像",
+      "linkIntro": "比较小尿童、女性小尿童与 Het Zinneke，以及彼此之间的步行距离。"
+    },
+    "route": {
+      "linkTitle": "Zinneke Pis 到小尿童的步行路线",
+      "linkIntro": "两座雕像之间的距离、所需时间与沿途街道。"
+    }
+  },
   "photoSpots": {
-    "title": "Zinneke Pis 拍照机位",
+    "title": "Zinneke Pis 的拍照位置",
     "spots": [
       {
         "name": "正面视角",
-        "desc": "经典角度，显示雕像全貌，捕捉小狗俏皮的姿势和青铜细节"
+        "desc": "站在小狗前方的人行道上，把它完整的轮廓连同路灯柱一起拍进去"
       },
       {
         "name": "侧面角度",
-        "desc": "侧面视图，突出动态姿势和雕塑家对解剖细节的关注"
+        "desc": "侧拍可以表现抬起的后腿与身体上流动的青铜细节"
       },
       {
-        "name": "与柱子合影",
-        "desc": "将灯柱纳入画面，展示艺术家意图的完整构图"
+        "name": "青铜特写",
+        "desc": "贴近头部与卷起的尾巴拍摄质感，短焦距镜头就足够"
       },
       {
-        "name": "社区环境",
-        "desc": "退后一步，在迷人的当地社区环境中捕捉雕像"
+        "name": "连路灯柱一起入镜",
+        "desc": "把整根路灯柱纳入构图，呈现雕塑家原本设想的完整画面"
       },
       {
-        "name": "创意角度",
-        "desc": "发挥创意！locals 喜欢与齐内克拍摄有趣、非常规的照片"
+        "name": "街景环境",
+        "desc": "走到对面用更广的视角，把雕像放回夏特勒区的街道背景中"
+      },
+      {
+        "name": "入夜之后",
+        "desc": "路灯会打亮青铜，但光线不足时需要提高 ISO 或使用三脚架"
       }
     ]
   },
   "hotels": {
-    "title": "Zinneke Pis 周边住宿建议",
+    "title": "Zinneke Pis 附近住宿",
     "hotels": [
       {
-        "name": "市中心精品酒店",
-        "desc": "位于大广场附近，步行即可轻松到达所有主要景点，提供现代设计与舒适体验",
-        "price": "约120-250欧元/晚"
+        "name": "大广场附近的精品旅馆",
+        "desc": "距雕像步行十分钟以内，紧邻市中心主要景点。",
+        "price": "约 €120-250/晚"
       },
       {
-        "name": "经济型连锁酒店",
-        "desc": "干净舒适且价格实惠的选择，适合预算有限但希望住在市中心的旅客",
-        "price": "约80-120欧元/晚"
+        "name": "中价位连锁旅馆",
+        "desc": "分布在 De Brouckère 与林荫大道一带，地铁转乘方便。",
+        "price": "约 €80-120/晚"
       },
       {
-        "name": "本地特色民宿（B&B）",
-        "desc": "深入体验正宗的社区氛围，感受布鲁塞尔当地人的生活方式",
-        "price": "约60-100欧元/晚"
+        "name": "民宿 B&B",
+        "desc": "想在住宅区内体验更安静布鲁塞尔的选择。",
+        "price": "约 €60-100/晚"
       },
       {
-        "name": "历史风情酒店",
-        "desc": "入住由历史建筑改造的酒店，沉浸在布鲁塞尔丰富的文化底蕴中",
-        "price": "约150-300欧元/晚"
+        "name": "历史建筑旅馆",
+        "desc": "由老城区历史建筑整修而成，富有文化氛围。",
+        "price": "约 €150-300/晚"
       }
     ]
   },
   "gallery": {
-    "title": "Zinneke Pis 精彩照片",
-    "subtitle": "Zinneke Pis - 布鲁塞尔的爱心小狗雕像",
+    "title": "Zinneke Pis 照片图库",
+    "subtitle": "位于布鲁塞尔 1000 区夏特勒街的 Het Zinneke——正面、侧面与细部视图",
     "captions": [
-      "Zinneke Pis - 比利时布鲁塞尔雕像正面视图",
-      "Zinneke Pis - 青铜细节特写",
-      "Zinneke Pis - 夏特勒区社区魅力",
-      "Zinneke Pis - 与灯柱合影",
-      "Zinneke Pis - 侧面轮廓视图",
-      "Zinneke Pis - 本地街景",
-      "Zinneke Pis - 正宗当地氛围",
-      "Zinneke Pis - 附近鹅卵石街道",
-      "Zinneke Pis - 游客合影互动",
-      "Zinneke Pis - 布鲁塞尔冬季雪景",
-      "Zinneke Pis - 布鲁塞尔夜间灯光下的雕像"
+      "比利时布鲁塞尔夏特勒街上的 Het Zinneke（Zinneke Pis）青铜狗雕像",
+      "Het Zinneke 青铜狗头部与卷尾特写",
+      "Zinneke Pis 对著路灯柱抬起后腿的侧面视角",
+      "夏特勒街 35 号前与路灯柱同框的 Het Zinneke",
+      "Zinneke Pis 雕像侧身轮廓与青铜表面质感",
+      "布鲁塞尔夏特勒街街景中的 Het Zinneke",
+      "Zinneke Pis 狗雕像的青铜细节与锈色包浆",
+      "夏特勒区 Het Zinneke 旁的鹅卵石街道",
+      "布鲁塞尔市中心 Zinneke Pis 周边日常街区氛围",
+      "冬日里位于布鲁塞尔 1000 区的 Het Zinneke",
+      "入夜后在路灯照明下的 Zinneke Pis"
     ],
-    "viewAll": "在 Google Maps 查看位置",
+    "viewAll": "在 Google 地图上看更多照片",
     "showAll": "查看全部照片",
-    "showLess": "收起照片"
+    "showLess": "收起"
   },
-  "reviews": {
-    "title": "Zinneke Pis 游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
-    "moreReviews": "在 Google Maps 查看更多评价",
-    "items": [
-      {
-        "name": "玛丽·杜波依斯（Marie Dubois）",
-        "date": "2026年5月",
-        "rating": 5,
-        "text": "绝对迷人！比小尿童人少得多。喜欢这种叛逆的精神，社区是如此正宗。布鲁塞尔的隐藏宝石！"
-      },
-      {
-        "name": "约翰·史密斯（John Smith）",
-        "date": "2026年4月",
-        "rating": 5,
-        "text": "漫步时偶然发现了这个。多么令人愉快的惊喜！小狗雕像如此有个性。如果你在布鲁塞尔，千万不要错过。"
-      },
-      {
-        "name": "安娜·穆勒（Anna Müller）",
-        "date": "2026年3月",
-        "rating": 4,
-        "text": "可爱雕像位于可爱的本地区域。免费且随时开放。我们结合了小尿童和女性小尿童的参观——使步行游览变得有趣！"
-      },
-      {
-        "name": "彼得·范·达姆（Pieter Van Dam）",
-        "date": "2026年2月",
-        "rating": 5,
-        "text": "作为本地人，齐内克是三个\"小便\"雕像中我最喜欢的。它代表了真正的布鲁塞尔——混合、多元文化，并具有伟大的幽默感。"
-      }
-    ]
-  },
-  "mapSection": {
-    "title": "Zinneke Pis 在布鲁塞尔的位置地图",
-    "subtitle": "Rue des Chartreux 35, 1000 Bruxelles, Belgium",
-    "openMaps": "在 Google Maps 查看",
-    "govtTourismText": "关于官方更新和区域旅游信息，请访问"
+  "ratings": {
+    "title": "Google 地图上的 Zinneke Pis 评分",
+    "reviewCount": "共 {count} 条 Google 地图评价",
+    "sourceNote": "此数字为 Google 地图上 Het Zinneke 公开资料的快照，会随时间变化。本站不收集评价，也无法核实单条留言的真实性——请到 Google 地图查看原始评价。",
+    "cta": "在 Google 地图查看最新评分与评价"
   },
   "faq": {
-    "title": "Zinneke Pis 常见问题",
+    "title": "关于 Zinneke Pis 的常见问题",
     "items": [
       {
         "question": "Zinneke Pis 位于哪里？",
-        "answer": "Zinneke Pis（齐内克皮斯）位于比利时布鲁塞尔首都大区布鲁塞尔 Rue des Chartreux 35, 1000 Bruxelles。"
+        "answer": "Zinneke Pis 位于比利时布鲁塞尔 1000 区夏特勒街（Rue des Chartreux）35 号的人行道上，属夏特勒区，距大广场步行约 10 分钟。Plus Code：R8XW+G7 Brussel。"
       },
       {
-        "question": "参观 Zinneke Pis 是免费的吗？",
-        "answer": "是的，Zinneke Pis 是一个公共场所，全年免费向公众开放参观，24小时均可访问，无需门票。"
+        "question": "参观 Zinneke Pis 需要门票吗？",
+        "answer": "不需要。Het Zinneke 是位于公共街道上的露天雕像，没有门票、没有围栏、也没有开放时间限制，随时都能参观。"
       },
       {
-        "question": "Zinneke Pis 附近有哪些著名景点？",
-        "answer": "周边著名地标包括小尿童（Manneken Pis）（步行约5分钟）、大广场（Grand Place）（步行约10分钟）和女性小尿童（Jeanneke Pis）（步行约7分钟）。"
+        "question": "Zinneke Pis 是什么时候创作的？",
+        "answer": "根据布鲁塞尔旅游局（Visit Brussels）的资料，这座青铜雕像由布鲁塞尔雕塑家汤姆·弗兰岑于 1999 年创作。"
+      },
+      {
+        "question": "布鲁塞尔的尿尿狗雕像叫什么名字？",
+        "answer": "它名为 Het Zinneke，也叫 Zinneke Pis。Google 地图上的名称是「Het Zinneke」，而「Zinneke Pis」是大多数游客搜索时使用的名称。"
+      },
+      {
+        "question": "「Zinneke」是什么意思？",
+        "answer": "在布鲁塞尔方言中，「Zinneke」指杂种狗，即城市狗与乡村狗杂交生下的狗。这个词后来成为布鲁塞尔混居人口的绰号，也用来形容当地的「布鲁塞尔人」身份认同。"
+      },
+      {
+        "question": "从大广场怎么走到 Zinneke Pis？",
+        "answer": "从大广场经 Boterstraat 离开，继续向北走到夏特勒街，雕像就在 35 号的人行道上，全程约 10 分钟。地铁 De Brouckère 站距雕像约 8 分钟步行路程。"
+      },
+      {
+        "question": "参观 Zinneke Pis 需要安排多久？",
+        "answer": "大多数游客停留五到十分钟。现场无需排队，也没有室内空间，因此最好与小尿童、女性小尿童和大广场安排在一次散步路线上。"
+      },
+      {
+        "question": "小尿童与女性小尿童离得近吗？",
+        "answer": "近。小尿童步行约 8 分钟，女性小尿童约 12 分钟，大广场约 10 分钟，三座雕像可以用一条环线走完。"
+      },
+      {
+        "question": "可以在 Zinneke Pis 拍照吗？",
+        "answer": "可以，拍照完全自由且不受限制。清晨人最少；由于雕像位于有车辆通行的街道上，取景时请留在人行道上。"
       }
     ]
   },
   "footer": {
-    "rights": "© 2026 齐内克皮斯独立旅游研究协会 · 保留所有权利。",
+    "rights": "© 2026 独立经营的 Zinneke Pis 旅游信息项目 · 保留所有权利。",
     "privacy": "隐私政策",
     "terms": "服务条款",
     "cookies": "Cookie 设置",
-    "officialResourcesTitle": "相关资源与资讯",
+    "officialResourcesTitle": "官方与参考来源",
     "officialLinks": {
-      "belgium": "比利时联邦",
+      "belgium": "比利时",
       "brussels": "布鲁塞尔市",
       "brusselsRegion": "布鲁塞尔首都大区",
-      "visitBrussels": "布鲁塞尔旅游",
-      "belgiumDiplomacy": "比利时外交"
+      "visitBrussels": "Visit Brussels",
+      "belgiumDiplomacy": "比利时外交部门"
     },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "disclaimer": "本站为独立的旅游信息网站，与布鲁塞尔市或其他公营机构没有隶属关系。评分数据取自 Google 地图公开资料的快照，可能变动。"
   },
   "privacy": {
     "title": "隐私政策",
-    "lastUpdated": "最后更新：2026年5月",
+    "lastUpdated": "最后更新：2026 年 10 月",
     "sections": [
       {
-        "heading": "1. 信息收集",
-        "content": "我们通常不会主动收集用户的个人可识别信息。您透过联系表单或电子邮件提供的任何信息将被严格保密。"
+        "heading": "1. 我们收集的资讯",
+        "content": "本站无需注册，也不会索取个人资料。我们不会为访客建立个人档案。"
       },
       {
-        "heading": "2. 信息使用",
-        "content": "我们收集的信息仅用于提供、维护和改进我们的服务，以及与您沟通。我们不会将您的个人信息出售或分享给第三方用于营销目的。"
+        "heading": "2. Cookie",
+        "content": "必要 Cookie 用于保存语言与主题设定。分析或广告 Cookie 只有在你於 Cookie 设置页同意后才会载入。"
       },
       {
-        "heading": "3. Cookie 与追踪技术",
-        "content": "我们使用 Cookie 和类似的追踪技术来追踪我们网站上的活动并保存某些信息。您可以指示您的浏览器拒绝所有 Cookie 或在发送 Cookie 时进行提示。"
+        "heading": "3. 第三方服务",
+        "content": "内嵌的 Google 地图内容以及任何分析或广告服务商均为第三方，适用其各自的隐私政策。"
       },
       {
-        "heading": "4. 数据安全",
-        "content": "您数据的安全性对我们很重要。我们努力使用商业上可接受的方式来保护您的个人数据，但任何互联网传输方法都无法保证100%安全。"
+        "heading": "4. 联络与变更",
+        "content": "本站内容变更时，我们可能会更新本政策。页面顶部的日期标示最近一次修订时间。"
       }
     ]
   },
   "terms": {
     "title": "服务条款",
-    "lastUpdated": "最后更新：2026年5月",
+    "lastUpdated": "最后更新：2026 年 10 月",
     "sections": [
       {
-        "heading": "1. 接受条款",
-        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，则不得访问该服务。"
+        "heading": "1. 网站性质",
+        "content": "本站为独立的旅游信息项目，并非官方旅游局网站，也不隶属任何公营机构。"
       },
       {
-        "heading": "2. 服务使用",
-        "content": "本网站是一个独立的第三方旅游资讯项目。提供的信息仅供一般参考。您同意负责任且合法地使用本网站。"
+        "heading": "2. 资讯准确性",
+        "content": "评分、评价数等实用资讯取自公开来源的快照，可能变动。出发前请务必向营运方确认最新资讯。"
       },
       {
-        "heading": "3. 知识产权",
-        "content": "本网站上的所有内容（包括文本、图像和徽标）均为网站所有者的财产（另有说明的除外）。严禁未经授权的使用、复制或分发。"
+        "heading": "3. 允许的使用方式",
+        "content": "你可以阅读本站内容并分享链接。不得以转载为目的系统性复制本站页面或内容。"
       },
       {
         "heading": "4. 责任限制",
-        "content": "对于因使用或无法使用本网站或其中包含的信息而导致的任何直接、间接、附带或后果性损害，我们概不负责。"
+        "content": "本站资讯仅供一般性参考，对于因使用资讯而产生的任何损失，我们不承担责任。"
       }
     ]
   },
   "cookieSettings": {
     "title": "Cookie 设置",
-    "description": "管理您的 Cookie 偏好设置。",
+    "description": "选择本站可以使用的 Cookie 类型。",
     "essential": {
-      "title": "必要的 Cookie",
-      "description": "网站基本功能所需。",
+      "title": "必要 Cookie",
+      "description": "用于保存语言、主题与基本功能，无法关闭。",
       "badge": "始终启用"
     },
     "analytics": {
       "title": "分析 Cookie",
-      "description": "帮助我们了解访客如何与网站互动。"
+      "description": "协助我们以汇总方式了解页面的使用情形。"
     },
     "marketing": {
-      "title": "营销 Cookie",
-      "description": "用于跨网站追踪访客。"
+      "title": "广告 Cookie",
+      "description": "用于衡量与限制站内显示的广告。"
     },
-    "save": "保存设置",
-    "saved": "设置已保存！"
+    "save": "保存偏好设置",
+    "saved": "偏好设置已保存！"
   },
   "officialManagement": {
-    "title": "关于齐内克皮斯",
-    "text": "齐内克皮斯（Zinneke Pis）是由比利时雕塑家汤姆·弗兰岑（Tom Frantzen）于1998年创作的备受喜爱的青铜雕像。位于布鲁塞尔正宗的夏特勒区，代表着这座城市的叛逆和幽默精神。\n\n这座雕像是布鲁塞尔文化遗产的一部分，象征着这座城市的国际化和混合身份。\"Zinneke\"指的是曾经在布鲁塞尔游荡的混种狗，成为这座城市多样性和多元文化精神的非官方象征。"
+    "title": "来源与说明",
+    "text": "本页的事实查核说明。\n\n• 名称与创作年份取自布鲁塞尔旅游局（Visit Brussels），其将 Het Zinneke（Zinneke-Pis）列为汤姆·弗兰岑于 1999 年完成、位于夏特勒街 35 号的作品。\n\n• 地址、Plus Code 与地图链接依据 Google 地图上 Het Zinneke 的公开资料。\n\n• 上方显示的评分与评价数为该资料的快照，撷取于 2026 年 10 月，日后可能不同。\n\n网路上部分旧页面提到 1998 年，但现行官方资料指向 1999 年。"
   },
   "recommendations": {
-    "title": "Zinneke Pis 周边地标与景点",
-    "attractionsTitle": "附近景点",
-    "toursTitle": "推荐行程与活动",
+    "title": "接下来怎么安排行程",
+    "attractionsTitle": "附近的雕像",
+    "toursTitle": "官方与参考链接",
     "attractions": [
       {
-        "name": "小尿童（Manneken Pis）",
-        "url": "https://visitbrussels.be/"
+        "name": "小尿童 Manneken Pis（1619）",
+        "url": "/brussels-pis-statues"
       },
       {
-        "name": "大广场（Grand Place）",
-        "url": "https://visitbrussels.be/"
+        "name": "女性小尿童 Jeanneke Pis（1987）",
+        "url": "/brussels-pis-statues"
       },
       {
-        "name": "女性小尿童（Jeanneke Pis）",
-        "url": "https://visitbrussels.be/"
+        "name": "步行路线：Zinneke Pis 到小尿童",
+        "url": "/zinneke-pis-to-manneken-pis"
       },
       {
-        "name": "布鲁塞尔城市博物馆",
+        "name": "布鲁塞尔市立博物馆（官方网站）",
         "url": "https://www.brusselscitymuseum.brussels/"
       }
     ],
     "tours": [
       {
-        "name": "布鲁塞尔步行游览",
+        "name": "Visit Brussels——官方旅游局入口",
         "url": "https://visitbrussels.be/"
       },
       {
-        "name": "比利时巧克力品鉴",
-        "url": "https://visitbrussels.be/"
+        "name": "Visit Brussels 上 Het Zinneke 的介绍页",
+        "url": "https://www.visit.brussels/en/visitors/venue-details.Zinneke-Pis.50001051"
       },
       {
-        "name": "布鲁塞尔啤酒体验",
-        "url": "https://visitbrussels.be/"
+        "name": "Het Zinneke 的 Google 地图资料",
+        "url": "https://maps.app.goo.gl/JYWuyur9ydE1bJCF7"
       },
       {
-        "name": "漫画路线",
-        "url": "https://visitbrussels.be/"
+        "name": "布鲁塞尔市政府官方网站",
+        "url": "https://www.brussels.be/"
+      }
+    ]
+  },
+  "topicStatues": {
+    "pageTitle": "布鲁塞尔 3 座著名的 Pis 雕像：小尿童、女性小尿童与 Zinneke Pis",
+    "pageDescription": "比较布鲁塞尔的三座 Pis 雕像：小尿童 Manneken Pis（1619）、女性小尿童 Jeanneke Pis（1987）与 Het Zinneke / Zinneke Pis（1999）。包含位置、步行距离与一次走完三者的路线。",
+    "title": "布鲁塞尔的 3 座著名 Pis 雕像",
+    "intro": "布鲁塞尔有三座因为同一件事而成名的雕像。Manneken Pis 是大家都抢着拍照的小男孩，Jeanneke Pis 是藏在巷子里的小女孩，而 Het Zinneke——也就是 Zinneke Pis——是一只狗。三者彼此距离都在步行约 15 分钟之内，用一条环线就能全部看完。",
+    "factsTitle": "三座雕像快速比较",
+    "facts": [
+      {
+        "label": "小尿童 Manneken Pis",
+        "value": "1619 年 · 位于大广场旁的 Stoofstraat / Eikstraat。青铜像高约 61 公分，是全市被拍最多的一个点。"
+      },
+      {
+        "label": "女性小尿童 Jeanneke Pis",
+        "value": "1987 年 · 位于小尿童附近的小巷 Impasse de la Fidélité 内。体积更小，也比小男孩安静得多。"
+      },
+      {
+        "label": "Het Zinneke / Zinneke Pis",
+        "value": "1999 年 · 位于夏特勒区夏特勒街 35 号。一只青铜杂种狗对着路灯柱抬起后腿，距大广场步行约 10 分钟。"
+      },
+      {
+        "label": "总步行距离",
+        "value": "从大广场出发一次走完三座雕像的环线约 2 公里，以舒适步速约需 45 至 60 分钟。"
+      }
+    ],
+    "stepsTitle": "建议的顺序",
+    "steps": [
+      "从大广场出发，这里是市中心最明确的定位点",
+      "经 Stoofstraat 前往小尿童（约 2 分钟）",
+      "转入 Impasse de la Fidélité 参观女性小尿童（约 2 分钟）",
+      "向北穿过购物街前往夏特勒区",
+      "最后一站到夏特勒街 35 号的 Het Zinneke（距小尿童约 8 分钟）",
+      "再走 10 分钟回到大广场，完成整条环线"
+    ],
+    "faqTitle": "关于 Pis 雕像的常见问题",
+    "faq": [
+      {
+        "question": "布鲁塞尔的三座尿尿雕像分别叫什么？",
+        "answer": "小尿童 Manneken Pis（男孩，1619）、女性小尿童 Jeanneke Pis（女孩，1987）以及 Het Zinneke，又称 Zinneke Pis（狗，1999）。"
+      },
+      {
+        "question": "三座 Pis 雕像之间距离多远？",
+        "answer": "小尿童与女性小尿童只隔几分钟路程。从小尿童到 Het Zinneke 约步行 8 分钟，大广场距 Het Zinneke 约 10 分钟。"
+      },
+      {
+        "question": "三座雕像都要门票吗？",
+        "answer": "都不需要。三座都位於公共街道上，没有门票、没有围栏、也没有开放时间限制。"
+      },
+      {
+        "question": "哪一座 Pis 雕像最古老？",
+        "answer": "小尿童 Manneken Pis，最早于 1619 年设立。女性小尿童为 1987 年，Het Zinneke 为 1999 年。"
+      },
+      {
+        "question": "哪一座人最少？",
+        "answer": "位于夏特勒街的 Het Zinneke 通常最安静。女性小尿童的人潮也比小尿童少很多。"
+      },
+      {
+        "question": "看完三座需要多久？",
+        "answer": "不刻意停留的话约 45 至 60 分钟的步行时间；若加上拍照与咖啡店休息，最长约两小时。"
+      }
+    ]
+  },
+  "topicRoute": {
+    "pageTitle": "Zinneke Pis 到小尿童：距离、步行路线与地图",
+    "pageDescription": "布鲁塞尔 Zinneke Pis 到小尿童 Manneken Pis 有多远：约 0.6 公里、步行约 8 分钟，附逐段街道说明、交通替代方案，以及如何串联女性小尿童与大广场。",
+    "title": "从 Zinneke Pis 走到小尿童",
+    "intro": "Zinneke Pis（Het Zinneke）与小尿童 Manneken Pis 距离很近，完全可以安排在同一段短程步行里。路线从夏特勒街穿过购物街，接到大广场旁的 Stoofstraat，几乎全程平坦。",
+    "factsTitle": "距离与时间",
+    "facts": [
+      {
+        "label": "步行距离",
+        "value": "从夏特勒街 35 号到 Stoofstraat 约 0.6 公里，视选择哪一侧人行道略有差异。"
+      },
+      {
+        "label": "步行时间",
+        "value": "按正常速度约 8 分钟；若加上拍照与穿越马路，约 10 至 15 分钟。"
+      },
+      {
+        "label": "难度",
+        "value": "平坦的石板街道，轮椅与婴儿车可行，但下午人行道较为拥挤。"
+      },
+      {
+        "label": "替代方案",
+        "value": "这段路不需要搭公共交通：走路比等电车还快。"
+      },
+      {
+        "label": "顺道加入女性小尿童",
+        "value": "到小尿童后继续走进 Impasse de la Fidélité，约再 2 分钟。"
+      }
+    ],
+    "stepsTitle": "分段步行指引",
+    "steps": [
+      "在夏特勒街 35 号的 Het Zinneke 出发，沿街道朝北前进",
+      "继续前往 Nieuwstraat，这是市中心最主要的购物街",
+      "沿 Nieuwstraat 往南穿过商店区",
+      "接往 Munthof 广场，并继续沿着 Nieuwstraat 南段前进",
+      "转入 Grasmarkt 或 Kleerkopersstraat，往旧城区方向走",
+      "转入 Stoofstraat——小尿童就在转角处",
+      "可选择继续走进 Impasse de la Fidélité 参观女性小尿童"
+    ],
+    "faqTitle": "关于这段步行路线的常见问题",
+    "faq": [
+      {
+        "question": "Zinneke Pis 离小尿童有多远？",
+        "answer": "约 0.6 公里，沿平坦的街道步行不到 8 分钟。"
+      },
+      {
+        "question": "可以从 Zinneke Pis 走到小尿童吗？",
+        "answer": "可以。全程都在公共人行道上，不到十分钟就能走完，是连接两座雕像最简单的方式。"
+      },
+      {
+        "question": "两座雕像之间有地铁或电车吗？",
+        "answer": "距离这么短，搭公共交通并不划算；不过 De Brouckère 地铁站就在两者之间，是最近的车站。"
+      },
+      {
+        "question": "怎么从 Zinneke Pis 去女性小尿童？",
+        "answer": "先走到小尿童（约 8 分钟），再继续进入 Impasse de la Fidélité，约多 2 分钟。"
+      },
+      {
+        "question": "这条路线适合轮椅吗？",
+        "answer": "街道都是平坦的石板路，但市中心部分人行道较窄且人多，下午请预留多一些时间。"
+      },
+      {
+        "question": "沿途还有什么？",
+        "answer": "购物街 Nieuwstraat、Munthof 广场，最后是大广场，距离 Het Zinneke 约 10 分钟。"
       }
     ]
   }

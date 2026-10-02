@@ -1,12 +1,25 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+
+type LinkItem = { name: string; url: string };
 
 export default function Recommendations() {
   const t = useTranslations('recommendations');
+  const locale = useLocale();
   const messages = useMessages() as any;
-  const attractions = (messages?.recommendations?.attractions || []) as Array<{ name: string; url: string }>;
-  const tours = (messages?.recommendations?.tours || []) as Array<{ name: string; url: string }>;
+  const attractions = (messages?.recommendations?.attractions || []) as LinkItem[];
+  const tours = (messages?.recommendations?.tours || []) as LinkItem[];
 
   if (attractions.length === 0 && tours.length === 0) return null;
+
+  // Paths starting with "/" are internal pages and stay in the same tab,
+  // in the current language. Anything else is an external resource.
+  const listProps = (item: LinkItem) => {
+    const internal = item.url.startsWith('/');
+    return {
+      href: internal ? `/${locale}${item.url}` : item.url,
+      ...(internal ? {} : { target: '_blank', rel: 'noopener noreferrer' }),
+    };
+  };
 
   return (
     <section className="section-padding bg-gray-50 dark:bg-gray-900/30">
@@ -30,9 +43,7 @@ export default function Recommendations() {
               {attractions.map((item, i) => (
                 <li key={i}>
                   <a
-                    href={item.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    {...listProps(item)}
                     className="group flex items-start gap-3 hover:text-blue-600 transition-colors"
                     style={{ color: 'var(--text-secondary)' }}
                   >
@@ -57,9 +68,7 @@ export default function Recommendations() {
               {tours.map((item, i) => (
                 <li key={i}>
                   <a
-                    href={item.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    {...listProps(item)}
                     className="group flex items-start gap-3 hover:text-blue-600 transition-colors"
                     style={{ color: 'var(--text-secondary)' }}
                   >

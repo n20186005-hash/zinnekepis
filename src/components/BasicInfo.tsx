@@ -1,9 +1,13 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { ATTRACTION } from '@/lib/site';
 
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
+
+  const ratingValue = ATTRACTION.rating.value.toFixed(1);
+  const reviewCount = new Intl.NumberFormat('en-US').format(ATTRACTION.rating.reviewCount);
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -17,15 +21,27 @@ export default function BasicInfo() {
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <InfoCard title={t('officialName')} value={t('officialNameValue')} />
+          <InfoCard
+            title={t('officialName')}
+            value={`${ATTRACTION.name} — ${ATTRACTION.shortName}`}
+          />
+          <InfoCard title={t('alsoKnownAs')} value={ATTRACTION.alternateNames.join(' · ')} />
           <InfoCard title={t('type')} value={t('typeValue')} />
           <InfoCard title={t('country')} value={t('countryValue')} />
           <InfoCard title={t('city')} value={t('cityValue')} />
-          <InfoCard title={t('googleRating')} value="4.2/5 (6,836)" />
+          <InfoCard title={t('createdBy')} value={`${ATTRACTION.artist}, ${ATTRACTION.createdYear}`} />
+          <InfoCard
+            title={t('googleRating')}
+            value={`${ratingValue}/5 · ${reviewCount} ${t('reviewsSuffix')}`}
+          />
           <div className="md:col-span-2">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>
         </div>
+
+        <p className="mt-6 text-xs" style={{ color: 'var(--text-muted)' }}>
+          {t('ratingNote')}
+        </p>
       </div>
     </section>
   );

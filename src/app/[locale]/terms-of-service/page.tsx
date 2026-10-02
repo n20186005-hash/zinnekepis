@@ -2,6 +2,9 @@ import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
 import { routing } from '@/i18n/routing';
+import { SITE_URL, hreflangAlternates, localizedPath } from '@/lib/site';
+
+const PATH = '/terms-of-service';
 
 export async function generateMetadata({
   params,
@@ -9,16 +12,12 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://zinnekepis.com';
-  const selfUrl = `${baseUrl}/${locale}/terms-of-service`;
 
   return {
+    metadataBase: new URL(SITE_URL),
     alternates: {
-      canonical: selfUrl,
-      languages: Object.fromEntries([
-        ...routing.locales.map((loc) => [loc, `${baseUrl}/${loc}/terms-of-service`]),
-        ['x-default', `${baseUrl}/${routing.defaultLocale}/terms-of-service`],
-      ]),
+      canonical: localizedPath(locale, PATH),
+      languages: hreflangAlternates(routing.locales, PATH),
     },
   };
 }
