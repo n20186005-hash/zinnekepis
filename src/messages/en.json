@@ -109,7 +109,9 @@
     "bestTimeSummer": "Evening (18–20): warmer light, café terraces open nearby",
     "bestTimeAutumn": "Afternoon (14–16): comfortable walking weather for the full Pis loop",
     "bestTimeWinter": "Midday (11–14): the best natural light in the darker months",
-    "tip": "This is a live street with traffic, not a pedestrian zone. Keep to the pavement when you step back for photos."
+    "tip": "This is a live street with traffic, not a pedestrian zone. Keep to the pavement when you step back for photos.",
+    "bestTimeWarm": "Spring and summer",
+    "bestTimeCold": "Autumn and winter"
   },
   "tickets": {
     "title": "Tickets and Cost",
@@ -153,12 +155,76 @@
     "title": "Read next",
     "statues": {
       "linkTitle": "Brussels' 3 Famous Peeing Statues",
-      "linkIntro": "Manneken Pis, Jeanneke Pis and Het Zinneke compared, with distances between them."
+      "linkIntro": "Manneken Pis, Jeanneke Pis and Het Zinneke compared, with distances between them.",
+      "slug": "brussels-pis-statues"
     },
     "route": {
       "linkTitle": "Zinneke Pis to Manneken Pis walking route",
-      "linkIntro": "How far it is, how long it takes, and the streets to follow between the two statues."
-    }
+      "linkIntro": "How far it is, how long it takes, and the streets to follow between the two statues.",
+      "slug": "zinneke-pis-to-manneken-pis"
+    },
+    "locationAndMap": {
+      "linkTitle": "Zinneke Pis: exact location and map",
+      "linkIntro": "The address, Plus Code, coordinates and the exact spot on Rue des Chartreux — so you walk straight to it.",
+      "slug": "location-and-map"
+    },
+    "publicTransport": {
+      "linkTitle": "Getting there by metro, bus and train",
+      "linkIntro": "The nearest metro stops, train connections from Central and Midi, tickets and night services.",
+      "slug": "public-transport"
+    },
+    "grandPlaceRoute": {
+      "linkTitle": "Grand Place to Zinneke Pis walk",
+      "linkIntro": "About 10 minutes and 0.8 km: the streets to follow from Grand Place to the bronze dog.",
+      "slug": "grand-place-to-zinneke-pis"
+    },
+    "centralStationRoute": {
+      "linkTitle": "Central Station to Zinneke Pis walk",
+      "linkIntro": "A 15-minute route from Brussels-Central, with a one-stop metro alternative.",
+      "slug": "central-station-to-zinneke-pis"
+    },
+    "midiStationRoute": {
+      "linkTitle": "Midi Station to Zinneke Pis",
+      "linkIntro": "Metro with one change, or a 30-minute walk from the Eurostar terminal.",
+      "slug": "midi-station-to-zinneke-pis"
+    },
+    "jeannekeRoute": {
+      "linkTitle": "Zinneke Pis to Jeanneke Pis walk",
+      "linkIntro": "About 0.8 km and 10–12 minutes via Manneken Pis, step by step.",
+      "slug": "zinneke-pis-to-jeanneke-pis"
+    },
+    "history": {
+      "linkTitle": "The history of Zinneke Pis",
+      "linkIntro": "What is documented, why some sources say 1998 and others 1999, and the story of the bronze dog.",
+      "slug": "history"
+    },
+    "zinnekeMeaning": {
+      "linkTitle": "What does 'Zinneke' mean?",
+      "linkIntro": "The Brussels dialect word behind the name, from mongrel dog to city identity.",
+      "slug": "what-does-zinneke-mean"
+    },
+    "photos": {
+      "linkTitle": "Photographing Zinneke Pis",
+      "linkIntro": "The angles that work, the quietest times of day, and our own gallery of the statue.",
+      "slug": "photos"
+    },
+    "mannekenPis": {
+      "linkTitle": "Manneken Pis visitor guide",
+      "linkIntro": "Location, costumes, where the original statue is kept, and how to add it to your walk.",
+      "slug": "manneken-pis"
+    },
+    "jeannekePis": {
+      "linkTitle": "Jeanneke Pis visitor guide",
+      "linkIntro": "How to find the little girl in her alley, and why she was made.",
+      "slug": "jeanneke-pis"
+    },
+    "rueDesChartreux": {
+      "linkTitle": "Rue des Chartreux and the Chartreux district",
+      "linkIntro": "The street where the statue stands: shops, cafés, cobbles and the district's name.",
+      "slug": "rue-des-chartreux"
+    },
+    "directionsLink": "Open walking directions in Google Maps",
+    "relatedTitle": "Read next"
   },
   "photoSpots": {
     "title": "Photo Spots at Zinneke Pis",
@@ -194,23 +260,19 @@
     "hotels": [
       {
         "name": "Boutique hotels near Grand Place",
-        "desc": "Within a 10-minute walk of the statue, close to the main sights of the centre.",
-        "price": "~€120-250/night"
+        "desc": "Within a 10-minute walk of the statue, close to the main sights of the centre."
       },
       {
         "name": "Mid-range chain hotels",
-        "desc": "Practical options around De Brouckère and the boulevards, easy metro access.",
-        "price": "~€80-120/night"
+        "desc": "Practical options around De Brouckère and the boulevards, easy metro access."
       },
       {
         "name": "Bed & breakfasts",
-        "desc": "A quieter way to stay in Brussels' residential streets.",
-        "price": "~€60-100/night"
+        "desc": "A quieter way to stay in Brussels' residential streets."
       },
       {
         "name": "Heritage hotels",
-        "desc": "Restored historic buildings in the older parts of the city centre.",
-        "price": "~€150-300/night"
+        "desc": "Restored historic buildings in the older parts of the city centre."
       }
     ]
   },
@@ -463,6 +525,11 @@
         "question": "How long does it take to see all three?",
         "answer": "Around 45 to 60 minutes of walking if you do not linger, or up to two hours with photo stops and a café break."
       }
+    ],
+    "related": [
+      "mannekenPis",
+      "jeannekePis",
+      "locationAndMap"
     ]
   },
   "topicRoute": {
@@ -491,6 +558,10 @@
       {
         "label": "Add Jeanneke Pis",
         "value": "From Manneken Pis continue into Impasse de la Fidélité, about 2 minutes further."
+      },
+      {
+        "label": "Checked",
+        "value": "Route steps and distance reviewed against map routing in October 2026."
       }
     ],
     "stepsTitle": "Walking directions",
@@ -529,6 +600,962 @@
         "question": "What else is on the way?",
         "answer": "Rue Neuve shopping street, Place de la Monnaie and eventually Grand Place, which is about 10 minutes from Het Zinneke."
       }
-    ]
+    ],
+    "related": [
+      "grandPlaceRoute",
+      "jeannekeRoute",
+      "locationAndMap"
+    ],
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Het%20Zinneke%20Brussels&destination=Manneken%20Pis%20Brussels&travelmode=walking"
+  },
+  "mapSection": {
+    "title": "Zinneke Pis on the Map",
+    "subtitle": "The bronze dog stands at Rue des Chartreux 35, in the Chartreux district of central Brussels.",
+    "openMaps": "Open in Google Maps",
+    "govtTourismText": "Official tourism information for the Brussels-Capital Region is published by"
+  },
+  "topic": {
+    "locationAndMap": {
+      "pageTitle": "Zinneke Pis Location & Map: Exact Spot, Address and Plus Code",
+      "pageDescription": "Where exactly is Zinneke Pis in Brussels? The address, Plus Code, coordinates and the exact spot on Rue des Chartreux, plus the nearest metro stops and map links.",
+      "title": "Zinneke Pis: Location and Map",
+      "intro": "Het Zinneke is easy to walk past because it is small and sits at street level. This page gives the exact address, the coordinates and Plus Code used by the map links, what to look for on the street, and the closest metro stops — so you can reach it without circling the block.",
+      "sections": [
+        {
+          "title": "The exact spot",
+          "body": "Zinneke Pis stands on the pavement outside number 35 on Rue des Chartreux, in the Chartreux district (Kartuizerswijk) of central Brussels, postal code 1000. The bronze dog leans against a lamppost at roughly knee height, so you will miss it if you scan the houses at eye level.\n\nThe street itself is narrow, cobbled in places and used by residents and delivery traffic. It is a working street rather than a pedestrian square, which is part of the statue's charm — and the reason you should stay on the pavement when you step back for photos."
+        },
+        {
+          "title": "Coordinates and Plus Code",
+          "body": "The map links on this site use latitude 50.84879 and longitude 4.32664, with Plus Code R8XW+G7. These match the public Google Maps listing, which is filed under the name 'Het Zinneke'.\n\nIf your map app drops you at the wrong end of the street, walk towards number 35: the statue is on the pavement beside the lamppost, not on a corner or in a square."
+        },
+        {
+          "title": "How to recognise the right street",
+          "body": "Rue des Chartreux — Kartuizersstraat in Dutch — runs through a quiet district of small food shops, cafés and housing between the busy Rue Neuve shopping street and the Antoine Dansaert quarter.\n\nThe statue sits on the more central end of the street. If you reach the quieter residential lanes further north or a canal-side street, you have gone too far."
+        },
+        {
+          "title": "Nearest metro stops and stations",
+          "body": "The closest metro station is De Brouckère (lines 1 and 5), about an 8-minute walk from the statue. Brussels-Central railway station is slightly further, at 10–12 minutes on foot.\n\nSeveral bus lines cross the boulevards just south of the street, but no tram stops beside the statue. Check the current STIB/MIVB network before travelling."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Address",
+          "value": "Rue des Chartreux 35, 1000 Brussels (Bruxelles), Belgium"
+        },
+        {
+          "label": "Plus Code",
+          "value": "R8XW+G7 Brussels, Belgium"
+        },
+        {
+          "label": "Coordinates",
+          "value": "50.84879, 4.32664"
+        },
+        {
+          "label": "District",
+          "value": "Chartreux / Kartuizerswijk, City of Brussels"
+        },
+        {
+          "label": "Nearest metro",
+          "value": "De Brouckère (lines 1 and 5) — about 8 minutes on foot"
+        },
+        {
+          "label": "Admission",
+          "value": "Free, open street, no ticket and no opening hours"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Where exactly is Zinneke Pis?",
+          "answer": "On the pavement outside number 35 on Rue des Chartreux, 1000 Brussels, beside a lamppost. It is about a 10-minute walk from Grand Place."
+        },
+        {
+          "question": "What is the Plus Code for Zinneke Pis?",
+          "answer": "R8XW+G7 Brussels, Belgium. Typing it into Google Maps places the pin at the statue."
+        },
+        {
+          "question": "Why can't I find it on Google Maps?",
+          "answer": "Search for 'Het Zinneke' rather than 'Zinneke Pis': that is the name the public listing uses, and the pin drops you on Rue des Chartreux at number 35."
+        },
+        {
+          "question": "How do I know I am on the right street?",
+          "answer": "Rue des Chartreux is a narrow, partly cobbled street of small shops and cafés in the Chartreux district, just north of the Rue Neuve shopping street."
+        },
+        {
+          "question": "What is the nearest metro station?",
+          "answer": "De Brouckère on lines 1 and 5, about 8 minutes away. Brussels-Central station is about 10–12 minutes on foot."
+        },
+        {
+          "question": "Is there parking at the statue?",
+          "answer": "No. The street has no visitor parking. The nearest public car parks are under Grand Place and at De Brouckère."
+        }
+      ],
+      "related": [
+        "publicTransport",
+        "grandPlaceRoute",
+        "rueDesChartreux"
+      ],
+      "faqTitle": "Frequently asked questions"
+    },
+    "publicTransport": {
+      "pageTitle": "How to Get to Zinneke Pis by Metro, Bus and Train",
+      "pageDescription": "Public transport to Zinneke Pis in Brussels: the nearest metro stop De Brouckère, train connections from Central and Midi stations, bus and night services, and how tickets work.",
+      "title": "Getting to Zinneke Pis by Public Transport",
+      "intro": "Zinneke Pis sits in the middle of central Brussels, so most visitors arrive on foot from Grand Place or from a nearby station. This page compares the realistic options: metro, train, bus, night services and tickets.",
+      "sections": [
+        {
+          "title": "Metro: De Brouckère is the best stop",
+          "body": "De Brouckère station (lines 1 and 5) is the closest metro stop to the statue, about an 8-minute walk away. From there, follow Rue Neuve north and turn into Rue des Chartreux.\n\nBrussels-Central station is served by the same lines 1 and 5 and is a slightly longer walk of 10–12 minutes, but it is useful if you arrive by train."
+        },
+        {
+          "title": "By train: Central and Midi stations",
+          "body": "From Brussels-Central, either walk (about 15 minutes) or take line 1 or 5 one stop to De Brouckère and walk from there.\n\nFrom Brussels-Midi — the Eurostar and Thalys terminal — take metro line 2 or 6 to Arts-Loi, change to line 1 or 5 towards De Brouckère, then walk about 8 minutes. Allow roughly 25 minutes for the whole trip. Check STIB/MIVB for engineering works before you travel."
+        },
+        {
+          "title": "Bus and tram",
+          "body": "No tram stops directly beside the statue. Several bus lines run along the boulevards and the Rue Neuve area a few minutes south of the street, including stops near De Brouckère and Bourse.\n\nFor current routes and times, use the official operator's journey planner rather than a third-party app."
+        },
+        {
+          "title": "Tickets and fares",
+          "body": "A single STIB/MIVB ticket covers metro, tram and bus for one hour with transfers, and contactless bank cards are accepted at metro gates. If you plan to visit several sights, a day pass is usually cheaper than return singles.\n\nWalking is genuinely competitive here: the statue is only about 10 minutes from Grand Place, so most visitors do not need public transport at all once they are in the centre."
+        },
+        {
+          "title": "Late at night",
+          "body": "Metro services stop around midnight, with the Noctis night network running on weekend nights. At other times a taxi or rideshare from the centre is the practical option, and the walk from Grand Place is short and well lit."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Nearest metro",
+          "value": "De Brouckère — lines 1 and 5, about 8 minutes on foot"
+        },
+        {
+          "label": "From Central Station",
+          "value": "One metro stop to De Brouckère, or a 15-minute walk"
+        },
+        {
+          "label": "From Midi Station",
+          "value": "Metro line 2 or 6 to Arts-Loi, change to line 1 or 5 to De Brouckère — about 25 minutes in total"
+        },
+        {
+          "label": "Operator",
+          "value": "STIB/MIVB — official journey planner and tickets"
+        },
+        {
+          "label": "Walking alternative",
+          "value": "About 10 minutes from Grand Place; the walk beats waiting for a tram"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the nearest metro station to Zinneke Pis?",
+          "answer": "De Brouckère, on lines 1 and 5, about an 8-minute walk from the statue."
+        },
+        {
+          "question": "Can I get to Zinneke Pis directly by tram?",
+          "answer": "No tram stops beside the statue. Buses cross the boulevards a few minutes away, but walking from the centre is usually simpler."
+        },
+        {
+          "question": "How do I get from Brussels-Midi station to Zinneke Pis?",
+          "answer": "Take metro line 2 or 6 to Arts-Loi, change to line 1 or 5 to De Brouckère, then walk about 8 minutes — roughly 25 minutes in total."
+        },
+        {
+          "question": "How do I get from Central Station?",
+          "answer": "Either walk for about 15 minutes, or take line 1 or 5 one stop to De Brouckère and walk from there."
+        },
+        {
+          "question": "Do I need a paper ticket?",
+          "answer": "No. Contactless bank cards work at metro gates, and single tickets cover metro, tram and bus for one hour with transfers."
+        },
+        {
+          "question": "Is public transport running late at night?",
+          "answer": "Metro stops around midnight; the Noctis night network runs on weekend nights. Otherwise taxis or rideshares from the centre are the practical option."
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "centralStationRoute",
+        "midiStationRoute"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=De%20Brouck%C3%A8re%20Brussels&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "Frequently asked questions"
+    },
+    "grandPlaceRoute": {
+      "pageTitle": "Grand Place to Zinneke Pis: Walking Route, Distance and Time",
+      "pageDescription": "Walk from Brussels' Grand Place to Zinneke Pis in about 10 minutes: the route, the roughly 0.8 km distance, the streets to follow and what you pass on the way.",
+      "title": "Grand Place to Zinneke Pis on Foot",
+      "intro": "Grand Place is the natural starting point for a visit to Zinneke Pis. The walk is short, flat and almost entirely through the old centre — about 0.8 km and 10 minutes at a normal pace.",
+      "sections": [
+        {
+          "title": "The route in short",
+          "body": "Leave Grand Place by Rue au Beurre on its northern side, keep going north and continue into Rue des Chartreux. The statue is on the pavement at number 35, against the lamppost.\n\nThere is no steep grade and no complicated junction: if you keep the general direction north and watch for the street name, you will arrive without a map."
+        },
+        {
+          "title": "What you will pass",
+          "body": "You start between the guild houses of Grand Place, pass through streets of small shops and restaurants, and finish on a quieter cobbled street of food shops and cafés. The change in atmosphere is part of the point: the busy tourist centre gives way to a working neighbourhood within a few hundred metres."
+        },
+        {
+          "title": "Surfaces and step-free access",
+          "body": "The route is on paved and partly cobbled city streets and is essentially flat. Most of it is step-free, but old Brussels pavements can have raised kerbs and narrow sections — wheelchair users and people with pushchairs should allow a little extra time, especially on Rue des Chartreux itself."
+        },
+        {
+          "title": "A slightly longer alternative",
+          "body": "If you prefer shopping streets, go via Rue Neuve instead: it adds a few minutes and a lot of shops, and joins Rue des Chartreux at its southern end. The quieter Rue au Beurre route is the one most guides use."
+        }
+      ],
+      "steps": [
+        "Stand with your back to Grand Place's Town Hall and find Rue au Beurre on the northern side of the square",
+        "Follow Rue au Beurre north out of the square",
+        "Continue straight into Rue des Chartreux, keeping north",
+        "Walk along the cobbled street past the small shops and cafés",
+        "The statue is on the pavement at number 35, beside the lamppost"
+      ],
+      "facts": [
+        {
+          "label": "Walking distance",
+          "value": "Roughly 0.8 km from Grand Place to Rue des Chartreux 35"
+        },
+        {
+          "label": "Walking time",
+          "value": "About 10 minutes at a normal pace"
+        },
+        {
+          "label": "Surface",
+          "value": "Paved and partly cobbled streets, essentially flat"
+        },
+        {
+          "label": "Step-free",
+          "value": "Mostly; watch for raised kerbs on the narrower sections"
+        },
+        {
+          "label": "Longer alternative",
+          "value": "Via Rue Neuve, a few minutes more with more shops"
+        }
+      ],
+      "faq": [
+        {
+          "question": "How far is Grand Place from Zinneke Pis?",
+          "answer": "Roughly 0.8 km, or about a 10-minute walk through the old centre."
+        },
+        {
+          "question": "Which street do I take from Grand Place?",
+          "answer": "Rue au Beurre on the northern side of the square, then continue north into Rue des Chartreux to number 35."
+        },
+        {
+          "question": "Is the walk suitable for wheelchairs?",
+          "answer": "It is flat and paved, though partly cobbled with some raised kerbs. Allow extra time on the narrower sections of Rue des Chartreux."
+        },
+        {
+          "question": "Can I combine it with Manneken Pis?",
+          "answer": "Yes. Manneken Pis is on the way between Grand Place and the Chartreux district if you take the Rue Neuve route, and is about 8 minutes from Het Zinneke in the other direction."
+        },
+        {
+          "question": "Is there a shorter way?",
+          "answer": "The streets form a grid, so small variations exist, but nothing meaningfully shortens the walk. About 0.8 km is the realistic minimum."
+        }
+      ],
+      "related": [
+        "centralStationRoute",
+        "locationAndMap",
+        "statues"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Grand%20Place%20Brussels&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "Frequently asked questions"
+    },
+    "centralStationRoute": {
+      "pageTitle": "Brussels Central Station to Zinneke Pis: Walking Directions",
+      "pageDescription": "How to walk from Brussels-Central railway station to Zinneke Pis in about 15 minutes: the route via Mont des Arts and Grand Place, distance, step-free notes and the metro alternative.",
+      "title": "Brussels Central Station to Zinneke Pis on Foot",
+      "intro": "If you arrive at Brussels-Central by train, the statue is an easy walk away. This page gives a route that works, the distance and time, and a one-stop metro alternative for anyone with luggage.",
+      "sections": [
+        {
+          "title": "The route on foot",
+          "body": "Leave the station by the main exit onto Boulevard de l'Impératrice, walk up towards Mont des Arts and take the slope or steps down via Rue Montagne de la Cour to the edge of Grand Place. From there, follow Rue au Beurre north into Rue des Chartreux to number 35.\n\nThe whole walk is about 15 minutes and 1.2 km. It is one of several possible routes through the centre, but it uses recognisable landmarks at every stage."
+        },
+        {
+          "title": "Distance and time",
+          "body": "Roughly 1.2 km, or about 15 minutes at a normal pace with traffic lights. The route is flat apart from the short descent from Mont des Arts to Grand Place, where lifts and ramps are available as an alternative to the steps."
+        },
+        {
+          "title": "With luggage",
+          "body": "Cobbles and crowded pavements make the full walk uncomfortable with suitcases. In that case take metro line 1 or 5 one stop from Gare Centrale to De Brouckère, then walk about 8 minutes — around 20 minutes door to door."
+        },
+        {
+          "title": "By metro instead",
+          "body": "Gare Centrale is on lines 1 and 5, the same lines that serve De Brouckère. One stop separates them, and the walk from De Brouckère to the statue is about 8 minutes along Rue Neuve and Rue des Chartreux."
+        }
+      ],
+      "steps": [
+        "Leave Brussels-Central station by the main exit onto Boulevard de l'Impératrice",
+        "Walk up towards Mont des Arts, then down via Rue Montagne de la Cour towards Grand Place",
+        "Cross the edge of Grand Place and find Rue au Beurre on its northern side",
+        "Follow Rue au Beurre north and continue into Rue des Chartreux",
+        "The statue is on the pavement at number 35, beside the lamppost"
+      ],
+      "facts": [
+        {
+          "label": "Walking distance",
+          "value": "About 1.2 km from the station exit"
+        },
+        {
+          "label": "Walking time",
+          "value": "About 15 minutes at a normal pace"
+        },
+        {
+          "label": "Metro alternative",
+          "value": "Line 1 or 5 one stop to De Brouckère, then about 8 minutes on foot"
+        },
+        {
+          "label": "Surface",
+          "value": "Paved and partly cobbled; one short descent at Mont des Arts"
+        },
+        {
+          "label": "With luggage",
+          "value": "Take the metro — cobbles and crowds make walking awkward"
+        }
+      ],
+      "faq": [
+        {
+          "question": "How far is Brussels-Central station from Zinneke Pis?",
+          "answer": "About 1.2 km, or a 15-minute walk through Mont des Arts and Grand Place."
+        },
+        {
+          "question": "Can I take the metro from Central Station?",
+          "answer": "Yes. Lines 1 and 5 run from Gare Centrale to De Brouckère in one stop; the statue is about 8 minutes' walk from De Brouckère."
+        },
+        {
+          "question": "Is the walk step-free?",
+          "answer": "Almost. The descent from Mont des Arts to Grand Place has steps, but lifts and ramps provide an alternative."
+        },
+        {
+          "question": "What is the easiest landmark to navigate by?",
+          "answer": "Aim for Mont des Arts first, then Grand Place, then Rue au Beurre — each is well signposted for pedestrians."
+        },
+        {
+          "question": "Should I walk if I have a suitcase?",
+          "answer": "No. Take the metro to De Brouckère instead; cobbles and crowded pavements make walking with luggage unpleasant."
+        }
+      ],
+      "related": [
+        "grandPlaceRoute",
+        "publicTransport",
+        "midiStationRoute"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brussels%20Central%20Station&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "Frequently asked questions"
+    },
+    "midiStationRoute": {
+      "pageTitle": "Brussels Midi Station to Zinneke Pis: Metro, Walk or Taxi",
+      "pageDescription": "How to get from Brussels-Midi (Gare du Midi / Zuidstation) to Zinneke Pis: metro with one change at Arts-Loi, the walking route and distance, and notes for Eurostar arrivals.",
+      "title": "Brussels Midi Station to Zinneke Pis",
+      "intro": "Brussels-Midi is where Eurostar and Thalys trains arrive, and it is the busiest station in the country — but it is south of the centre, so reaching Zinneke Pis takes planning. Here are the realistic options.",
+      "sections": [
+        {
+          "title": "By metro: about 25 minutes",
+          "body": "Take metro line 2 or 6 from Gare du Midi to Arts-Loi, change to line 1 or 5 towards De Brouckère, then walk about 8 minutes to the statue. The whole trip takes roughly 25 minutes including the change.\n\nThis is the option most visitors use. Check the STIB/MIVB journey planner on the day, because weekend engineering works can change the pattern."
+        },
+        {
+          "title": "On foot: about 30 minutes",
+          "body": "The walk from Gare du Midi to Rue des Chartreux is about 2.2 km and takes roughly 30 minutes. It runs mostly straight north through the city centre — possible in good weather, but not the most interesting stretch of Brussels for a first walk.\n\nIf you do walk, follow the boulevards north and turn towards Rue Neuve when you reach the centre, or use the Google Maps walking directions linked below."
+        },
+        {
+          "title": "By taxi or rideshare",
+          "body": "A taxi from the station ranks takes about 10 minutes in normal traffic, longer at rush hour. Rideshare pick-up points are signposted at the station.\n\nCentral Brussels has a low-emission zone, but this does not affect short passenger trips — it matters only if you drive yourself."
+        },
+        {
+          "title": "Arriving by Eurostar or Thalys",
+          "body": "Leave the secure area, follow the metro signs for lines 2 and 6, and follow the route above. Ticket gates accept contactless cards, so you do not need to queue for a paper ticket."
+        }
+      ],
+      "facts": [
+        {
+          "label": "By metro",
+          "value": "Line 2 or 6 to Arts-Loi, change to line 1 or 5 to De Brouckère, then 8 minutes' walk — about 25 minutes"
+        },
+        {
+          "label": "On foot",
+          "value": "About 2.2 km and 30 minutes, mostly straight north"
+        },
+        {
+          "label": "By taxi",
+          "value": "About 10 minutes from the station ranks in normal traffic"
+        },
+        {
+          "label": "Best for luggage",
+          "value": "The metro — De Brouckère has lifts, and the final walk is short"
+        }
+      ],
+      "faq": [
+        {
+          "question": "How do I get from Brussels-Midi to Zinneke Pis?",
+          "answer": "Take metro line 2 or 6 to Arts-Loi, change to line 1 or 5 to De Brouckère, then walk about 8 minutes — roughly 25 minutes in total."
+        },
+        {
+          "question": "Is there a direct metro from Midi station?",
+          "answer": "Not a one-seat ride: lines 2 and 6 do not serve De Brouckère, so you change at Arts-Loi to lines 1 or 5."
+        },
+        {
+          "question": "How long is the walk from Midi station?",
+          "answer": "About 2.2 km and 30 minutes, mostly straight north through the centre."
+        },
+        {
+          "question": "Is a taxi expensive?",
+          "answer": "It is a short city trip of about 10 minutes, so it is a reasonable option with luggage or at night, but the metro is cheaper and usually faster at rush hour."
+        },
+        {
+          "question": "I arrive by Eurostar — what is the simplest plan?",
+          "answer": "Follow the metro signs for lines 2 and 6, ride to Arts-Loi, change to line 1 or 5 to De Brouckère, and walk 8 minutes."
+        }
+      ],
+      "related": [
+        "publicTransport",
+        "centralStationRoute",
+        "locationAndMap"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brussels%20Midi%20Station&destination=Het%20Zinneke%20Brussels&travelmode=transit",
+      "faqTitle": "Frequently asked questions"
+    },
+    "jeannekeRoute": {
+      "pageTitle": "Zinneke Pis to Jeanneke Pis: Walking Route, Distance and Time",
+      "pageDescription": "How far Zinneke Pis is from Jeanneke Pis in Brussels and how to walk it: the route via Manneken Pis, about 0.8 km and 10–12 minutes, with step-by-step directions.",
+      "title": "Zinneke Pis to Jeanneke Pis on Foot",
+      "intro": "Zinneke Pis and Jeanneke Pis are the two quietest of Brussels' three Pis statues, and they are close enough to link in one short walk. The natural route passes Manneken Pis on the way.",
+      "sections": [
+        {
+          "title": "The route",
+          "body": "From Rue des Chartreux 35, walk south towards Rue Neuve, follow it towards Place de la Monnaie, then cut into the old centre via Rue du Marché aux Herbes or Rue des Fripiers. Turn towards Rue de l'Étuve to reach Manneken Pis on its corner, then continue a few steps into Impasse de la Fidélité for Jeanneke Pis.\n\nThe whole walk is about 0.8 km and 10–12 minutes, almost entirely flat."
+        },
+        {
+          "title": "What to expect at Jeanneke Pis",
+          "body": "Jeanneke Pis is smaller and far less visited than Manneken Pis. She sits in a narrow alley on a low base, so she is easy to miss even when you are in the right street. Look for the alley entrance rather than scanning for a crowd.\n\nThe alley is a public passage, open at all hours and free to visit."
+        },
+        {
+          "title": "Combining all three Pis statues",
+          "body": "A loop that starts at Grand Place, takes in Manneken Pis, Jeanneke Pis and Het Zinneke, and returns to Grand Place covers roughly 2 km in 45–60 minutes without rushing.\n\nDoing it in the order Grand Place → Manneken Pis → Jeanneke Pis → Het Zinneke keeps the two quiet statues before the busiest streets."
+        }
+      ],
+      "steps": [
+        "Leave Het Zinneke at Rue des Chartreux 35 and head south towards Rue Neuve",
+        "Follow Rue Neuve south past the shopping blocks towards Place de la Monnaie",
+        "Turn into Rue du Marché aux Herbes or Rue des Fripiers towards the old centre",
+        "Reach Rue de l'Étuve — Manneken Pis stands on the corner",
+        "Continue a few steps into Impasse de la Fidélité — Jeanneke Pis is in the alley"
+      ],
+      "facts": [
+        {
+          "label": "Walking distance",
+          "value": "About 0.8 km from Rue des Chartreux 35 to the Impasse de la Fidélité"
+        },
+        {
+          "label": "Walking time",
+          "value": "About 10–12 minutes at a normal pace"
+        },
+        {
+          "label": "Via",
+          "value": "Manneken Pis — the two statues are about 2–3 minutes apart"
+        },
+        {
+          "label": "Difficulty",
+          "value": "Flat, paved and partly cobbled city streets"
+        },
+        {
+          "label": "Admission",
+          "value": "Free, both statues stand on public streets"
+        }
+      ],
+      "faq": [
+        {
+          "question": "How far is Zinneke Pis from Jeanneke Pis?",
+          "answer": "About 0.8 km, or 10–12 minutes on foot via Manneken Pis."
+        },
+        {
+          "question": "Do I have to pass Manneken Pis?",
+          "answer": "You do not have to stop, but the natural route passes its corner — the two statues are only 2–3 minutes apart."
+        },
+        {
+          "question": "Where exactly is Jeanneke Pis?",
+          "answer": "In the Impasse de la Fidélité, a narrow alley a short walk from Manneken Pis and Grand Place."
+        },
+        {
+          "question": "Is the route wheelchair accessible?",
+          "answer": "The streets are flat and paved, though busy and narrow in places. The alley itself is a public passage."
+        },
+        {
+          "question": "Can I see all three Pis statues in one walk?",
+          "answer": "Yes. Grand Place → Manneken Pis → Jeanneke Pis → Het Zinneke → Grand Place is roughly 2 km and takes 45–60 minutes."
+        }
+      ],
+      "related": [
+        "mannekenPis",
+        "jeannekePis",
+        "statues"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Het%20Zinneke%20Brussels&destination=Jeanneke%20Pis%20Brussels&travelmode=walking",
+      "faqTitle": "Frequently asked questions"
+    },
+    "history": {
+      "pageTitle": "Zinneke Pis History: The 1998/1999 Question and Tom Frantzen",
+      "pageDescription": "The history of Zinneke Pis (Het Zinneke) in Brussels: what is documented, why some sources list 1998 and others 1999, and the story behind the bronze dog on Rue des Chartreux.",
+      "title": "The History of Zinneke Pis",
+      "intro": "Zinneke Pis is a recent work compared with Manneken Pis, but it already carries its own small legend. This page separates what is documented from what is folklore — including the 1998 versus 1999 question that even official sources do not agree on.",
+      "sections": [
+        {
+          "title": "What is documented",
+          "body": "Visit Brussels, the official tourism body for the Brussels-Capital Region, lists Het Zinneke (Zinneke-Pis) as a work by the Brussels sculptor Tom Frantzen dated 1999, installed at Rue des Chartreux 35. The public Google Maps listing for the statue uses the name 'Het Zinneke' and the same address.\n\nThe sculpture itself is a small bronze figure of a mongrel dog lifting its leg against a lamppost, set directly on the street without a plinth."
+        },
+        {
+          "title": "Why some sources say 1998",
+          "body": "Tom Frantzen's own website lists the work with the year 1998, while Visit Brussels gives 1999. Both dates circulate online, and this guide shows 1999 because it follows the official tourism listing for the address.\n\nWe deliberately do not turn the difference into a story such as 'created in 1998, installed in 1999' — there is no reliable evidence for that sequence. Where older pages mention 1998, current official information points to 1999, and the artist's own dating is the other live source. Until the two are reconciled by a primary document, showing the discrepancy is the honest option."
+        },
+        {
+          "title": "The third Pis",
+          "body": "Brussels already had a peeing boy and a peeing girl when Frantzen added a dog. Manneken Pis dates from 1619 and is the city's best-known statue; Jeanneke Pis followed in 1987 as a deliberate counterpoint.\n\nHet Zinneke completed the set in the late 1990s, and its joke is different: where the boy is a landmark and the girl a statement, the dog is a self-portrait of the city as a mixed-breed mongrel."
+        },
+        {
+          "title": "The street and its name",
+          "body": "Rue des Chartreux takes its name from the Carthusian monks — the Chartreux — whose order was present in this part of Brussels. The district, the Kartuizerswijk, kept the name long after the religious houses disappeared.\n\nThe street Frantzen chose for the statue is a working one: small food shops, cafés and housing rather than a tourist square. That choice is consistent with the humour of the work."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Creation year",
+          "value": "1999 per Visit Brussels; Tom Frantzen's own site lists 1998"
+        },
+        {
+          "label": "Sculptor",
+          "value": "Tom Frantzen, Brussels sculptor of humorous public bronzes"
+        },
+        {
+          "label": "Material",
+          "value": "Bronze, set at street level against a lamppost"
+        },
+        {
+          "label": "Address",
+          "value": "Rue des Chartreux 35, 1000 Brussels"
+        },
+        {
+          "label": "Context",
+          "value": "The third of Brussels' Pis statues, after Manneken Pis (1619) and Jeanneke Pis (1987)"
+        }
+      ],
+      "faq": [
+        {
+          "question": "When was Zinneke Pis made?",
+          "answer": "Visit Brussels dates it to 1999; Tom Frantzen's own website lists 1998. This guide shows 1999 and notes the discrepancy rather than inventing an explanation."
+        },
+        {
+          "question": "Who created Zinneke Pis?",
+          "answer": "Tom Frantzen, a Brussels sculptor known for humorous bronze figures and animals in public spaces."
+        },
+        {
+          "question": "Why do some websites say 1998?",
+          "answer": "Because the artist's own site uses that year, and many pages copied it. Official tourism information currently points to 1999."
+        },
+        {
+          "question": "Was Zinneke Pis inspired by Manneken Pis?",
+          "answer": "It is a response to the tradition rather than a copy: same city, same joke, different animal. Manneken Pis dates from 1619, Het Zinneke from around 1999."
+        },
+        {
+          "question": "Has the statue been moved or replaced?",
+          "answer": "It still stands at its original address on Rue des Chartreux. Street statues in Brussels are occasionally restored or cleaned, but there is no documented replacement of this work."
+        },
+        {
+          "question": "Why is it called Zinneke?",
+          "answer": "'Zinneke' is a Brussels dialect word for a mongrel dog, which became a nickname for the city's mixed population — the joke the statue makes about itself."
+        }
+      ],
+      "related": [
+        "zinnekeMeaning",
+        "statues",
+        "rueDesChartreux"
+      ],
+      "faqTitle": "Frequently asked questions"
+    },
+    "zinnekeMeaning": {
+      "pageTitle": "What Does 'Zinneke' Mean? The Brussels Dialect Word Explained",
+      "pageDescription": "The meaning of 'Zinneke' in Brussels dialect: mongrel dog, the Senne river and Brusseleir identity — and why the bronze dog on Rue des Chartreux carries the name.",
+      "title": "What Does 'Zinneke' Mean?",
+      "intro": "The name is the whole point of the statue. 'Zinneke' is a Brussels dialect word, and understanding it explains why a small peeing dog became an emblem of the city.",
+      "sections": [
+        {
+          "title": "The word itself",
+          "body": "In Brussels dialect, a 'zinneke' was a mongrel: a dog born from a city dog and a village dog, an animal of mixed origin with no pedigree. The word is linked to the Senne — the Zenne — the river that runs through Brussels, and to the street life that grew around it.\n\nCalling someone a zinneke was never purely an insult. It described a mixed background, and Brusselers applied it to themselves with some pride."
+        },
+        {
+          "title": "From mongrel to city identity",
+          "body": "Over time 'zinneke' became a nickname for the mixed population of Brussels itself — a city that is neither purely Dutch-speaking nor purely French-speaking, but a blend of both plus everything that arrived through its port and its industries.\n\nThat is why the word sticks to the statue: a scruffy street dog of no particular breed is a more honest emblem of Brussels than any grand monument."
+        },
+        {
+          "title": "How the statue uses the joke",
+          "body": "Frantzen's dog is deliberately unheroic. It is small, caught mid-movement, and set against a lamppost on an ordinary street rather than raised on a plinth in a square. Visitors who expect a monument are surprised by a mutt.\n\nThe humour is typical of Brussels' 'zwanze': the local habit of mocking yourself before anyone else can."
+        },
+        {
+          "title": "Related names and spellings",
+          "body": "The statue is known as Het Zinneke ('the mutt'), Zinneke Pis ('the mutt that pees') and Zinneke-Pis. Its Google Maps listing uses 'Het Zinneke', while most visitors search for 'Zinneke Pis'.\n\nIn Dutch it is sometimes written Zinneke Pis Brussel or simply het zinnepisbeeld; in French, Zinneke Pis Bruxelles or le chien qui fait pipi. All of these refer to the same bronze dog."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Literal meaning",
+          "value": "Mongrel — a dog of mixed city and village origin"
+        },
+        {
+          "label": "Language",
+          "value": "Brussels dialect (Brusseleir), with links to the Senne/Zenne river"
+        },
+        {
+          "label": "Figurative meaning",
+          "value": "A nickname for Brussels' mixed population and identity"
+        },
+        {
+          "label": "Statue names",
+          "value": "Het Zinneke, Zinneke Pis, Zinneke-Pis — all the same bronze dog"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What does 'zinneke' mean in Dutch?",
+          "answer": "A mongrel dog — specifically one born from a city dog and a village dog. In Brussels dialect it also came to describe the city's mixed population."
+        },
+        {
+          "question": "Is 'zinneke' an insult?",
+          "answer": "It can be used sharply, but Brusselers use it about themselves with pride. Applied to the statue it is affectionate."
+        },
+        {
+          "question": "What does Zinneke Pis literally mean?",
+          "answer": "Roughly 'the mongrel that pees' — the same naming pattern as Manneken Pis ('the little man who pees') and Jeanneke Pis."
+        },
+        {
+          "question": "Why is a mongrel a symbol of Brussels?",
+          "answer": "Because the city sees itself as a mix: of languages, of neighbourhoods, of arrivals. The dog is a self-mocking emblem of that mixture."
+        },
+        {
+          "question": "What language is Brusseleir?",
+          "answer": "A local dialect of Dutch spoken in Brussels, with French influences and its own vocabulary — the source of words like 'zinneke'."
+        }
+      ],
+      "related": [
+        "history",
+        "statues",
+        "locationAndMap"
+      ],
+      "faqTitle": "Frequently asked questions"
+    },
+    "photos": {
+      "pageTitle": "Zinneke Pis Photos: Best Angles, Times and What You Will See",
+      "pageDescription": "How to photograph Zinneke Pis (Het Zinneke) in Brussels: the angles that work, the quietest times of day, what the small bronze dog really looks like, and our own photo gallery.",
+      "title": "Photographing Zinneke Pis",
+      "intro": "Zinneke Pis is a difficult subject done right: it is small, it sits on a working street, and the light changes quickly between tall houses. This page covers what the statue really looks like, the angles that work, and when to shoot.",
+      "sections": [
+        {
+          "title": "What the statue really looks like",
+          "body": "Het Zinneke is roughly the size of a real dog — much smaller than most visitors expect. It is a bronze mongrel with a curled tail, caught lifting its leg against a lamppost, with a slightly scruffy, humorous modelling that reads better up close than in wide shots.\n\nBecause it stands at knee height on the pavement, most photographs fail by being taken from too far away."
+        },
+        {
+          "title": "Six angles that work",
+          "body": "The front view shows the whole silhouette against the lamppost. A side angle captures the raised leg. A close-up on the head and tail shows the patina and modelling. Including the full lamppost shows the composition the sculptor intended.\n\nCrossing the street and shooting wider places the dog in its cobbled setting, and after dark the street lighting picks out the bronze — though low light needs a higher ISO or a steady hand."
+        },
+        {
+          "title": "When to shoot",
+          "body": "Morning between 8 and 10 is the quietest time, with clean light on the bronze and few people in frame. Evenings from 18 to 20 give warmer light and open café terraces nearby. Winter middays offer the best natural light in the darker months.\n\nThe street has traffic, so stay on the pavement when you step back for a shot."
+        },
+        {
+          "title": "Our gallery",
+          "body": "This site publishes its own photographs of the statue and its street — front, side and detail views, plus the surrounding district in different seasons and at night. They are illustrative images taken on Rue des Chartreux.\n\nThis is an independent, non-commercial visitor guide. If you believe any image is mislabelled or should be credited or removed, please get in touch and we will correct it."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Best time",
+          "value": "Morning 8–10 for empty frames; evening 18–20 for warm light"
+        },
+        {
+          "label": "Photography",
+          "value": "Free and unrestricted — it is a public street"
+        },
+        {
+          "label": "Practical note",
+          "value": "It is a live street: stay on the pavement, watch for traffic"
+        },
+        {
+          "label": "Equipment",
+          "value": "A phone is enough in daylight; night shots need a steady hand or higher ISO"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can I take photos of Zinneke Pis?",
+          "answer": "Yes. Photography is free and unrestricted — the statue stands on a public street."
+        },
+        {
+          "question": "What does Zinneke Pis actually look like?",
+          "answer": "A small bronze mongrel dog, roughly the size of a real dog, lifting its leg against a lamppost at knee height."
+        },
+        {
+          "question": "When is the best time to photograph it?",
+          "answer": "Morning between 8 and 10, when the street is quiet and the light on the bronze is clean."
+        },
+        {
+          "question": "Is it crowded?",
+          "answer": "Rarely busy compared with Manneken Pis. Afternoons bring more shoppers to the street, but you can almost always get a clear shot."
+        },
+        {
+          "question": "Can I take photos at night?",
+          "answer": "Yes. Street lighting picks out the bronze, but low light needs a higher ISO, a tripod or a steady surface."
+        },
+        {
+          "question": "Where do the photos on this site come from?",
+          "answer": "They are our own photographs taken on Rue des Chartreux. Corrections or credit requests are welcome — see the footer for contact details."
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "rueDesChartreux",
+        "grandPlaceRoute"
+      ],
+      "faqTitle": "Frequently asked questions"
+    },
+    "mannekenPis": {
+      "pageTitle": "Manneken Pis Guide: Location, Costumes and Visiting Tips",
+      "pageDescription": "Visiting Manneken Pis near Zinneke Pis: exact location, how far it is, the costume tradition and garderobe, where the original statue is kept, and practical tips.",
+      "title": "Manneken Pis: Visitor Guide",
+      "intro": "Manneken Pis is the statue everyone means when they talk about Brussels. It is also the closest major landmark to Zinneke Pis, about 8 minutes away — so most visitors see both. This guide covers what to expect and how to combine them.",
+      "sections": [
+        {
+          "title": "What it is and where",
+          "body": "Manneken Pis is a small bronze figure of a boy, roughly 61 cm tall, standing on a fountain base at the corner of Rue de l'Étuve and Rue du Chêne, a few minutes' walk from Grand Place. The current version dates from a recasting in the 20th century: earlier statues were stolen or damaged, and the original medieval figure no longer stands in the street.\n\nIt is free, outdoors and accessible at any hour, though the surrounding streets are busiest in the afternoon."
+        },
+        {
+          "title": "The costume tradition",
+          "body": "Manneken Pis is dressed in costumes that change through the year — several hundred outfits have been given by cities, guilds and foreign states. The costume collection is kept and displayed at the Garderobe, the statue's wardrobe museum, a short walk away.\n\nWhether the boy is dressed on the day of your visit depends on the schedule, so treat any costume as a bonus rather than the point of the visit."
+        },
+        {
+          "title": "Where the original statue is",
+          "body": "The original Manneken Pis is kept by the Brussels City Museum in the Maison du Roi on Grand Place, where it is displayed in a glass case. Visiting the street statue and the museum original on the same walk is the classic way to see both.\n\nCheck the museum's own site for opening times and admission before you go."
+        },
+        {
+          "title": "Getting there from Zinneke Pis",
+          "body": "The walk from Rue des Chartreux 35 to Manneken Pis is about 0.6 km and 8 minutes, via Rue Neuve and Place de la Monnaie. Doing Zinneke Pis → Manneken Pis → Grand Place in that order keeps the quiet statue first and the crowds last.\n\nOur step-by-step route page covers the streets in detail."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Location",
+          "value": "Corner of Rue de l'Étuve and Rue du Chêne, near Grand Place"
+        },
+        {
+          "label": "Date",
+          "value": "1619 — the current bronze is a later recasting"
+        },
+        {
+          "label": "Admission",
+          "value": "Free, open street, no opening hours"
+        },
+        {
+          "label": "Distance from Zinneke Pis",
+          "value": "About 0.6 km, an 8-minute walk"
+        },
+        {
+          "label": "Original statue",
+          "value": "Brussels City Museum, Maison du Roi on Grand Place"
+        },
+        {
+          "label": "Costumes",
+          "value": "Changed through the year; collection shown at the Garderobe museum"
+        }
+      ],
+      "faq": [
+        {
+          "question": "How far is Manneken Pis from Zinneke Pis?",
+          "answer": "About 0.6 km, or an 8-minute walk via Rue Neuve and Place de la Monnaie."
+        },
+        {
+          "question": "Is Manneken Pis free to visit?",
+          "answer": "Yes. It stands on a public street with no ticket, no fence and no opening hours."
+        },
+        {
+          "question": "Where is the original Manneken Pis?",
+          "answer": "In the Brussels City Museum in the Maison du Roi on Grand Place. The street statue is a later bronze."
+        },
+        {
+          "question": "Will the statue be wearing a costume?",
+          "answer": "Maybe. Costumes change on a schedule kept by the city and the Garderobe museum; there is no guarantee on any given day."
+        },
+        {
+          "question": "Why is Manneken Pis so famous?",
+          "answer": "It is old, tiny, irreverent and has been stolen, copied and dressed up for centuries — Brussels adopted it as its unofficial emblem."
+        },
+        {
+          "question": "Is Manneken Pis bigger than Zinneke Pis?",
+          "answer": "They are similar in scale. Manneken Pis is roughly 61 cm on its base; Het Zinneke is closer to the size of a real dog at knee height."
+        }
+      ],
+      "related": [
+        "jeannekePis",
+        "statues",
+        "route"
+      ],
+      "faqTitle": "Frequently asked questions"
+    },
+    "jeannekePis": {
+      "pageTitle": "Jeanneke Pis: Location, How to Find It and Why It Was Made",
+      "pageDescription": "How to find Jeanneke Pis in Brussels: the alley location, how far it is from Zinneke Pis and Manneken Pis, what the small statue looks like and why it exists.",
+      "title": "Jeanneke Pis: Visitor Guide",
+      "intro": "Jeanneke Pis is the quietest of Brussels' three Pis statues — small, tucked into an alley, and easy to miss even when you know where you are going. This guide covers how to find her and why she was made.",
+      "sections": [
+        {
+          "title": "Where she is",
+          "body": "Jeanneke Pis stands in the Impasse de la Fidélité, a narrow public alley a short walk from Manneken Pis. The alley entrance is easy to walk past: look for the gap between the buildings rather than for a crowd or a sign.\n\nShe is about 0.8 km and 10–12 minutes from Zinneke Pis on foot, and only 2–3 minutes from Manneken Pis."
+        },
+        {
+          "title": "What she looks like",
+          "body": "The statue is a small bronze figure of a girl, crouching slightly, set on a low base against the wall of the alley. It was installed in 1987 as a deliberate counterpoint to the centuries-old fame of Manneken Pis.\n\nBecause the alley is narrow, the best photographs are taken from directly in front, close up."
+        },
+        {
+          "title": "Why she exists",
+          "body": "By the 1980s Brussels' most famous statue was a boy, and the city's public art had little room for any other answer. Jeanneke Pis was commissioned to complete the joke — and, in the spirit of the zwanze, to laugh at the fame of the original at the same time.\n\nShe is often read as a small feminist statue, and she is certainly the least crowded of the three."
+        },
+        {
+          "title": "Combining her with the other Pis statues",
+          "body": "The classic loop is Grand Place → Manneken Pis → Jeanneke Pis → Het Zinneke → Grand Place, roughly 2 km in 45–60 minutes. Visiting Jeanneke Pis immediately after Manneken Pis adds only a few minutes.\n\nOur walking route pages give the street-by-street directions for each leg."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Location",
+          "value": "Impasse de la Fidélité, a narrow public alley near Manneken Pis"
+        },
+        {
+          "label": "Date",
+          "value": "1987 — a counterpoint to Manneken Pis (1619)"
+        },
+        {
+          "label": "Admission",
+          "value": "Free, public alley, accessible at any hour"
+        },
+        {
+          "label": "Distance from Zinneke Pis",
+          "value": "About 0.8 km, 10–12 minutes on foot"
+        },
+        {
+          "label": "Distance from Manneken Pis",
+          "value": "About 2–3 minutes"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Where is Jeanneke Pis exactly?",
+          "answer": "In the Impasse de la Fidélité, a narrow alley a couple of minutes from Manneken Pis."
+        },
+        {
+          "question": "How far is Jeanneke Pis from Zinneke Pis?",
+          "answer": "About 0.8 km, or 10–12 minutes on foot via Manneken Pis."
+        },
+        {
+          "question": "Why is Jeanneke Pis hard to find?",
+          "answer": "It is small, it sits in a narrow alley, and there is no crowd around it. Look for the alley entrance near Manneken Pis."
+        },
+        {
+          "question": "When was Jeanneke Pis made?",
+          "answer": "In 1987, as a deliberate counterpoint to Manneken Pis."
+        },
+        {
+          "question": "Is Jeanneke Pis free to visit?",
+          "answer": "Yes. She stands in a public alley with no ticket and no opening hours."
+        },
+        {
+          "question": "Which of the three Pis statues is quietest?",
+          "answer": "Jeanneke Pis and Het Zinneke are both quiet compared with Manneken Pis; Jeanneke Pis sees the fewest visitors."
+        }
+      ],
+      "related": [
+        "mannekenPis",
+        "jeannekeRoute",
+        "statues"
+      ],
+      "faqTitle": "Frequently asked questions"
+    },
+    "rueDesChartreux": {
+      "pageTitle": "Rue des Chartreux & the Chartreux District: Brussels Guide",
+      "pageDescription": "A guide to Rue des Chartreux (Kartuizersstraat) in Brussels: the street where Zinneke Pis stands, the Chartreux district, what to see, shops and cafés, and walking tips.",
+      "title": "Rue des Chartreux and the Chartreux District",
+      "intro": "The street is half the reason to visit Zinneke Pis. Rue des Chartreux — Kartuizersstraat in Dutch — is one of those central Brussels streets where the city feels local rather than touristic, and the statue is simply part of the furniture.",
+      "sections": [
+        {
+          "title": "The street",
+          "body": "Rue des Chartreux runs through the Chartreux district (Kartuizerswijk), just north of the Rue Neuve shopping street and a few minutes east of the Antoine Dansaert quarter. It is narrow, partly cobbled, and lined with small food shops, cafés and housing.\n\nThe bronze dog stands on the pavement at number 35, against a lamppost — unmarked, unfenced and easy to miss."
+        },
+        {
+          "title": "The district and its name",
+          "body": "The street and district take their names from the Carthusian monks — the Chartreux — whose order was present in this part of Brussels for centuries. The Dutch name of the street, Kartuizersstraat, comes from the same root.\n\nWhat remains today is a working neighbourhood: bakers, grocers, cafés and apartments, with the busier shopping streets a block away."
+        },
+        {
+          "title": "What to see and do",
+          "body": "Walk the length of the street rather than heading straight to the statue. Look at the shopfronts and the façades, then double back to the lamppost. The district rewards a slow ten minutes more than a fast photo stop.\n\nFrom here you can continue to the Antoine Dansaert quarter for more shops and cafés, or cut back to Rue Neuve for the shopping streets."
+        },
+        {
+          "title": "Practical tips",
+          "body": "Morning is the quietest time on the street; afternoons bring shoppers from Rue Neuve. It is a live street with traffic and deliveries, so stay on the pavement when photographing the statue.\n\nThe nearest metro is De Brouckère, about 8 minutes away, and Grand Place is about 10 minutes on foot."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Street names",
+          "value": "Rue des Chartreux (French) / Kartuizersstraat (Dutch)"
+        },
+        {
+          "label": "District",
+          "value": "Chartreux / Kartuizerswijk, City of Brussels, 1000"
+        },
+        {
+          "label": "Landmark",
+          "value": "Het Zinneke (Zinneke Pis) on the pavement at number 35"
+        },
+        {
+          "label": "Character",
+          "value": "Narrow, partly cobbled, small food shops and cafés"
+        },
+        {
+          "label": "Nearest metro",
+          "value": "De Brouckère (lines 1 and 5), about 8 minutes on foot"
+        },
+        {
+          "label": "Walk to Grand Place",
+          "value": "About 10 minutes via Rue au Beurre"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the Dutch name of Rue des Chartreux?",
+          "answer": "Kartuizersstraat. Brussels street signs are bilingual, so you will see both names."
+        },
+        {
+          "question": "Where is the Chartreux district?",
+          "answer": "In central Brussels, between the Rue Neuve shopping street and the Antoine Dansaert quarter, a few minutes north of Grand Place."
+        },
+        {
+          "question": "Why is it called Chartreux?",
+          "answer": "The name comes from the Carthusian monks (Chartreux / Kartuizers) whose order was once present in this part of the city."
+        },
+        {
+          "question": "What kind of shops are on the street?",
+          "answer": "Mostly small independent food shops and cafés rather than chains — it is a working neighbourhood street."
+        },
+        {
+          "question": "How do I get to Rue des Chartreux?",
+          "answer": "Metro to De Brouckère (about 8 minutes' walk), or walk about 10 minutes from Grand Place via Rue au Beurre."
+        },
+        {
+          "question": "Is the street busy?",
+          "answer": "Quiet in the morning, busier in the afternoon when shoppers spill over from Rue Neuve. It is never crowded like Grand Place."
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "grandPlaceRoute",
+        "photos"
+      ],
+      "faqTitle": "Frequently asked questions"
+    }
   }
 }

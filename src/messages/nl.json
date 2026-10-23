@@ -109,7 +109,9 @@
     "bestTimeSummer": "Avond (18-20 uur): warmer licht, terrassen in de buurt open",
     "bestTimeAutumn": "Namiddag (14-16 uur): aangenaam wandelweer voor de volledige Pis-lus",
     "bestTimeWinter": "Middag (11-14 uur): het beste natuurlijke licht in de donkere maanden",
-    "tip": "Dit is een straat met verkeer, geen voetgangerszone. Blijf op het voetpad als je achteruit stapt voor een foto."
+    "tip": "Dit is een straat met verkeer, geen voetgangerszone. Blijf op het voetpad als je achteruit stapt voor een foto.",
+    "bestTimeWarm": "Lente en zomer",
+    "bestTimeCold": "Herfst en winter"
   },
   "tickets": {
     "title": "Tickets en kosten",
@@ -153,12 +155,76 @@
     "title": "Verder lezen",
     "statues": {
       "linkTitle": "De 3 beroemde Pis-beelden van Brussel",
-      "linkIntro": "Manneken Pis, Jeanneke Pis en Het Zinneke vergeleken, met de afstanden ertussen."
+      "linkIntro": "Manneken Pis, Jeanneke Pis en Het Zinneke vergeleken, met de afstanden ertussen.",
+      "slug": "brussels-pis-statues"
     },
     "route": {
       "linkTitle": "Wandelroute Zinneke Pis naar Manneken Pis",
-      "linkIntro": "Hoe ver het is, hoe lang het duurt en welke straten je volgt tussen de twee beelden."
-    }
+      "linkIntro": "Hoe ver het is, hoe lang het duurt en welke straten je volgt tussen de twee beelden.",
+      "slug": "zinneke-pis-to-manneken-pis"
+    },
+    "locationAndMap": {
+      "linkTitle": "Zinneke Pis: exacte locatie en kaart",
+      "linkIntro": "Het adres, de Plus Code, de coordinaten en de exacte plaats aan de Kartuizersstraat - zodat je rechtstreeks ernaartoe loopt.",
+      "slug": "location-and-map"
+    },
+    "publicTransport": {
+      "linkTitle": "Er komen met metro, bus en trein",
+      "linkIntro": "De dichtstbijzijnde metrostations, treinverbindingen vanuit Centraal en Zuid, tickets en nachtdiensten.",
+      "slug": "public-transport"
+    },
+    "grandPlaceRoute": {
+      "linkTitle": "Wandeling Grote Markt naar Zinneke Pis",
+      "linkIntro": "Ongeveer 10 minuten en 0,8 km: de straten die je volgt van de Grote Markt naar de bronzen hond.",
+      "slug": "grand-place-to-zinneke-pis"
+    },
+    "centralStationRoute": {
+      "linkTitle": "Wandeling Centraal Station naar Zinneke Pis",
+      "linkIntro": "Een route van 15 minuten vanuit Brussel-Centraal, met een metrostation als alternatief.",
+      "slug": "central-station-to-zinneke-pis"
+    },
+    "midiStationRoute": {
+      "linkTitle": "Station Zuid naar Zinneke Pis",
+      "linkIntro": "Metro met een overstap, of 30 minuten wandelen vanaf de Eurostarterminal.",
+      "slug": "midi-station-to-zinneke-pis"
+    },
+    "jeannekeRoute": {
+      "linkTitle": "Wandeling Zinneke Pis naar Jeanneke Pis",
+      "linkIntro": "Ongeveer 0,8 km en 10-12 minuten via Manneken Pis, stap voor stap.",
+      "slug": "zinneke-pis-to-jeanneke-pis"
+    },
+    "history": {
+      "linkTitle": "De geschiedenis van Zinneke Pis",
+      "linkIntro": "Wat gedocumenteerd is, waarom sommige bronnen 1998 en andere 1999 noemen, en het verhaal achter de bronzen hond.",
+      "slug": "history"
+    },
+    "zinnekeMeaning": {
+      "linkTitle": "Wat betekent 'zinneke'?",
+      "linkIntro": "Het Brusselse dialectwoord achter de naam, van straathond tot stadsidentiteit.",
+      "slug": "what-does-zinneke-mean"
+    },
+    "photos": {
+      "linkTitle": "Zinneke Pis fotograferen",
+      "linkIntro": "De invalshoeken die werken, de rustigste momenten van de dag, en onze eigen fotogalerij van het beeld.",
+      "slug": "photos"
+    },
+    "mannekenPis": {
+      "linkTitle": "Manneken Pis bezoekersgids",
+      "linkIntro": "Locatie, kostuums, waar het origineel wordt bewaard, en hoe je het aan je wandeling toevoegt.",
+      "slug": "manneken-pis"
+    },
+    "jeannekePis": {
+      "linkTitle": "Jeanneke Pis bezoekersgids",
+      "linkIntro": "Hoe je het meisje in haar steeg vindt, en waarom ze gemaakt is.",
+      "slug": "jeanneke-pis"
+    },
+    "rueDesChartreux": {
+      "linkTitle": "Kartuizersstraat en de Kartuizerwijk",
+      "linkIntro": "De straat waar het beeld staat: winkels, cafés, kasseien en de naam van de wijk.",
+      "slug": "rue-des-chartreux"
+    },
+    "directionsLink": "Open wandelroute in Google Maps",
+    "relatedTitle": "Lees verder"
   },
   "photoSpots": {
     "title": "Fotoplekken bij Zinneke Pis",
@@ -194,23 +260,19 @@
     "hotels": [
       {
         "name": "Boetiekhotels nabij de Grote Markt",
-        "desc": "Binnen tien minuten wandelen van het beeld, dicht bij de belangrijkste bezienswaardigheden.",
-        "price": "~€120-250/nacht"
+        "desc": "Binnen tien minuten wandelen van het beeld, dicht bij de belangrijkste bezienswaardigheden."
       },
       {
         "name": "Middelgrote ketenhotels",
-        "desc": "Praktische opties rond De Brouckère en de lanen, met vlotte metroverbinding.",
-        "price": "~€80-120/nacht"
+        "desc": "Praktische opties rond De Brouckère en de lanen, met vlotte metroverbinding."
       },
       {
         "name": "Bed & breakfasts",
-        "desc": "Een rustigere manier om in Brusselse woonwijken te overnachten.",
-        "price": "~€60-100/nacht"
+        "desc": "Een rustigere manier om in Brusselse woonwijken te overnachten."
       },
       {
         "name": "Historische hotels",
-        "desc": "Gerenoveerde historische panden in de oudere delen van het centrum.",
-        "price": "~€150-300/nacht"
+        "desc": "Gerenoveerde historische panden in de oudere delen van het centrum."
       }
     ]
   },
@@ -463,6 +525,11 @@
         "question": "Hoe lang duurt het om de drie te zien?",
         "answer": "Ongeveer 45 tot 60 minuten wandelen als je niet talmt, of tot twee uur met fotostops en een terraspauze."
       }
+    ],
+    "related": [
+      "mannekenPis",
+      "jeannekePis",
+      "locationAndMap"
     ]
   },
   "topicRoute": {
@@ -491,6 +558,10 @@
       {
         "label": "Jeanneke Pis erbij",
         "value": "Vanaf Manneken Pis loop je verder de Impasse de la Fidélité in, ongeveer 2 minuten extra."
+      },
+      {
+        "label": "Gecontroleerd",
+        "value": "Stappen en afstand gecontroleerd aan de hand van routeberekeningen in oktober 2026."
       }
     ],
     "stepsTitle": "Wandelbeschrijving",
@@ -529,6 +600,962 @@
         "question": "Wat ligt er nog onderweg?",
         "answer": "De winkelstraat Nieuwstraat, het Munthof en uiteindelijk de Grote Markt, op ongeveer 10 minuten van Het Zinneke."
       }
-    ]
+    ],
+    "related": [
+      "grandPlaceRoute",
+      "jeannekeRoute",
+      "locationAndMap"
+    ],
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Het%20Zinneke%20Brussels&destination=Manneken%20Pis%20Brussels&travelmode=walking"
+  },
+  "mapSection": {
+    "title": "Zinneke Pis op de kaart",
+    "subtitle": "De bronzen hond staat aan de Kartuizersstraat 35, in de Kartuizerwijk in het centrum van Brussel.",
+    "openMaps": "Openen in Google Maps",
+    "govtTourismText": "Officiele toeristische informatie over het Brussels Hoofdstedelijk Gewest wordt uitgegeven door"
+  },
+  "topic": {
+    "locationAndMap": {
+      "pageTitle": "Zinneke Pis locatie & kaart: exacte plaats, adres en Plus Code",
+      "pageDescription": "Waar staat Zinneke Pis precies in Brussel? Het adres, de Plus Code, de coordinaten en de exacte plaats aan de Kartuizersstraat, plus de dichtstbijzijnde metrostations en kaartlinks.",
+      "title": "Zinneke Pis: locatie en kaart",
+      "intro": "Het Zinneke loop je gemakkelijk voorbij, want het is klein en staat op straathoogte. Deze pagina geeft het exacte adres, de coordinaten en Plus Code van de kaartlinks, waar je op de straat op moet letten, en de dichtstbijzijnde metrostations - zodat je er bent zonder de blok te omcirkelen.",
+      "sections": [
+        {
+          "title": "De exacte plaats",
+          "body": "Zinneke Pis staat op de stoep bij nummer 35 van de Kartuizersstraat, in de Kartuizerwijk in het centrum van Brussel, postcode 1000. De bronzen hond leunt tegen een lantaarnpaal op ongeveer kniehoogte, dus je mist hem als je de huizen op ooghoogte afzoekt.\n\nDe straat zelf is smal, deels geplaveid met kasseien en wordt gebruikt door bewoners en leveringen. Het is een werkstraat en geen voetgangersplein - en daarom blijf je best op de stoep als je achteruitstapt voor een foto."
+        },
+        {
+          "title": "Coordinaten en Plus Code",
+          "body": "De kaartlinks op deze site gebruiken breedtegraad 50.84879 en lengtegraad 4.32664, met Plus Code R8XW+G7. Die komen overeen met de openbare Google Maps-vermelding, die onder de naam 'Het Zinneke' staat.\n\nZet je navigatie je aan het verkeerde einde van de straat neer? Loop dan naar nummer 35: het beeld staat op de stoep naast de lantaarnpaal, niet op een hoek of aan een plein."
+        },
+        {
+          "title": "Hoe je de juiste straat herkent",
+          "body": "De Kartuizersstraat loopt door een rustige wijk van kleine voedingswinkels, cafés en woningen, tussen de drukke Nieuwstraat en de Antoine Dansaertwijk.\n\nHet beeld staat aan de meest centrale kant van de straat. Bereik je de rustigere woonstraten verder noordelijk of een grachtstraat, dan ben je te ver gegaan."
+        },
+        {
+          "title": "Dichtstbijzijnde metrostations en sporen",
+          "body": "Het dichtstbijzijnde metrostation is De Brouckère (lijnen 1 en 5), op ongeveer 8 minuten wandelen van het beeld. Het station Brussel-Centraal ligt iets verder, op 10-12 minuten te voet.\n\nVerschillende buslijnen kruisen de boulevards net ten zuiden van de straat, maar geen tram stopt naast het beeld. Check het actuele STIB/MIVB-netwerk voor je vertrekt."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Adres",
+          "value": "Kartuizersstraat 35, 1000 Brussel (Bruxelles), België"
+        },
+        {
+          "label": "Plus Code",
+          "value": "R8XW+G7 Brussel, België"
+        },
+        {
+          "label": "Coordinaten",
+          "value": "50.84879, 4.32664"
+        },
+        {
+          "label": "Wijk",
+          "value": "Kartuizerwijk, Stad Brussel"
+        },
+        {
+          "label": "Dichtstbijzijnde metro",
+          "value": "De Brouckère (lijnen 1 en 5) - ongeveer 8 minuten te voet"
+        },
+        {
+          "label": "Toegang",
+          "value": "Gratis, open straat, geen ticket en geen openingsuren"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Waar staat Zinneke Pis precies?",
+          "answer": "Op de stoep bij nummer 35 van de Kartuizersstraat, 1000 Brussel, naast een lantaarnpaal. Het is ongeveer 10 minuten wandelen van de Grote Markt."
+        },
+        {
+          "question": "Wat is de Plus Code van Zinneke Pis?",
+          "answer": "R8XW+G7 Brussel, België. Typ je dat in Google Maps, dan verschijnt de pin bij het beeld."
+        },
+        {
+          "question": "Waarom vind ik het niet op Google Maps?",
+          "answer": "Zoek op 'Het Zinneke' in plaats van 'Zinneke Pis': dat is de naam van de openbare vermelding, en de pin zet je aan de Kartuizersstraat 35."
+        },
+        {
+          "question": "Hoe weet ik dat ik in de juiste straat ben?",
+          "answer": "De Kartuizersstraat is een smalle, deels met kasseien geplaveide straat met kleine winkels en cafés in de Kartuizerwijk, net ten noorden van de Nieuwstraat."
+        },
+        {
+          "question": "Wat is het dichtstbijzijnde metrostation?",
+          "answer": "De Brouckère op lijnen 1 en 5, op ongeveer 8 minuten. Station Brussel-Centraal ligt op 10-12 minuten te voet."
+        },
+        {
+          "question": "Is er parking bij het beeld?",
+          "answer": "Nee. De straat heeft geen bezoekersparking. De dichtstbijzijnde openbare parkings zijn onder de Grote Markt en bij De Brouckère."
+        }
+      ],
+      "related": [
+        "publicTransport",
+        "grandPlaceRoute",
+        "rueDesChartreux"
+      ],
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "publicTransport": {
+      "pageTitle": "Zo kom je met metro, bus en trein bij Zinneke Pis",
+      "pageDescription": "Met het openbaar vervoer naar Zinneke Pis in Brussel: het dichtstbijzijnde metrostation De Brouckère, treinverbindingen vanuit Centraal en Zuid, bus- en nachtdiensten, en hoe tickets werken.",
+      "title": "Met het openbaar vervoer naar Zinneke Pis",
+      "intro": "Zinneke Pis staat midden in het centrum van Brussel, dus de meeste bezoekers komen te voet vanaf de Grote Markt of vanaf een station in de buurt. Deze pagina vergelijkt de realistische opties: metro, trein, bus, nachtdiensten en tickets.",
+      "sections": [
+        {
+          "title": "Metro: De Brouckère is de beste halte",
+          "body": "Station De Brouckère (lijnen 1 en 5) is het dichtstbijzijnde metrostation van het beeld, op ongeveer 8 minuten wandelen. Volg daarna de Nieuwstraat noordwaarts en sla de Kartuizersstraat in.\n\nStation Brussel-Centraal wordt door dezelfde lijnen 1 en 5 bediend en ligt iets verder lopen, op 10-12 minuten, maar is handig als je met de trein aankomt."
+        },
+        {
+          "title": "Met de trein: Centraal en Zuid",
+          "body": "Vanuit Brussel-Centraal loop je ofwel (ongeveer 15 minuten) of neem je lijn 1 of 5 één halte naar De Brouckère en loop je verder.\n\nVanuit Brussel-Zuid - de Eurostar- en Thalysterminal - neem je metrolijn 2 of 6 naar Arts-Loi, stap je over naar lijn 1 of 5 richting De Brouckère en loop je ongeveer 8 minuten. Reken op ongeveer 25 minuten voor de hele rit. Check STIB/MIVB op werkzaamheden voor je vertrekt."
+        },
+        {
+          "title": "Bus en tram",
+          "body": "Geen tram stopt direct naast het beeld. Verschillende buslijnen rijden over de boulevards en in de Nieuwstraatwijk, een paar minuten ten zuiden van de straat, met halten bij De Brouckère en de Beurs.\n\nGebruik voor actuele routes en tijden de routeplanner van de officiele operator en geen app van een derde partij."
+        },
+        {
+          "title": "Tickets en tarieven",
+          "body": "Een enkel STIB/MIVB-ticket geldt voor metro, tram en bus gedurende een uur met overstapmogelijkheid, en contactloze bankkaarten worden geaccepteerd bij de metropoortjes. Wil je meerdere bezienswaardigheden bezoeken, dan is een dagpas meestal goedkoper.\n\nWandelen is hier echt een serieuze optie: het beeld staat slechts ongeveer 10 minuten van de Grote Markt, dus eens je in het centrum bent heb je meest geen openbaar vervoer nodig."
+        },
+        {
+          "title": "'s Nachts",
+          "body": "De metro stopt rond middernacht, met het Noctis-nachtdienst op weekendnachten. Op andere momenten is een taxi of rideshare vanuit het centrum de praktische optie, en de wandeling vanaf de Grote Markt is kort en goed verlicht."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Dichtstbijzijnde metro",
+          "value": "De Brouckère - lijnen 1 en 5, ongeveer 8 minuten te voet"
+        },
+        {
+          "label": "Vanaf Centraal Station",
+          "value": "Eén metrostation naar De Brouckère, of 15 minuten wandelen"
+        },
+        {
+          "label": "Vanaf Station Zuid",
+          "value": "Metrolijn 2 of 6 naar Arts-Loi, overstappen naar lijn 1 of 5 naar De Brouckère - ongeveer 25 minuten totaal"
+        },
+        {
+          "label": "Operator",
+          "value": "STIB/MIVB - officiele routeplanner en tickets"
+        },
+        {
+          "label": "Alternatief te voet",
+          "value": "Ongeveer 10 minuten vanaf de Grote Markt; wandelen is sneller dan wachten op een tram"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wat is het dichtstbijzijnde metrostation van Zinneke Pis?",
+          "answer": "De Brouckère, op lijnen 1 en 5, ongeveer 8 minuten wandelen van het beeld."
+        },
+        {
+          "question": "Kan ik Zinneke Pis rechtstreeks met de tram bereiken?",
+          "answer": "Er stopt geen tram naast het beeld. Bussen rijden over de boulevards een paar minuten verder, maar wandelen vanuit het centrum is meest simpeler."
+        },
+        {
+          "question": "Hoe kom ik van Station Zuid naar Zinneke Pis?",
+          "answer": "Neem metrolijn 2 of 6 naar Arts-Loi, stap over naar lijn 1 of 5 naar De Brouckère en loop ongeveer 8 minuten - ongeveer 25 minuten in totaal."
+        },
+        {
+          "question": "Hoe kom ik vanaf Centraal Station?",
+          "answer": "Wandel ongeveer 15 minuten, of neem lijn 1 of 5 een station naar De Brouckère en loop vandaar verder."
+        },
+        {
+          "question": "Heb ik een papieren ticket nodig?",
+          "answer": "Nee. Contactloze bankkaarten werken bij de metropoortjes, en een enkelticket geldt voor metro, tram en bus gedurende een uur met overstap."
+        },
+        {
+          "question": "Rijdt er 's nachts nog openbaar vervoer?",
+          "answer": "De metro stopt rond middernacht; het Noctis-nachtdienst rijdt op weekendnachten. Anders is een taxi of rideshare vanuit het centrum de praktische optie."
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "centralStationRoute",
+        "midiStationRoute"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=De%20Brouck%C3%A8re%20Brussels&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "grandPlaceRoute": {
+      "pageTitle": "Grote Markt naar Zinneke Pis: wandelroute, afstand en tijd",
+      "pageDescription": "Wandel van de Grote Markt in Brussel naar Zinneke Pis in ongeveer 10 minuten: de route, de ongeveer 0,8 km afstand, de straten die je volgt en wat je onderweg tegenkomt.",
+      "title": "Van de Grote Markt naar Zinneke Pis te voet",
+      "intro": "De Grote Markt is het natuurlijke startpunt voor een bezoek aan Zinneke Pis. De wandeling is kort, vlak en loopt bijna volledig door de oude kern - ongeveer 0,8 km en 10 minuten op normaal tempo.",
+      "sections": [
+        {
+          "title": "De route in het kort",
+          "body": "Verlaat de Grote Markt via de Boterstraat aan de noordkant, ga noordwaarts verder en sla de Kartuizersstraat in. Het beeld staat op de stoep bij nummer 35, tegen de lantaarnpaal.\n\nEr is geen steile helling en geen ingewikkelde kruising: houd de algemene richting noord en let op de straatnaam, dan kom je aan zonder kaart."
+        },
+        {
+          "title": "Wat je onderweg ziet",
+          "body": "Je start tussen de gildehuizen van de Grote Markt, loopt door straten met kleine winkels en restaurants en eindigt op een rustigere kasseistraat met voedingswinkels en cafés. Die verandering van sfeer is deel van het punt: het drukke toeristische centrum maakt binnen een paar honderd meter plaats voor een werkbuurt."
+        },
+        {
+          "title": "Ondergrond en stappenloos",
+          "body": "De route loopt over geplaveide en deels met kasseien geplaveide stadsstraten en is vrijwel vlak. Het grootste deel is stappenloos, maar oude Brusselse stoepen kunnen hoge trottoirranden en smalle passages hebben - rolstoelgebruikers en mensen met een kinderwagen laten best wat extra tijd rekken, vooral aan de Kartuizersstraat zelf."
+        },
+        {
+          "title": "Een iets langer alternatief",
+          "body": "Wil je liever winkelstraten, neem dan de Nieuwstraat: dat kost een paar minuten meer en levert veel meer winkels op, en komt aan het zuidelijke einde van de Kartuizersstraat uit. De rustige route via de Boterstraat is degene die de meeste gidsen gebruiken."
+        }
+      ],
+      "steps": [
+        "Ga met je rug naar het stadhuis op de Grote Markt staan en zoek de Boterstraat aan de noordkant van het plein",
+        "Volg de Boterstraat noordwaarts het plein uit",
+        "Ga rechtdoor de Kartuizersstraat in en blijf noordwaarts lopen",
+        "Loop de kasseistraat langs de kleine winkels en cafés",
+        "Het beeld staat op de stoep bij nummer 35, naast de lantaarnpaal"
+      ],
+      "facts": [
+        {
+          "label": "Wandelafstand",
+          "value": "Ongeveer 0,8 km van de Grote Markt naar de Kartuizersstraat 35"
+        },
+        {
+          "label": "Wandeltijd",
+          "value": "Ongeveer 10 minuten op normaal tempo"
+        },
+        {
+          "label": "Ondergrond",
+          "value": "Geplaveide en deels met kasseien geplaveide straten, vrijwel vlak"
+        },
+        {
+          "label": "Stappenloos",
+          "value": "Grotendeels; let op hoge trottoirranden op de smallere stukken"
+        },
+        {
+          "label": "Langer alternatief",
+          "value": "Via de Nieuwstraat, een paar minuten meer met meer winkels"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hoe ver is de Grote Markt van Zinneke Pis?",
+          "answer": "Ongeveer 0,8 km, of ongeveer 10 minuten wandelen door de oude kern."
+        },
+        {
+          "question": "Welke straat neem ik vanaf de Grote Markt?",
+          "answer": "De Boterstraat aan de noordkant van het plein, dan noordwaarts verder de Kartuizersstraat in tot nummer 35."
+        },
+        {
+          "question": "Is de wandeling geschikt voor rolstoelen?",
+          "answer": "Hij is vlak en geplaveid, maar deels met kasseien en met enkele hoge trottoirranden. Houd extra tijd rekken op de smallere stukken van de Kartuizersstraat."
+        },
+        {
+          "question": "Kan ik het combineren met Manneken Pis?",
+          "answer": "Ja. Manneken Pis ligt onderweg tussen de Grote Markt en de Kartuizerwijk als je via de Nieuwstraat loopt, en op ongeveer 8 minuten van Het Zinneke in de andere richting."
+        },
+        {
+          "question": "Is er een kortere weg?",
+          "answer": "De straten vormen een raster, dus er zijn kleine variaties, maar niets verkort de wandeling wezenlijk. Ongeveer 0,8 km is de realistische minimumafstand."
+        }
+      ],
+      "related": [
+        "centralStationRoute",
+        "locationAndMap",
+        "statues"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Grand%20Place%20Brussels&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "centralStationRoute": {
+      "pageTitle": "Van Centraal Station naar Zinneke Pis: wandelroute",
+      "pageDescription": "Wandel vanaf station Brussel-Centraal naar Zinneke Pis in ongeveer 15 minuten: de route via Kunstberg en de Grote Markt, afstand, stappenloze notities en het metro-alternatief.",
+      "title": "Van Brussel-Centraal naar Zinneke Pis te voet",
+      "intro": "Kom je met de trein aan in Brussel-Centraal, dan ligt het beeld op loopafstand. Deze pagina geeft een route die werkt, de afstand en tijd, en een metro-alternatief op een halte voor reizigers met bagage.",
+      "sections": [
+        {
+          "title": "De route te voet",
+          "body": "Verlaat het station via de hoofduitgang op het Boulevard de l'Impératrice, loop richting Kunstberg en daal af via de Hofbergstraat naar de rand van de Grote Markt. Volg daarna de Boterstraat noordwaarts de Kartuizersstraat in tot nummer 35.\n\nDe hele wandeling is ongeveer 15 minuten en 1,2 km. Het is een van de mogelijke routes door het centrum, maar gebruikt op elke fase herkenbare orientatiepunten."
+        },
+        {
+          "title": "Afstand en tijd",
+          "body": "Ongeveer 1,2 km, of ongeveer 15 minuten op normaal tempo met verkeerslichten. De route is vlak, behalve de korte daling van Kunstberg naar de Grote Markt, waar liften en hellingen als alternatief voor de trappen dienen."
+        },
+        {
+          "title": "Met bagage",
+          "body": "Kasseien en drukke stoepen maken de volledige wandeling met koffers ongemakkelijk. Neem in dat geval metrolijn 1 of 5 een halte van Gare Centrale naar De Brouckère en loop ongeveer 8 minuten - ongeveer 20 minuten van deur tot deur."
+        },
+        {
+          "title": "Met de metro",
+          "body": "Gare Centrale ligt op lijnen 1 en 5, dezelfde lijnen die De Brouckère bedienen. Een halte scheidt ze, en de wandeling van De Brouckère naar het beeld is ongeveer 8 minuten via de Nieuwstraat en de Kartuizersstraat."
+        }
+      ],
+      "steps": [
+        "Verlaat station Brussel-Centraal via de hoofduitgang op het Boulevard de l'Impératrice",
+        "Loop richting Kunstberg en daal af via de Hofbergstraat naar de Grote Markt",
+        "Steek de Grote Markt over naar de noordkant en zoek de Boterstraat aan de noordkant",
+        "Volg de Boterstraat noordwaarts en ga rechtdoor de Kartuizersstraat in",
+        "Het beeld staat op de stoep bij nummer 35, naast de lantaarnpaal"
+      ],
+      "facts": [
+        {
+          "label": "Wandelafstand",
+          "value": "Ongeveer 1,2 km vanaf de stationuitgang"
+        },
+        {
+          "label": "Wandeltijd",
+          "value": "Ongeveer 15 minuten op normaal tempo"
+        },
+        {
+          "label": "Metro-alternatief",
+          "value": "Lijn 1 of 5 één halte naar De Brouckère, dan ongeveer 8 minuten te voet"
+        },
+        {
+          "label": "Ondergrond",
+          "value": "Geplaveid en deels met kasseien; een korte daling bij Kunstberg"
+        },
+        {
+          "label": "Met bagage",
+          "value": "Neem de metro - kasseien en drukte maken wandelen lastig"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hoe ver is station Brussel-Centraal van Zinneke Pis?",
+          "answer": "Ongeveer 1,2 km, of 15 minuten wandelen via Kunstberg en de Grote Markt."
+        },
+        {
+          "question": "Kan ik vanaf Centraal Station de metro nemen?",
+          "answer": "Ja. Lijnen 1 en 5 rijden van Gare Centrale in een halte naar De Brouckère; het beeld ligt op ongeveer 8 minuten wandelen van De Brouckère."
+        },
+        {
+          "question": "Is de wandeling stappenloos?",
+          "answer": "Bijna. De daling van Kunstberg naar de Grote Markt heeft trappen, maar liften en hellingen bieden een alternatief."
+        },
+        {
+          "question": "Welk herkenningspunt is het makkelijkst om op te navigeren?",
+          "answer": "Mik eerst op Kunstberg, dan op de Grote Markt, dan op de Boterstraat - elk is een duidelijk oriëntatiepunt voor voetgangers."
+        },
+        {
+          "question": "Moet ik wandelen als ik een koffer heb?",
+          "answer": "Neem liever de metro naar De Brouckère; kasseien en drukke stoepen maken wandelen met bagage onprettig."
+        }
+      ],
+      "related": [
+        "grandPlaceRoute",
+        "publicTransport",
+        "midiStationRoute"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brussels%20Central%20Station&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "midiStationRoute": {
+      "pageTitle": "Van Station Zuid naar Zinneke Pis: metro, wandelen of taxi",
+      "pageDescription": "Zo kom je van Brussel-Zuid (Gare du Midi / Zuidstation) bij Zinneke Pis: metro met een overstap in Arts-Loi, de wandelroute en afstand, en tips voor Eurostar-reizigers.",
+      "title": "Van Station Zuid naar Zinneke Pis",
+      "intro": "Brussel-Zuid is waar de Eurostar en Thalys aankomen, en het is het drukste station van het land - maar het ligt ten zuiden van het centrum, dus Zinneke Pis bereiken vraagt planning. Dit zijn de realistische opties.",
+      "sections": [
+        {
+          "title": "Met de metro: ongeveer 25 minuten",
+          "body": "Neem metrolijn 2 of 6 van Gare du Midi naar Arts-Loi, stap over naar lijn 1 of 5 richting De Brouckère en loop ongeveer 8 minuten naar het beeld. De hele rit duurt ongeveer 25 minuten inclusief de overstap.\n\nDit is de optie die de meeste bezoekers gebruiken. Check de STIB/MIVB-routeplanner op de dag zelf, want werkzaamheden in het weekend kunnen het patroon veranderen."
+        },
+        {
+          "title": "Te voet: ongeveer 30 minuten",
+          "body": "De wandeling van Gare du Midi naar de Kartuizersstraat is ongeveer 2,2 km en duurt ongeveer 30 minuten. Hij loopt meestal recht noordwaarts door het centrum - mogelijk bij goed weer, maar niet het interessantste stukje Brussel voor een eerste wandeling.\n\nLoop je toch, volg dan de boulevards noordwaarts en sla richting Nieuwstraat af als je het centrum bereikt, of gebruik de Google Maps-wandelroute hieronder."
+        },
+        {
+          "title": "Met taxi of rideshare",
+          "body": "Een taxi vanaf de stationshalls duurt ongeveer 10 minuten bij normaal verkeer, langer in de spits. Ophalpunten voor rideshares zijn bij het station aangegeven.\n\nCentraal Brussel heeft een lage-emissiezone, maar dat heeft geen invloed op korte passagiersritten - het telt alleen als je zelf rijdt."
+        },
+        {
+          "title": "Aankomst met Eurostar of Thalys",
+          "body": "Verlaat het beveiligde gebied, volg de metro-borden voor lijnen 2 en 6 en volg de route hierboven. De poortjes accepteren contactloze kaarten, dus je hoeft niet te wachten op een papieren ticket."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Met de metro",
+          "value": "Lijn 2 of 6 naar Arts-Loi, overstappen naar lijn 1 of 5 naar De Brouckère, dan 8 minuten wandelen - ongeveer 25 minuten"
+        },
+        {
+          "label": "Te voet",
+          "value": "Ongeveer 2,2 km en 30 minuten, meestal recht noordwaarts"
+        },
+        {
+          "label": "Met taxi",
+          "value": "Ongeveer 10 minuten vanaf de stationshalls bij normaal verkeer"
+        },
+        {
+          "label": "Best met bagage",
+          "value": "De metro - De Brouckère heeft liften en de laatste wandeling is kort"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hoe kom ik van Brussel-Zuid naar Zinneke Pis?",
+          "answer": "Neem metrolijn 2 of 6 naar Arts-Loi, stap over naar lijn 1 of 5 naar De Brouckère en loop ongeveer 8 minuten - ongeveer 25 minuten in totaal."
+        },
+        {
+          "question": "Is er een directe metro vanaf Station Zuid?",
+          "answer": "Geen rechte verbinding: lijnen 2 en 6 bedienen De Brouckère niet, dus je stap over in Arts-Loi naar lijn 1 of 5."
+        },
+        {
+          "question": "Hoe lang is de wandeling vanaf Station Zuid?",
+          "answer": "Ongeveer 2,2 km en 30 minuten, meestal recht noordwaarts door het centrum."
+        },
+        {
+          "question": "Is een taxi duur?",
+          "answer": "Het is een korte stadrit van ongeveer 10 minuten, dus het is een redelijke optie met bagage of 's nachts, maar de metro is goedkoper en meest sneller in de spits."
+        },
+        {
+          "question": "Ik kom met de Eurostar aan - wat is het simpelste plan?",
+          "answer": "Volg de metro-borden voor lijnen 2 en 6, rij naar Arts-Loi, stap over naar lijn 1 of 5 naar De Brouckère en loop 8 minuten."
+        }
+      ],
+      "related": [
+        "publicTransport",
+        "centralStationRoute",
+        "locationAndMap"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brussels%20Midi%20Station&destination=Het%20Zinneke%20Brussels&travelmode=transit",
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "jeannekeRoute": {
+      "pageTitle": "Van Zinneke Pis naar Jeanneke Pis: wandelroute, afstand en tijd",
+      "pageDescription": "Hoe ver Zinneke Pis van Jeanneke Pis in Brussel ligt en hoe je erloopt: de route via Manneken Pis, ongeveer 0,8 km en 10-12 minuten, met stapsgewijze aanwijzingen.",
+      "title": "Van Zinneke Pis naar Jeanneke Pis te voet",
+      "intro": "Zinneke Pis en Jeanneke Pis zijn de twee rustigste van de drie Brusselse Pis-beelden, en ze liggen dicht genoeg bij elkaar voor een korte wandeling. De natuurlijke route loopt langs Manneken Pis.",
+      "sections": [
+        {
+          "title": "De route",
+          "body": "Van de Kartuizersstraat 35 loop je zuidwaarts richting Nieuwstraat, volg je die richting Place de la Monnaie en snijdt je de oude kern in via de rue du Marché aux Herbes ou la rue des Fripiers. Sla de Stoofstraat in om Manneken Pis op de hoek te bereiken en ga een paar stappen verder de Impasse de la Fidélité in voor Jeanneke Pis.\n\nDe hele wandeling is ongeveer 0,8 km en 10-12 minuten, bijna volledig vlak."
+        },
+        {
+          "title": "Wat je bij Jeanneke Pis verwacht",
+          "body": "Jeanneke Pis is kleiner en veel minder bezocht dan Manneken Pis. Ze staat in een smalle steeg op een lage voet - makkelijk te missen, zelfs als je in de juiste straat bent. Zoek de ingang van de steeg in plaats van naar een menigte te speuren.\n\nDe steeg is een openbare doorgang, altijd toegankelijk en gratis te bezoeken."
+        },
+        {
+          "title": "Alle drie de Pis-beelden combineren",
+          "body": "Een lus die bij de Grote Markt start, Manneken Pis, Jeanneke Pis en Het Zinneke aandaan en terugkeert naar de Grote Markt beslaat ongeveer 2 km in 45-60 minuten zonder haast.\n\nDoe het in de volgorde Grote Markt - Manneken Pis - Jeanneke Pis - Het Zinneke, dan houd je de twee rustige beelden voor de drukste straten."
+        }
+      ],
+      "steps": [
+        "Verlaat Het Zinneke aan de Kartuizersstraat 35 en loop zuidwaarts richting Nieuwstraat",
+        "Volg de Nieuwstraat zuidwaarts langs de winkelblokken richting Place de la Monnaie",
+        "Sla de rue du Marché aux Herbes ou la rue des Fripiers in richting de oude kern",
+        "Bereik de Stoofstraat - Manneken Pis staat op de hoek",
+        "Ga een paar stappen verder de Impasse de la Fidélité in - Jeanneke Pis staat in de steeg"
+      ],
+      "facts": [
+        {
+          "label": "Wandelafstand",
+          "value": "Ongeveer 0,8 km van de Kartuizersstraat 35 naar de Impasse de la Fidélité"
+        },
+        {
+          "label": "Wandeltijd",
+          "value": "Ongeveer 10-12 minuten op normaal tempo"
+        },
+        {
+          "label": "Via",
+          "value": "Manneken Pis - de twee beelden liggen 2-3 minuten uit elkaar"
+        },
+        {
+          "label": "Moeilijkheid",
+          "value": "Vlakke, geplaveide en deels met kasseien geplaveide stadsstraten"
+        },
+        {
+          "label": "Toegang",
+          "value": "Gratis, beide beelden staan op openbare straten"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hoe ver is Zinneke Pis van Jeanneke Pis?",
+          "answer": "Ongeveer 0,8 km, of 10-12 minuten te voet via Manneken Pis."
+        },
+        {
+          "question": "Moet ik langs Manneken Pis?",
+          "answer": "Je hoeft niet te stoppen, maar de natuurlijke route komt langs de hoek - de twee beelden liggen slechts 2-3 minuten uit elkaar."
+        },
+        {
+          "question": "Waar staat Jeanneke Pis precies?",
+          "answer": "In de Impasse de la Fidélité, een smalle openbare steeg op korte afstand van Manneken Pis en de Grote Markt."
+        },
+        {
+          "question": "Is de route toegankelijk voor rolstoelen?",
+          "answer": "De straten zijn vlak en geplaveid, maar druk en smal op plaatsen. De steeg zelf is een openbare doorgang."
+        },
+        {
+          "question": "Kan ik alle drie de Pis-beelden in een wandeling zien?",
+          "answer": "Ja. Grote Markt - Manneken Pis - Jeanneke Pis - Het Zinneke - Grote Markt is ongeveer 2 km en duurt 45-60 minuten."
+        }
+      ],
+      "related": [
+        "mannekenPis",
+        "jeannekePis",
+        "statues"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Het%20Zinneke%20Brussels&destination=Jeanneke%20Pis%20Brussels&travelmode=walking",
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "history": {
+      "pageTitle": "Geschiedenis van Zinneke Pis: de vraag 1998 of 1999 en Tom Frantzen",
+      "pageDescription": "De geschiedenis van Zinneke Pis (Het Zinneke) in Brussel: wat gedocumenteerd is, waarom sommige bronnen 1998 en andere 1999 noemen, en het verhaal achter de bronzen hond aan de Kartuizersstraat.",
+      "title": "De geschiedenis van Zinneke Pis",
+      "intro": "Zinneke Pis is een recent werk vergeleken met Manneken Pis, maar draagt al zijn eigen kleine legende. Deze pagina scheidt wat gedocumenteerd is van wat folklore is - inclusief de vraag 1998 of 1999, waar zelfs officiele bronnen het niet over eens zijn.",
+      "sections": [
+        {
+          "title": "Wat gedocumenteerd is",
+          "body": "Visit Brussels, het officiele toerismeorgaan van het Brussels Hoofdstedelijk Gewest, vermeldt Het Zinneke (Zinneke-Pis) als een werk van de Brusselse beeldhouwer Tom Frantzen uit 1999, aangebracht aan de Kartuizersstraat 35. De openbare Google Maps-vermelding van het beeld gebruikt de naam 'Het Zinneke' en hetzelfde adres.\n\nHet beeld zelf is een kleine bronzen figuur van een straathond die zijn pof tegen een lantaarnpaal heft, direct op straat gezet zonder sokkel."
+        },
+        {
+          "title": "Waarom sommige bronnen 1998 zeggen",
+          "body": "De eigen website van Tom Frantzen vermeldt het werk met het jaar 1998, terwijl Visit Brussels 1999 geeft. Beide datums circuleren online, en deze gids toont 1999 omdat hij de officiele toeristische vermelding voor het adres volgt.\n\nWe maken er bewust geen verhaal van als 'gemaakt in 1998, geplaatst in 1999' - daarvoor is er geen betrouwbaar bewijs. Waar oudere pagina's 1998 noemen, wijst actuele officiele informatie naar 1999, en de datering door de kunstenaar zelf is de andere levende bron. Zolang de twee niet door een primair document worden verzoend, is het eerlijk om het verschil te tonen."
+        },
+        {
+          "title": "De derde Pis",
+          "body": "Brussel had al een plassende jongen en een plassend meisje toen Frantzen een hond toevoegde. Manneken Pis dateert uit 1619 en is het bekendste beeld van de stad; Jeanneke Pis volgde in 1987 als een bewuste tegenhanger.\n\nHet Zinneke voltooide de serie in de late jaren negentig, en de grap is anders: waar de jongen een herkenningspunt is en het meisje een statement, is de hond een zelfportret van de stad als bastaardhond."
+        },
+        {
+          "title": "De straat en haar naam",
+          "body": "De Kartuizersstraat heeft zijn naam van de kartuizers - de Chartreux - wiens orde eeuwenlang in dit deel van Brussel aanwezig was. De wijk, de Kartuizerwijk, behield de naam lang nadat de kloosters verdwenen waren.\n\nDe straat die Frantzen voor het beeld koos is een werkstraat: kleine voedingswinkels, cafés en woningen in plaats van een toeristisch plein. Die keuze past bij de humor van het werk."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Ontstaansjaar",
+          "value": "1999 volgens Visit Brussels; de eigen site van Tom Frantzen vermeldt 1998"
+        },
+        {
+          "label": "Beeldhouwer",
+          "value": "Tom Frantzen, Brusselse beeldhouwer van humoristische bronzen"
+        },
+        {
+          "label": "Materiaal",
+          "value": "Brons, op straathoogte tegen een lantaarnpaal"
+        },
+        {
+          "label": "Adres",
+          "value": "Kartuizersstraat 35, 1000 Brussel"
+        },
+        {
+          "label": "Context",
+          "value": "Het derde Brusselse Pis-beeld, na Manneken Pis (1619) en Jeanneke Pis (1987)"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wanneer is Zinneke Pis gemaakt?",
+          "answer": "Visit Brussels dateert het in 1999; de eigen website van Tom Frantzen vermeldt 1998. Deze gids toont 1999 en signaleert het verschil in plaats van een verklaring te verzinnen."
+        },
+        {
+          "question": "Wie heeft Zinneke Pis gemaakt?",
+          "answer": "Tom Frantzen, een Brusselse beeldhouwer bekend om humoristische bronzen figuren en dieren in de openbare ruimte."
+        },
+        {
+          "question": "Waarom zeggen sommige websites 1998?",
+          "answer": "Omdat de site van de kunstenaar zelf dat jaar gebruikt en vele pagina's het overnamen. Actuele officiele informatie wijst naar 1999."
+        },
+        {
+          "question": "Is Zinneke Pis geïnspireerd door Manneken Pis?",
+          "answer": "Het is een antwoord op de traditie eerder dan een kopie: dezelfde stad, dezelfde grap, een ander dier. Manneken Pis dateert uit 1619, Het Zinneke uit rond 1999."
+        },
+        {
+          "question": "Is het beeld ooit verplaatst of vervangen?",
+          "answer": "Het staat nog altijd op zijn oorspronkelijk adres aan de Kartuizersstraat. Straatbeelden in Brussel worden soms gerestaureerd of schoongemaakt, maar er is geen gedocumenteerde vervanging van dit werk."
+        },
+        {
+          "question": "Waarom heet het Zinneke?",
+          "answer": "'Zinneke' is een Brusselse dialectwoord voor een straathond, dat een bijnaam werd voor de gemengde bevolking van de stad - de grap die het beeld over zichzelf maakt."
+        }
+      ],
+      "related": [
+        "zinnekeMeaning",
+        "statues",
+        "rueDesChartreux"
+      ],
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "zinnekeMeaning": {
+      "pageTitle": "Wat betekent 'zinneke'? Het Brusselse dialectwoord uitgelegd",
+      "pageDescription": "De betekenis van 'zinneke' in het Brusselse dialect: straathond, de Zenne en de Brusselse identiteit - en waarom de bronzen hond aan de Kartuizersstraat die naam draagt.",
+      "title": "Wat betekent 'zinneke'?",
+      "intro": "De naam is het hele punt van het beeld. 'Zinneke' is een Brusselse dialectwoord, en als je dat begrijpt, snap je waarom een klein plassend hond een embleem van de stad werd.",
+      "sections": [
+        {
+          "title": "Het woord zelf",
+          "body": "In het Brusselse dialect was een 'zinneke' een straathond: een hond geboren uit een stadshond en een dorpse hond, een dier van gemengde komaf zonder stamboom. Het woord hangt samen met de Zenne, de rivier die door Brussel loopt, en met het straatleven dat eromheen groeide.\n\nIemand een zinneke noemen was nooit louter een belediging. Het beschreef een gemengde achtergrond, en Brusselaars pasten het met enige trots op zichzelf toe."
+        },
+        {
+          "title": "Van straathond tot stadsidentiteit",
+          "body": "In de loop der tijd werd 'zinneke' een bijnaam voor de gemengde bevolking van Brussel zelf - een stad die noch zuiver Nederlandstalig noch zuiver Franstalig is, maar een mengeling van beide plus alles wat via haar haven en industrie aankwam.\n\nDaarom kleeft het woord aan het beeld: een ongeregelde straathond van geen enkel ras is een eerlijder embleem van Brussel dan elk groot monument."
+        },
+        {
+          "title": "Hoe het beeld de grap gebruikt",
+          "body": "Frantzens hond is bewust onheroïsch. Hij is klein, vastgelegd in beweging en tegen een lantaarnpaal gezet op een gewone straat in plaats van opgeheven op een sokkel aan een plein. Bezoekers die een monument verwachten, worden verrast door een bastaard.\n\nDe humor is typisch voor de Brusselse zwanze: de lokale gewoonte om jezelf eerst uit te lachen."
+        },
+        {
+          "title": "Verwante namen en spellingen",
+          "body": "Het beeld staat bekend als Het Zinneke ('de bastaard'), Zinneke Pis ('de bastaard die plast') en Zinneke-Pis. De Google Maps-vermelding gebruikt 'Het Zinneke', terwijl de meeste bezoekers op 'Zinneke Pis' zoeken.\n\nIn het Nederlands schrijft men soms Zinneke Pis Brussel of gewoon het zinnepisbeeld; in het Frans Zinneke Pis Bruxelles of le chien qui fait pipi. Al die namen verwijzen naar dezelfde bronzen hond."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Letterlijke betekenis",
+          "value": "Straathond - een hond van gemengde stads- en dorpskomaf"
+        },
+        {
+          "label": "Taal",
+          "value": "Brussels dialect (Brusseleir), met banden met de Zenne"
+        },
+        {
+          "label": "Figurlijke betekenis",
+          "value": "Een bijnaam voor de gemengde bevolking en identiteit van Brussel"
+        },
+        {
+          "label": "Namen van het beeld",
+          "value": "Het Zinneke, Zinneke Pis, Zinneke-Pis - allemaal dezelfde bronzen hond"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wat betekent 'zinneke' in het Nederlands?",
+          "answer": "Een straathond - specifiek een hond geboren uit een stadshond en een dorpse hond. In het Brusselse dialect werd het ook een bijnaam voor de gemengde bevolking van de stad."
+        },
+        {
+          "question": "Is 'zinneke' een belediging?",
+          "answer": "Het kan scherp gebruikt worden, maar Brusselaars gebruiken het met trots over zichzelf. Toegepast op het beeld is het affectvol."
+        },
+        {
+          "question": "Wat betekent Zinneke Pis letterlijk?",
+          "answer": "Ongeveer 'de bastaard die plast' - hetzelfde naamspatroon als Manneken Pis ('het manneke dat plast') en Jeanneke Pis."
+        },
+        {
+          "question": "Waarom is een straathond een symbool van Brussel?",
+          "answer": "Omdat de stad zichzelf ziet als een mengeling: van talen, van buurten, van aankomsten. De hond is een zelfspot-embleem van dat mengsel."
+        },
+        {
+          "question": "Wat is Brusseleir voor een taal?",
+          "answer": "Een lokaal dialect van het Nederlands dat in Brussel gesproken wordt, met Franse invloeden en eigen woordenschat - de bron van woorden als 'zinneke'."
+        }
+      ],
+      "related": [
+        "history",
+        "statues",
+        "locationAndMap"
+      ],
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "photos": {
+      "pageTitle": "Zinneke Pis foto's: beste invalshoeken, tijden en wat je ziet",
+      "pageDescription": "Hoe je Zinneke Pis (Het Zinneke) in Brussel fotografeert: de invalshoeken die werken, de rustigste momenten, hoe de kleine bronzen hond er echt uitziet, en onze eigen fotogalerij.",
+      "title": "Zinneke Pis fotograferen",
+      "intro": "Zinneke Pis is een moeilijk onderwerp als je het goed doet: hij is klein, staat op een werkstraat, en het licht wisselt snel tussen de hoge huizen. Deze pagina behandelt hoe het beeld er echt uitziet, welke invalshoeken werken en wanneer je best schiet.",
+      "sections": [
+        {
+          "title": "Hoe het beeld er echt uitziet",
+          "body": "Het Zinneke is ongeveer zo groot als een echte hond - veel kleiner dan de meeste bezoekers verwachten. Het is een bronzen bastaard met een opgerolde staart, vastgelegd terwijl hij zijn pof tegen een lantaarnpaal heft, met een licht ongeregelde, humoristische modellering die van dichtbij beter leest dan op grote afstand.\n\nOmdat hij op kniehoogte op de stoep staat, mislukken de meeste foto's doordat ze van te ver genomen worden."
+        },
+        {
+          "title": "Zes invalshoeken die werken",
+          "body": "De vooraanzicht toont de hele silhouet tegen de lantaarnpaal. Een zijkant vangt het geheven been. Een close-up op kop en staart toont de patina en de modellering. Neem je de volledige lantaarnpaal mee, dan zie je de compositie die de beeldhouwer bedoelde.\n\nSteek de straat over en schiet breder om de hond in zijn kassei-omgeving te plaatsen, en na donker werpt het straatlicht de bronzen uit - al vraagt weinig licht een hogere ISO of een rustige hand."
+        },
+        {
+          "title": "Wanneer schieten",
+          "body": "'s Ochtends tussen 8 en 10 is het rustigst, met schoon licht op de bronzen en weinig mensen in beeld. Avonden vanaf 18 tot 20 geven warmer licht en open terrassen in de buurt. Wintermiddags krijg je het beste natuurlijke licht in de donkere maanden.\n\nDe straat heeft verkeer, dus blijf op de stoep als je achteruitstapt voor een opname."
+        },
+        {
+          "title": "Onze galerij",
+          "body": "Deze site publiceert eigen foto's van het beeld en zijn straat - vooraanzicht, zijkant en details, plus de omgeving in verschillende seizoenen en 's nachts. Het zijn illustratieve beelden genomen aan de Kartuizersstraat.\n\nDit is een onafhankelijke, niet-commerciele bezoekersgids. Vind je dat een beeld verkeerd gelabeld is, vermeld moet worden of weggehaald hoort, laat het dan weten en we corrigeren het."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Beste tijd",
+          "value": "'s Ochtends 8-10 voor lege beelden; 's avonds 18-20 voor warm licht"
+        },
+        {
+          "label": "Fotografie",
+          "value": "Gratis en onbeperkt - het is een openbare straat"
+        },
+        {
+          "label": "Praktische tip",
+          "value": "Het is een levende straat: blijf op de stoep en let op verkeer"
+        },
+        {
+          "label": "Uitrusting",
+          "value": "Een telefoon volstaat bij daglicht; nachtopnames vragen een rustige hand of hogere ISO"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Mag ik foto's maken van Zinneke Pis?",
+          "answer": "Ja. Fotograferen is gratis en onbeperkt - het beeld staat op een openbare straat."
+        },
+        {
+          "question": "Hoe ziet Zinneke Pis er echt uit?",
+          "answer": "Een kleine bronzen straathond, ongeveer zo groot als een echte hond, die zijn pof tegen een lantaarnpaal heft op kniehoogte."
+        },
+        {
+          "question": "Wanneer is het beste moment om te fotograferen?",
+          "answer": "'s Ochtends tussen 8 en 10, als de straat rustig is en het licht op de bronzen schoon valt."
+        },
+        {
+          "question": "Is het er druk?",
+          "answer": "Zelden druk vergeleken met Manneken Pis. Namiddags komen er meer shoppers de straat op, maar je krijgt bijna altijd een zuivere opname."
+        },
+        {
+          "question": "Kan ik 's nachts foto's maken?",
+          "answer": "Ja. Straatlicht werpt de bronzen uit, maar weinig licht vraagt een hogere ISO, een statief of een stabiel oppervlak."
+        },
+        {
+          "question": "Waar komen de foto's op deze site vandaan?",
+          "answer": "Het zijn onze eigen foto's genomen aan de Kartuizersstraat. Correcties of vermeldingen zijn welkom - zie de footer voor contactgegevens."
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "rueDesChartreux",
+        "grandPlaceRoute"
+      ],
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "mannekenPis": {
+      "pageTitle": "Manneken Pis gids: locatie, kostuums en bezoekstips",
+      "pageDescription": "Manneken Pis bezoeken vlakbij Zinneke Pis: exacte locatie, hoe ver het ligt, de kostuumtraditie en de garderobe, waar het origineel wordt bewaard, en praktische tips.",
+      "title": "Manneken Pis: bezoekersgids",
+      "intro": "Manneken Pis is het beeld waar iedereen aan denkt als ze over Brussel praten. Het is ook het dichtstbijzijnde grote herkenningspunt van Zinneke Pis, op ongeveer 8 minuten - dus de meeste bezoekers zien beide. Deze gids behandelt wat je verwacht en hoe je ze combineert.",
+      "sections": [
+        {
+          "title": "Wat het is en waar",
+          "body": "Manneken Pis is een kleine bronzen jongensfiguur van ongeveer 61 cm, op een fonteinvoet aan de hoek van de Stoofstraat en de Eikstraat, een paar minuten van de Grote Markt. De huidige versie dateert uit een hergieting in de 20e eeuw: eerdere beelden werden gestolen of beschadigd, en het oorspronkelijke middeleeuwse figuur staat niet meer op straat.\n\nHij is gratis, buiten en op elk uur toegankelijk, hoewel de omringende straten namiddags het drukst zijn."
+        },
+        {
+          "title": "De kostuumtraditie",
+          "body": "Manneken Pis wordt gekleed in kostuums die in de loop van het jaar wisselen - verschillende honderden outfits zijn geschonken door steden, gilden en buitenlandse staten. De kostuumcollectie wordt bewaard en getoond in de Garderobe, het kleerkastmuseum van het beeld, op korte afstand.\n\nOf de jongen op de dag van je bezoek gekleed is, hangt van het schema af: beschouw elk kostuum daarom als een bonus en niet als het doel van je bezoek."
+        },
+        {
+          "title": "Waar het origineel staat",
+          "body": "Het origineel van Manneken Pis wordt bewaard door het Brussels Stadsmuseum in het Broodhuis aan de Grote Markt, waar het in een glazen vitrine staat. Het straatbeeld en het museumorigineel in dezelfde wandeling zien is de klassieke manier om beide te bezoeken.\n\nCheck de site van het museum op openingstijden en toegangsprijs voor je vertrekt."
+        },
+        {
+          "title": "Er komen vanuit Zinneke Pis",
+          "body": "De wandeling van de Kartuizersstraat 35 naar Manneken Pis is ongeveer 0,6 km en 8 minuten, via de Nieuwstraat en de Place de la Monnaie. Doe je Zinneke Pis - Manneken Pis - Grote Markt in die volgorde, dan houd je het rustige beeld eerst en de menigten als laatste.\n\nOnze stapsgewijze routepagina beschrijft de straten in detail."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Locatie",
+          "value": "Hoek Stoofstraat en Eikstraat, vlak bij de Grote Markt"
+        },
+        {
+          "label": "Datum",
+          "value": "1619 - de huidige bronzen is een latere hergieting"
+        },
+        {
+          "label": "Toegang",
+          "value": "Gratis, open straat, geen openingsuren"
+        },
+        {
+          "label": "Afstand van Zinneke Pis",
+          "value": "Ongeveer 0,6 km, 8 minuten wandelen"
+        },
+        {
+          "label": "Origineel beeld",
+          "value": "Brussels Stadsmuseum, Broodhuis aan de Grote Markt"
+        },
+        {
+          "label": "Kostuums",
+          "value": "Wisselen in de loop van het jaar; collectie getoond in het Garderobe-museum"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hoe ver is Manneken Pis van Zinneke Pis?",
+          "answer": "Ongeveer 0,6 km, of 8 minuten wandelen via de Nieuwstraat en de Place de la Monnaie."
+        },
+        {
+          "question": "Is Manneken Pis gratis te bezoeken?",
+          "answer": "Ja. Hij staat op een openbare straat, zonder ticket, zonder hek en zonder openingsuren."
+        },
+        {
+          "question": "Waar staat de originele Manneken Pis?",
+          "answer": "In het Brussels Stadsmuseum in het Broodhuis aan de Grote Markt. Het straatbeeld is een latere bronzen."
+        },
+        {
+          "question": "Draagt het beeld een kostuum?",
+          "answer": "Misschien. Kostuums wisselen volgens een schema van de stad en het Garderobe-museum; er is geen garantie op een bepaalde dag."
+        },
+        {
+          "question": "Waarom is Manneken Pis zo beroemd?",
+          "answer": "Hij is oud, klein, irreverent en wordt al eeuwen gestolen, gekopieerd en verkleden - Brussel nam hem aan als niet-officieel embleem."
+        },
+        {
+          "question": "Is Manneken Pis groter dan Zinneke Pis?",
+          "answer": "Ze zijn vergelijkbaar in schaal. Manneken Pis is ongeveer 61 cm op zijn voet; Het Zinneke is zo groot als een echte hond op kniehoogte."
+        }
+      ],
+      "related": [
+        "jeannekePis",
+        "statues",
+        "route"
+      ],
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "jeannekePis": {
+      "pageTitle": "Jeanneke Pis: locatie, hoe je haar vindt en waarom ze gemaakt is",
+      "pageDescription": "Hoe je Jeanneke Pis in Brussel vindt: de steeglocatie, hoe ver ze van Zinneke Pis en Manneken Pis ligt, hoe het kleine beeld eruitziet en waarom ze bestaat.",
+      "title": "Jeanneke Pis: bezoekersgids",
+      "intro": "Jeanneke Pis is het rustigste van de drie Brusselse Pis-beelden - klein, weggestopt in een steeg, en makkelijk te missen zelfs als je weet waar je heen gaat. Deze gids behandelt hoe je haar vindt en waarom ze gemaakt is.",
+      "sections": [
+        {
+          "title": "Waar ze staat",
+          "body": "Jeanneke Pis staat in de Impasse de la Fidélité, een smalle openbare steeg op korte afstand van Manneken Pis. De ingang van de steeg loop je gemakkelijk voorbij: zoek de opening tussen de gebouwen in plaats van naar een menigte of een bord.\n\nZe ligt ongeveer 0,8 km en 10-12 minuten van Zinneke Pis, en slechts 2-3 minuten van Manneken Pis."
+        },
+        {
+          "title": "Hoe ze eruitziet",
+          "body": "Het beeld is een kleine bronzen meisjesfiguur, licht gehurkt, op een lage voet tegen de muur van de steeg. Het werd in 1987 geplaatst als een bewuste tegenhanger van de eeuwenoude roem van Manneken Pis.\n\nOmdat de steeg smal is, maak je de beste foto's van vlak voren, van dichtbij."
+        },
+        {
+          "title": "Waarom ze bestaat",
+          "body": "In de jaren tachtig was het beroemdste beeld van Brussel een jongen, en de openbare kunst van de stad had weinig plaats voor een ander antwoord. Jeanneke Pis werd in opdracht gemaakt om de grap compleet te maken - en, in de geest van de zwanze, om tegelijk de roem van het origineel uit te lachen.\n\nZe wordt vaak gelezen als een klein feministisch standbeeld, en ze is zeker het minst drukbezochte van de drie."
+        },
+        {
+          "title": "Combineren met de andere Pis-beelden",
+          "body": "De klassieke lus is Grote Markt - Manneken Pis - Jeanneke Pis - Het Zinneke - Grote Markt, ongeveer 2 km in 45-60 minuten. Jeanneke Pis meteen na Manneken Pis bezoeken kost slechts een paar minuten extra.\n\nOnze wandelroutepagina's geven de straat-voor-straat aanwijzingen voor elk stuk."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Locatie",
+          "value": "Impasse de la Fidélité, een smalle openbare steeg bij Manneken Pis"
+        },
+        {
+          "label": "Datum",
+          "value": "1987 - een tegenhanger van Manneken Pis (1619)"
+        },
+        {
+          "label": "Toegang",
+          "value": "Gratis, openbare steeg, altijd toegankelijk"
+        },
+        {
+          "label": "Afstand van Zinneke Pis",
+          "value": "Ongeveer 0,8 km, 10-12 minuten te voet"
+        },
+        {
+          "label": "Afstand van Manneken Pis",
+          "value": "Ongeveer 2-3 minuten"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Waar staat Jeanneke Pis precies?",
+          "answer": "In de Impasse de la Fidélité, een smalle steeg op een paar minuten van Manneken Pis."
+        },
+        {
+          "question": "Hoe ver is Jeanneke Pis van Zinneke Pis?",
+          "answer": "Ongeveer 0,8 km, of 10-12 minuten te voet via Manneken Pis."
+        },
+        {
+          "question": "Waarom is Jeanneke Pis moeilijk te vinden?",
+          "answer": "Ze is klein, staat in een smalle steeg en er hangt geen menigte. Zoek de ingang van de steeg bij Manneken Pis."
+        },
+        {
+          "question": "Wanneer is Jeanneke Pis gemaakt?",
+          "answer": "In 1987, als een bewuste tegenhanger van Manneken Pis."
+        },
+        {
+          "question": "Is Jeanneke Pis gratis te bezoeken?",
+          "answer": "Ja. Ze staat in een openbare steeg, zonder ticket en zonder openingsuren."
+        },
+        {
+          "question": "Welk van de drie Pis-beelden is het rustigst?",
+          "answer": "Jeanneke Pis en Het Zinneke zijn beide rustig vergeleken met Manneken Pis; Jeanneke Pis trekt de minste bezoekers."
+        }
+      ],
+      "related": [
+        "mannekenPis",
+        "jeannekeRoute",
+        "statues"
+      ],
+      "faqTitle": "Veelgestelde vragen"
+    },
+    "rueDesChartreux": {
+      "pageTitle": "Kartuizersstraat en de Kartuizerwijk: gids voor Brussel",
+      "pageDescription": "Een gids voor de Kartuizersstraat in Brussel: de straat waar Zinneke Pis staat, de Kartuizerwijk, wat er te zien is, winkels en cafés, en wandeltips.",
+      "title": "Kartuizersstraat en de Kartuizerwijk",
+      "intro": "De straat is de helft van de reden om Zinneke Pis te bezoeken. De Kartuizersstraat is een van die Brusselse straten waar de stad lokaal voelt in plaats van toeristisch, en het beeld is er gewoon onderdeel van het straatbeeld.",
+      "sections": [
+        {
+          "title": "De straat",
+          "body": "De Kartuizersstraat loopt door de Kartuizerwijk, net ten noorden van de Nieuwstraat en een paar minuten ten oosten van de Antoine Dansaertwijk. Hij is smal, deels met kasseien geplaveid en bebouwd met kleine voedingswinkels, cafés en woningen.\n\nDe bronzen hond staat op de stoep bij nummer 35, tegen een lantaarnpaal - ongemerkt, zonder hek en makkelijk te missen."
+        },
+        {
+          "title": "De wijk en haar naam",
+          "body": "Straat en wijk hebben hun naam van de kartuizers - de Chartreux - wiens orde eeuwenlang in dit deel van de stad aanwezig was. De Nederlandse naam van de straat, Kartuizersstraat, komt uit dezelfde wortel.\n\nWat er vandaag overblijft is een werkbuurt: bakkers, groentekramen, cafés en appartementen, met de drukke winkelstraten een blok verderop."
+        },
+        {
+          "title": "Wat er te zien en te doen is",
+          "body": "Loop de hele straat af in plaats van rechtstreeks naar het beeld te gaan. Kijk naar de etalages en de gevels, en kom daarna terug naar de lantaarnpaal. De wijk beloont een langzame tien minuten meer dan een snelle fotostop.\n\nVan hieruit loop je door naar de Antoine Dansaertwijk voor meer winkels en cafés, of terug naar de Nieuwstraat voor de winkelstraten."
+        },
+        {
+          "title": "Praktische tips",
+          "body": "'s Ochtends is het rustigst op de straat; namiddags komen shoppers vanaf de Nieuwstraat binnen. Het is een levende straat met verkeer en leveringen, dus blijf op de stoep als je het beeld fotografeert.\n\nHet dichtstbijzijnde metrostation is De Brouckère, ongeveer 8 minuten, en de Grote Markt ligt ongeveer 10 minuten te voet."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Straatnamen",
+          "value": "Rue des Chartreux (Frans) / Kartuizersstraat (Nederlands)"
+        },
+        {
+          "label": "Wijk",
+          "value": "Kartuizerwijk, Stad Brussel, 1000"
+        },
+        {
+          "label": "Herkenningspunt",
+          "value": "Het Zinneke (Zinneke Pis) op de stoep bij nummer 35"
+        },
+        {
+          "label": "Karakter",
+          "value": "Smal, deels met kasseien, kleine voedingswinkels en cafés"
+        },
+        {
+          "label": "Dichtstbijzijnde metro",
+          "value": "De Brouckère (lijnen 1 en 5), ongeveer 8 minuten te voet"
+        },
+        {
+          "label": "Wandeling naar de Grote Markt",
+          "value": "Ongeveer 10 minuten via de Boterstraat"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wat is de Nederlandse naam van de Rue des Chartreux?",
+          "answer": "Kartuizersstraat. Brusselse straatnaamborden zijn tweetalig, dus je ziet beide namen."
+        },
+        {
+          "question": "Waar ligt de Kartuizerwijk?",
+          "answer": "In het centrum van Brussel, tussen de Nieuwstraat en de Antoine Dansaertwijk, een paar minuten ten noorden van de Grote Markt."
+        },
+        {
+          "question": "Waarom heet het Chartreux?",
+          "answer": "De naam komt van de kartuizers (Chartreux / Kartuizers), wiens orde eeuwenlang in dit deel van de stad aanwezig was."
+        },
+        {
+          "question": "Wat voor winkels staan er aan de straat?",
+          "answer": "Meest kleine onafhankelijke voedingswinkels en cafés in plaats van ketens - het is een werkbuurtstraat."
+        },
+        {
+          "question": "Hoe kom ik aan de Kartuizersstraat?",
+          "answer": "Metro naar De Brouckère (ongeveer 8 minuten wandelen), of ongeveer 10 minuten wandelen vanaf de Grote Markt via de Boterstraat."
+        },
+        {
+          "question": "Is de straat druk?",
+          "answer": "Rustig in de ochtend, drukker namiddags wanneer shoppers vanaf de Nieuwstraat binnenkomen. Nooit zo druk als de Grote Markt."
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "grandPlaceRoute",
+        "photos"
+      ],
+      "faqTitle": "Veelgestelde vragen"
+    }
   }
 }

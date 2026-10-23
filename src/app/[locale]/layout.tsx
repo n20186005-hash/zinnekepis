@@ -211,7 +211,8 @@ export default async function LocaleLayout({
         addressCountry: ATTRACTION.addressCountry,
       },
     },
-    sameAs: [ATTRACTION.mapsUrl, ATTRACTION.officialVenueUrl, ATTRACTION.officialTourismUrl],
+    // sameAs keeps only links that unambiguously identify this attraction.
+    sameAs: [ATTRACTION.mapsUrl, ATTRACTION.officialVenueUrl],
   };
 
   const breadcrumbLd = {

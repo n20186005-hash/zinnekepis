@@ -48,9 +48,9 @@ export const ATTRACTION = {
    */
   rating: {
     value: 4.2,
-    reviewCount: 7125,
+    reviewCount: 7156,
     source: 'Google Maps',
-    lastChecked: '2026-10-02',
+    lastChecked: '2026-10-23',
   },
 } as const;
 

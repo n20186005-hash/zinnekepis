@@ -41,6 +41,18 @@ export default function Footer() {
           </div>
           <div className="flex flex-col gap-4 text-sm">
             <div className="flex flex-col gap-2">
+              <a href={`${prefix}/location-and-map`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {tt('locationAndMap.linkTitle')}
+              </a>
+              <a href={`${prefix}/public-transport`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {tt('publicTransport.linkTitle')}
+              </a>
+              <a href={`${prefix}/history`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {tt('history.linkTitle')}
+              </a>
+              <a href={`${prefix}/manneken-pis`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+                {tt('mannekenPis.linkTitle')}
+              </a>
               <a href={`${prefix}/brussels-pis-statues`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
                 {tt('statues.linkTitle')}
               </a>

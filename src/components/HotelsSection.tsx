@@ -5,7 +5,7 @@ import { useTranslations, useMessages } from 'next-intl';
 export default function HotelsSection() {
   const t = useTranslations('hotels');
   const messages = useMessages() as any;
-  const hotels = (messages?.hotels?.hotels || []) as Array<{ name: string; desc: string; price: string }>;
+  const hotels = (messages?.hotels?.hotels || []) as Array<{ name: string; desc: string; price?: string }>;
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -33,7 +33,7 @@ export default function HotelsSection() {
   );
 }
 
-function HotelCard({ name, description, price }: { name: string; description: string; price: string }) {
+function HotelCard({ name, description, price }: { name: string; description: string; price?: string }) {
   return (
     <div
       className="rounded-xl p-6 flex gap-4"
@@ -61,12 +61,14 @@ function HotelCard({ name, description, price }: { name: string; description: st
           <h3 className="font-semibold" style={{ color: 'var(--text-primary)' }}>
             {name}
           </h3>
-          <span
-            className="text-sm font-medium flex-shrink-0"
-            style={{ color: 'var(--accent)' }}
-          >
-            {price}
-          </span>
+          {price && (
+            <span
+              className="text-sm font-medium flex-shrink-0"
+              style={{ color: 'var(--accent)' }}
+            >
+              {price}
+            </span>
+          )}
         </div>
         <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
           {description}

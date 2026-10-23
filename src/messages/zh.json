@@ -109,7 +109,9 @@
     "bestTimeSummer": "傍晚（18:00–20:00）：光线偏暖，附近露天咖啡座开放",
     "bestTimeAutumn": "下午（14:00–16:00）：气温宜人，适合走完 Pis 全线",
     "bestTimeWinter": "正午（11:00–14:00）：冬季自然光最好的时段",
-    "tip": "此处是有车辆通行的街道，不是步行区。后退取景时请留在人行道上。"
+    "tip": "此处是有车辆通行的街道，不是步行区。后退取景时请留在人行道上。",
+    "bestTimeWarm": "春季与夏季",
+    "bestTimeCold": "秋季与冬季"
   },
   "tickets": {
     "title": "门票与费用",
@@ -153,12 +155,76 @@
     "title": "延伸阅读",
     "statues": {
       "linkTitle": "布鲁塞尔的 3 座著名 Pis 雕像",
-      "linkIntro": "比较小尿童、女性小尿童与 Het Zinneke，以及彼此之间的步行距离。"
+      "linkIntro": "比较小尿童、女性小尿童与 Het Zinneke，以及彼此之间的步行距离。",
+      "slug": "brussels-pis-statues"
     },
     "route": {
       "linkTitle": "Zinneke Pis 到小尿童的步行路线",
-      "linkIntro": "两座雕像之间的距离、所需时间与沿途街道。"
-    }
+      "linkIntro": "两座雕像之间的距离、所需时间与沿途街道。",
+      "slug": "zinneke-pis-to-manneken-pis"
+    },
+    "locationAndMap": {
+      "linkTitle": "Zinneke Pis：确切位置与地图",
+      "linkIntro": "地址、Plus Code、坐标与 Rue des Chartreux 上的确切位置——让你径直走到雕像前。",
+      "slug": "location-and-map"
+    },
+    "publicTransport": {
+      "linkTitle": "乘地铁、公交与火车前往",
+      "linkIntro": "最近的地铁站、中央车站与南站的铁路接驳、票价与夜间班车信息。",
+      "slug": "public-transport"
+    },
+    "grandPlaceRoute": {
+      "linkTitle": "大广场到小便犬步行路线",
+      "linkIntro": "约 10 分钟、0.8 公里：从大广场到这座青铜小狗要走的街道。",
+      "slug": "grand-place-to-zinneke-pis"
+    },
+    "centralStationRoute": {
+      "linkTitle": "中央车站到小便犬步行路线",
+      "linkIntro": "从布鲁塞尔中央车站出发约 15 分钟的路线，附地铁替代方案。",
+      "slug": "central-station-to-zinneke-pis"
+    },
+    "midiStationRoute": {
+      "linkTitle": "南站到小便犬",
+      "linkIntro": "地铁换乘一次，或从欧洲之星车站步行约 30 分钟。",
+      "slug": "midi-station-to-zinneke-pis"
+    },
+    "jeannekeRoute": {
+      "linkTitle": "小便犬到小便女童步行路线",
+      "linkIntro": "经小便童约 0.8 公里、10–12 分钟，逐段说明。",
+      "slug": "zinneke-pis-to-jeanneke-pis"
+    },
+    "history": {
+      "linkTitle": "小便犬的历史",
+      "linkIntro": "哪些有据可查、为何有的来源写 1998 年而有的写 1999 年，以及这座青铜小狗的故事。",
+      "slug": "history"
+    },
+    "zinnekeMeaning": {
+      "linkTitle": "Zinneke 是什么意思？",
+      "linkIntro": "名字背后的布鲁塞尔方言词：从杂种狗到城市身份认同。",
+      "slug": "what-does-zinneke-mean"
+    },
+    "photos": {
+      "linkTitle": "拍摄小便犬",
+      "linkIntro": "有效的拍摄角度、一天中最安静的时段，以及本站的雕像图集。",
+      "slug": "photos"
+    },
+    "mannekenPis": {
+      "linkTitle": "小便童参观指南",
+      "linkIntro": "位置、服装传统、原作收藏地点，以及如何把它纳入行程。",
+      "slug": "manneken-pis"
+    },
+    "jeannekePis": {
+      "linkTitle": "小便女童参观指南",
+      "linkIntro": "如何在小巷中找到她，以及她为何而建。",
+      "slug": "jeanneke-pis"
+    },
+    "rueDesChartreux": {
+      "linkTitle": "Rue des Chartreux 与夏特勒区",
+      "linkIntro": "雕像所在的这条街：小店、咖啡馆、石板路与街区名字的由来。",
+      "slug": "rue-des-chartreux"
+    },
+    "directionsLink": "在 Google 地图中打开步行路线",
+    "relatedTitle": "继续阅读"
   },
   "photoSpots": {
     "title": "Zinneke Pis 的拍照位置",
@@ -194,23 +260,19 @@
     "hotels": [
       {
         "name": "大广场附近的精品旅馆",
-        "desc": "距雕像步行十分钟以内，紧邻市中心主要景点。",
-        "price": "约 €120-250/晚"
+        "desc": "距雕像步行十分钟以内，紧邻市中心主要景点。"
       },
       {
         "name": "中价位连锁旅馆",
-        "desc": "分布在 De Brouckère 与林荫大道一带，地铁转乘方便。",
-        "price": "约 €80-120/晚"
+        "desc": "分布在 De Brouckère 与林荫大道一带，地铁转乘方便。"
       },
       {
         "name": "民宿 B&B",
-        "desc": "想在住宅区内体验更安静布鲁塞尔的选择。",
-        "price": "约 €60-100/晚"
+        "desc": "想在住宅区内体验更安静布鲁塞尔的选择。"
       },
       {
         "name": "历史建筑旅馆",
-        "desc": "由老城区历史建筑整修而成，富有文化氛围。",
-        "price": "约 €150-300/晚"
+        "desc": "由老城区历史建筑整修而成，富有文化氛围。"
       }
     ]
   },
@@ -463,6 +525,11 @@
         "question": "看完三座需要多久？",
         "answer": "不刻意停留的话约 45 至 60 分钟的步行时间；若加上拍照与咖啡店休息，最长约两小时。"
       }
+    ],
+    "related": [
+      "mannekenPis",
+      "jeannekePis",
+      "locationAndMap"
     ]
   },
   "topicRoute": {
@@ -491,6 +558,10 @@
       {
         "label": "顺道加入女性小尿童",
         "value": "到小尿童后继续走进 Impasse de la Fidélité，约再 2 分钟。"
+      },
+      {
+        "label": "核对",
+        "value": "路线步骤与距离已于 2026 年 10 月对照地图路线核算。"
       }
     ],
     "stepsTitle": "分段步行指引",
@@ -529,6 +600,962 @@
         "question": "沿途还有什么？",
         "answer": "购物街 Nieuwstraat、Munthof 广场，最后是大广场，距离 Het Zinneke 约 10 分钟。"
       }
-    ]
+    ],
+    "related": [
+      "grandPlaceRoute",
+      "jeannekeRoute",
+      "locationAndMap"
+    ],
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Het%20Zinneke%20Brussels&destination=Manneken%20Pis%20Brussels&travelmode=walking"
+  },
+  "mapSection": {
+    "title": "地图上的 Zinneke Pis",
+    "subtitle": "这座青铜小狗位于布鲁塞尔市中心夏特勒区（Chartreux / Kartuizerswijk）的 Rue des Chartreux 35 号。",
+    "openMaps": "在 Google 地图中打开",
+    "govtTourismText": "布鲁塞尔首都大区的官方旅游信息由以下机构发布："
+  },
+  "topic": {
+    "locationAndMap": {
+      "pageTitle": "Zinneke Pis 位置与地图：确切地点、地址与 Plus Code",
+      "pageDescription": "Zinneke Pis 在布鲁塞尔的确切位置在哪里？地址、Plus Code、坐标与 Rue des Chartreux 上的准确地点，附最近地铁站与地图链接。",
+      "title": "Zinneke Pis：位置与地图",
+      "intro": "Het Zinneke 很容易被走过——它很小，而且就在街面高度。本页提供确切地址、地图链接使用的坐标与 Plus Code、街上要注意的识别特征，以及最近的地铁站，让你不用绕圈就能找到它。",
+      "sections": [
+        {
+          "title": "确切地点",
+          "body": "Zinneke Pis 位于布鲁塞尔市中心夏特勒区（Kartuizerswijk）Rue des Chartreux 35 号门外的人行道上，邮编 1000。青铜小狗倚靠在一根路灯杆上，高约及膝——如果你平视扫描房屋，就会错过它。\n\n这条街本身很窄，部分铺有石块，有居民和送货车辆通行。它是一条生活街道而非步行广场——这也是你后退拍照时要留在人行道上的原因。"
+        },
+        {
+          "title": "坐标与 Plus Code",
+          "body": "本站的地图链接使用纬度 50.84879、经度 4.32664，Plus Code 为 R8XW+G7。这与公开的 Google 地图条目一致，该条目使用的名称是 Het Zinneke。\n\n如果你的导航 App 把你放在街的另一端，请走向 35 号：雕像就在路灯杆旁的人行道上，不在街角，也不在广场上。"
+        },
+        {
+          "title": "如何认出正确的街道",
+          "body": "Rue des Chartreux（荷兰语名 Kartuizersstraat）穿过一片安静的街区，两旁是小食品店、咖啡馆和住宅，位于繁华的 Rue Neuve 购物街与 Antoine Dansaert 区之间。\n\n雕像在街道较中心的一端。如果你走到了更北面的安静住宅小巷或运河边的街道，那就是走过头了。"
+        },
+        {
+          "title": "最近的地铁站与车站",
+          "body": "最近的地铁站是 De Brouckère（1 号线和 5 号线），步行约 8 分钟。布鲁塞尔中央火车站在稍远处，步行约 10–12 分钟。\n\n多条公交线路经过街道以南的大道，但没有电车在雕像旁设站。出行前请查询 STIB/MIVB 现行线路。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "地址",
+          "value": "Rue des Chartreux 35, 1000 Bruxelles（Brussel），比利时"
+        },
+        {
+          "label": "Plus Code",
+          "value": "R8XW+G7 Bruxelles, 比利时"
+        },
+        {
+          "label": "坐标",
+          "value": "50.84879, 4.32664"
+        },
+        {
+          "label": "街区",
+          "value": "夏特勒区 / Kartuizerwijk，布鲁塞尔市"
+        },
+        {
+          "label": "最近地铁站",
+          "value": "De Brouckère（1、5 号线）——步行约 8 分钟"
+        },
+        {
+          "label": "门票",
+          "value": "免费、露天街道、无需门票、无开放时间限制"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Zinneke Pis 到底在哪里？",
+          "answer": "在 Rue des Chartreux 35 号门外的人行道上，紧挨路灯杆，距大广场步行约 10 分钟。"
+        },
+        {
+          "question": "Zinneke Pis 的 Plus Code 是什么？",
+          "answer": "R8XW+G7 Bruxelles, 比利时。在 Google 地图中输入即可定位到雕像。"
+        },
+        {
+          "question": "为什么在 Google 地图上找不到它？",
+          "answer": "请搜索 Het Zinneke 而不是 Zinneke Pis：公开条目用的就是这个名字，定位点会落在 Rue des Chartreux 35 号。"
+        },
+        {
+          "question": "怎么确认自己走对了街？",
+          "answer": "Rue des Chartreux 是夏特勒区一条狭窄、部分铺石块的街道，两旁是小店和咖啡馆，就在 Rue Neuve 购物街以北。"
+        },
+        {
+          "question": "最近的地铁站是哪一站？",
+          "answer": "De Brouckère（1、5 号线），步行约 8 分钟；布鲁塞尔中央车站步行约 10–12 分钟。"
+        },
+        {
+          "question": "雕像旁边有停车场吗？",
+          "answer": "没有。这条街没有访客停车位；最近的公共停车场在大广场地下和 De Brouckère。"
+        }
+      ],
+      "related": [
+        "publicTransport",
+        "grandPlaceRoute",
+        "rueDesChartreux"
+      ],
+      "faqTitle": "常见问题"
+    },
+    "publicTransport": {
+      "pageTitle": "如何乘地铁、公交和火车前往 Zinneke Pis",
+      "pageDescription": "布鲁塞尔公共交通前往 Zinneke Pis：最近的地铁站 De Brouckère、中央车站与南站的铁路接驳、公交与夜间班车，以及票价说明。",
+      "title": "乘公共交通前往 Zinneke Pis",
+      "intro": "Zinneke Pis 位于布鲁塞尔市中心，大多数游客从大广场或附近车站步行前来。本页比较几种现实可行的方式：地铁、火车、公交、夜间班车与购票。",
+      "sections": [
+        {
+          "title": "地铁：De Brouckère 是最佳站点",
+          "body": "De Brouckère 站（1 号线和 5 号线）是离雕像最近的地铁站，步行约 8 分钟。出站后沿 Rue Neuve 向北，再转入 Rue des Chartreux。\n\n布鲁塞尔中央车站同样有 1 号线和 5 号线，步行稍远，约 10–12 分钟，但乘火车抵达时很方便。"
+        },
+        {
+          "title": "乘火车：中央车站与南站",
+          "body": "从布鲁塞尔中央车站出发，可以步行（约 15 分钟），或乘 1 号线或 5 号线一站到 De Brouckère 再步行。\n\n从布鲁塞尔南站（欧洲之星与大力士高速列车车站）出发：乘地铁 2 号线或 6 号线到 Arts-Loi，换乘 1 号线或 5 号线到 De Brouckère，再步行约 8 分钟。全程约 25 分钟。出行前请在 STIB/MIVB 查询施工信息。"
+        },
+        {
+          "title": "公交与电车",
+          "body": "没有电车在雕像旁边停靠。多条公交线路经过街道以南的大道和 Rue Neuve 一带，在 De Brouckère 和 Bourse（交易所）附近设站。\n\n查询现行线路和时刻请使用运营商的官方行程规划，不要依赖第三方 App。"
+        },
+        {
+          "title": "票价",
+          "body": "一张 STIB/MIVB 单程票在一小时内可乘地铁、电车和公交并换乘，地铁闸机接受非接触式银行卡。如果计划参观多处景点，日票通常比多张单程票便宜。\n\n步行在这里确实有竞争力：雕像距大广场仅约 10 分钟，进入市中心后多数时候并不需要公共交通。"
+        },
+        {
+          "title": "深夜时段",
+          "body": "地铁约午夜停运，周末夜间有 Noctis 夜间公交网络。其他时段从市中心乘出租车或网约车是现实选择，从大广场步行也很短且路灯充足。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "最近地铁站",
+          "value": "De Brouckère——1、5 号线，步行约 8 分钟"
+        },
+        {
+          "label": "从中央车站",
+          "value": "乘地铁一站到 De Brouckère，或步行约 15 分钟"
+        },
+        {
+          "label": "从南站",
+          "value": "地铁 2 号线或 6 号线到 Arts-Loi，换 1 号线或 5 号线到 De Brouckère——全程约 25 分钟"
+        },
+        {
+          "label": "运营商",
+          "value": "STIB/MIVB——官方行程规划与购票"
+        },
+        {
+          "label": "步行替代",
+          "value": "距大广场约 10 分钟；步行比等电车更快"
+        }
+      ],
+      "faq": [
+        {
+          "question": "离 Zinneke Pis 最近的地铁站是哪站？",
+          "answer": "De Brouckère，1 号线和 5 号线，距雕像步行约 8 分钟。"
+        },
+        {
+          "question": "可以乘电车直达吗？",
+          "answer": "雕像旁没有电车站。公交车经过几分钟路程外的大道，但在市中心步行通常更简单。"
+        },
+        {
+          "question": "从布鲁塞尔南站怎么去 Zinneke Pis？",
+          "answer": "乘地铁 2 号线或 6 号线到 Arts-Loi，换乘 1 号线或 5 号线到 De Brouckère，再步行约 8 分钟——全程约 25 分钟。"
+        },
+        {
+          "question": "从中央车站怎么去？",
+          "answer": "步行约 15 分钟，或乘 1 号线或 5 号线一站到 De Brouckère 再步行。"
+        },
+        {
+          "question": "需要纸质车票吗？",
+          "answer": "不需要。地铁闸机支持非接触式银行卡，单程票一小时内可乘地铁、电车和公交并换乘。"
+        },
+        {
+          "question": "深夜还有公共交通吗？",
+          "answer": "地铁约午夜停运；周末夜间有 Noctis 夜班公交。其他时段从市中心乘出租车或网约车是现实选择。"
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "centralStationRoute",
+        "midiStationRoute"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=De%20Brouck%C3%A8re%20Brussels&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "常见问题"
+    },
+    "grandPlaceRoute": {
+      "pageTitle": "大广场到小便犬：步行路线、距离与时间",
+      "pageDescription": "从布鲁塞尔大广场步行到 Zinneke Pis 约 10 分钟：路线、约 0.8 公里的距离、要走的街道以及沿途经过的地标。",
+      "title": "从大广场步行到 Zinneke Pis",
+      "intro": "大广场是参观 Zinneke Pis 的天然起点。步行路程短、平坦，几乎全程穿过老城——约 0.8 公里，正常步速约 10 分钟。",
+      "sections": [
+        {
+          "title": "路线简述",
+          "body": "从大广场北侧的 Rue au Beurre 离开广场，继续向北并入 Rue des Chartreux。雕像就在 35 号门外的人行道上，紧挨路灯杆。\n\n没有陡坡，也没有复杂的路口：保持大致向北、留意街名，不用地图也能走到。"
+        },
+        {
+          "title": "沿途会经过什么",
+          "body": "起点是大广场的行会建筑之间，穿过遍布小店和餐馆的街道，最后来到一条更安静、部分铺石块的街道，两旁是食品店和咖啡馆。氛围的变化正是这条路线的意义所在：几百米内就从热闹的旅游中心走进生活的街区。"
+        },
+        {
+          "title": "路面与无障碍",
+          "body": "路线走的是铺设路面和部分石块路，基本平坦。大部分路段无台阶，但布鲁塞尔老城人行道可能有高出路缘和狭窄段落——使用轮椅和婴儿车的人请预留额外时间，尤其是在 Rue des Chartreux 本身。"
+        },
+        {
+          "title": "稍长一些的替代路线",
+          "body": "如果你更喜欢商业街，可以改走 Rue Neuve：多花几分钟、多很多商店，并在 Rue des Chartreux 的南端汇入。经 Rue au Beurre 的安静路线是大多数指南使用的那条。"
+        }
+      ],
+      "steps": [
+        "背对大广场的市政厅，在广场北侧找到 Rue au Beurre",
+        "沿 Rue au Beurre 向北走出广场",
+        "继续直行进入 Rue des Chartreux，保持向北",
+        "沿着铺石街道经过两旁的小店和咖啡馆",
+        "雕像就在 35 号门外的人行道上，紧挨路灯杆"
+      ],
+      "facts": [
+        {
+          "label": "步行距离",
+          "value": "从大广场到 Rue des Chartreux 35 号约 0.8 公里"
+        },
+        {
+          "label": "步行时间",
+          "value": "正常步速约 10 分钟"
+        },
+        {
+          "label": "路面",
+          "value": "铺设路面与部分石块路，基本平坦"
+        },
+        {
+          "label": "无台阶",
+          "value": "大部分路段可行；狭窄处注意高出路缘"
+        },
+        {
+          "label": "更长的替代路线",
+          "value": "经 Rue Neuve，多几分钟、店铺更多"
+        }
+      ],
+      "faq": [
+        {
+          "question": "大广场离 Zinneke Pis 有多远？",
+          "answer": "约 0.8 公里，步行穿过老城约 10 分钟。"
+        },
+        {
+          "question": "从大广场走哪条街？",
+          "answer": "广场北侧的 Rue au Beurre，然后继续向北进入 Rue des Chartreux 到 35 号。"
+        },
+        {
+          "question": "这条路适合轮椅吗？",
+          "answer": "路面平坦且有铺设，但部分是石块路并有少量高出路缘。在 Rue des Chartreux 的狭窄路段请预留额外时间。"
+        },
+        {
+          "question": "可以和小尿童一起游览吗？",
+          "answer": "可以。如果你走 Rue Neuve，小尿童位于大广场与夏特勒区之间的路上；从 Het Zinneke 反向步行约 8 分钟也可达。"
+        },
+        {
+          "question": "有更短的路吗？",
+          "answer": "街道呈网格状，有一些小变化，但没有任何走法能显著缩短路程。约 0.8 公里是现实的最短距离。"
+        }
+      ],
+      "related": [
+        "centralStationRoute",
+        "locationAndMap",
+        "statues"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Grand%20Place%20Brussels&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "常见问题"
+    },
+    "centralStationRoute": {
+      "pageTitle": "布鲁塞尔中央车站到小便犬：步行指引",
+      "pageDescription": "从布鲁塞尔中央火车站步行到 Zinneke Pis 约 15 分钟：经艺术山和大广场的路线、距离、无障碍说明与地铁替代方案。",
+      "title": "从布鲁塞尔中央车站步行到 Zinneke Pis",
+      "intro": "乘火车抵达布鲁塞尔中央车站后，雕像就在步行范围内。本页给出一条可行的路线、距离和时间，以及方便行李乘客的一站地铁方案。",
+      "sections": [
+        {
+          "title": "步行路线",
+          "body": "从车站正门出口到 Boulevard de l'Impératrice，向艺术山（Mont des Arts）方向走，再经 Rue Montagne de la Cour 下行至大广场边缘。随后沿 Rue au Beurre 向北进入 Rue des Chartreux 到 35 号。\n\n全程步行约 15 分钟、1.2 公里。这是穿过市中心的可行路线之一，每一段都有明确的地标可循。"
+        },
+        {
+          "title": "距离与时间",
+          "body": "约 1.2 公里，正常步速含红绿灯约 15 分钟。路线基本平坦，只有从艺术山下到大广场的一段下行，那里有电梯和坡道可替代台阶。"
+        },
+        {
+          "title": "携带行李时",
+          "body": "石块路和拥挤的人行道让全程步行拖着行李箱很不舒服。这种情况下，乘地铁 1 号线或 5 号线从 Gare Centrale 到 De Brouckère，再步行约 8 分钟——门到门约 20 分钟。"
+        },
+        {
+          "title": "改乘地铁",
+          "body": "中央车站位于 1 号线和 5 号线上，与 De Brouckère 同线，只隔一站。从 De Brouckère 经 Rue Neuve 和 Rue des Chartreux 步行到雕像约 8 分钟。"
+        }
+      ],
+      "steps": [
+        "从布鲁塞尔中央车站正门出口走到 Boulevard de l'Impératrice",
+        "向艺术山（Mont des Arts）方向走，再经 Rue Montagne de la Cour 下行前往大广场",
+        "穿越大广场边缘，在北侧找到 Rue au Beurre",
+        "沿 Rue au Beurre 向北，继续直行进入 Rue des Chartreux",
+        "雕像就在 35 号门外的人行道上，紧挨路灯杆"
+      ],
+      "facts": [
+        {
+          "label": "步行距离",
+          "value": "距车站出口约 1.2 公里"
+        },
+        {
+          "label": "步行时间",
+          "value": "正常步速约 15 分钟"
+        },
+        {
+          "label": "地铁替代",
+          "value": "1 号线或 5 号线一站到 De Brouckère，再步行约 8 分钟"
+        },
+        {
+          "label": "路面",
+          "value": "铺设路面与部分石块路；艺术山有一段短下行"
+        },
+        {
+          "label": "携带行李",
+          "value": "建议乘地铁——石块路和拥挤让人步行困难"
+        }
+      ],
+      "faq": [
+        {
+          "question": "中央车站离 Zinneke Pis 有多远？",
+          "answer": "约 1.2 公里，经艺术山和大广场步行约 15 分钟。"
+        },
+        {
+          "question": "可以从中央车站乘地铁吗？",
+          "answer": "可以。1 号线和 5 号线从 Gare Centrale 一站到 De Brouckère；雕像距 De Brouckère 步行约 8 分钟。"
+        },
+        {
+          "question": "步行路线无台阶吗？",
+          "answer": "基本如此。从艺术山下到大广场有台阶，但有电梯和坡道替代。"
+        },
+        {
+          "question": "最容易认的地标是什么？",
+          "answer": "先找艺术山，再找大广场，然后找 Rue au Beurre——每一步对行人都有清晰指示。"
+        },
+        {
+          "question": "带行李箱应该步行吗？",
+          "answer": "不建议。改乘地铁到 De Brouckère；石块路和拥挤的人行道让带行李步行很不舒服。"
+        }
+      ],
+      "related": [
+        "grandPlaceRoute",
+        "publicTransport",
+        "midiStationRoute"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brussels%20Central%20Station&destination=Het%20Zinneke%20Brussels&travelmode=walking",
+      "faqTitle": "常见问题"
+    },
+    "midiStationRoute": {
+      "pageTitle": "布鲁塞尔南站到小便犬：地铁、步行或出租车",
+      "pageDescription": "从布鲁塞尔南站（Gare du Midi / Zuidstation）到 Zinneke Pis：在 Arts-Loi 换乘一次的地铁路线、步行路线与距离，以及欧洲之星抵达提示。",
+      "title": "从布鲁塞尔南站到 Zinneke Pis",
+      "intro": "布鲁塞尔南站是欧洲之星和大力士高速列车的到站，也是全国最繁忙的车站——但它位于市中心以南，前往 Zinneke Pis 需要规划。以下是几种现实方案。",
+      "sections": [
+        {
+          "title": "乘地铁：约 25 分钟",
+          "body": "从南站乘地铁 2 号线或 6 号线到 Arts-Loi，换乘 1 号线或 5 号线到 De Brouckère，再步行约 8 分钟到雕像。含换乘全程约 25 分钟。\n\n这是多数游客使用的方案。出行当天请查 STIB/MIVB 行程规划，周末施工可能改变线路。"
+        },
+        {
+          "title": "步行：约 30 分钟",
+          "body": "从南站步行到 Rue des Chartreux 约 2.2 公里、约 30 分钟，几乎一路向北穿过市中心——天气好时可行，但对初次步行来说不是布鲁塞尔最有意思的一段。\n\n如果步行，请沿大道向北，到市中心后转向 Rue Neuve，或使用下方链接的 Google 地图步行导航。"
+        },
+        {
+          "title": "乘出租车或网约车",
+          "body": "从车站出租车候车点出发，正常交通约 10 分钟，高峰时段更久。网约车上车点在车站内有标识。\n\n布鲁塞尔市中心有低排放区，但这不影响短途载客——只有自驾才相关。"
+        },
+        {
+          "title": "乘欧洲之星或大力士抵达",
+          "body": "通过安检区后，跟随 2 号线和 6 号线的地铁指示，按上述路线乘车。闸机接受非接触式银行卡，无需排队买纸质票。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "乘地铁",
+          "value": "2 号线或 6 号线到 Arts-Loi，换 1 号线或 5 号线到 De Brouckère，再步行 8 分钟——约 25 分钟"
+        },
+        {
+          "label": "步行",
+          "value": "约 2.2 公里、30 分钟，几乎一路向北"
+        },
+        {
+          "label": "乘出租车",
+          "value": "正常交通从车站候车点约 10 分钟"
+        },
+        {
+          "label": "带行李最佳",
+          "value": "地铁——De Brouckère 有电梯，最后步行很短"
+        }
+      ],
+      "faq": [
+        {
+          "question": "从布鲁塞尔南站怎么去 Zinneke Pis？",
+          "answer": "乘地铁 2 号线或 6 号线到 Arts-Loi，换乘 1 号线或 5 号线到 De Brouckère，再步行约 8 分钟——全程约 25 分钟。"
+        },
+        {
+          "question": "南站有直达地铁吗？",
+          "answer": "没有一趟车直达：2 号线和 6 号线不到 De Brouckère，需要在 Arts-Loi 换乘 1 号线或 5 号线。"
+        },
+        {
+          "question": "从南站步行要多久？",
+          "answer": "约 2.2 公里、30 分钟，几乎一路向北穿过市中心。"
+        },
+        {
+          "question": "出租车贵吗？",
+          "answer": "这是约 10 分钟的短途市区行程，带行李或夜间是合理选择，但地铁更便宜，高峰时段通常更快。"
+        },
+        {
+          "question": "我乘欧洲之星抵达——最简单的方案是什么？",
+          "answer": "跟随 2 号线和 6 号线的地铁指示，到 Arts-Loi，换乘 1 号线或 5 号线到 De Brouckère，再步行 8 分钟。"
+        }
+      ],
+      "related": [
+        "publicTransport",
+        "centralStationRoute",
+        "locationAndMap"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brussels%20Midi%20Station&destination=Het%20Zinneke%20Brussels&travelmode=transit",
+      "faqTitle": "常见问题"
+    },
+    "jeannekeRoute": {
+      "pageTitle": "小便犬到小便女童：步行路线、距离与时间",
+      "pageDescription": "Zinneke Pis 与布鲁塞尔 Jeanneke Pis 之间的距离及走法：经小便童的路线，约 0.8 公里、10–12 分钟，附逐段指引。",
+      "title": "从 Zinneke Pis 步行到 Jeanneke Pis",
+      "intro": "Zinneke Pis 和 Jeanneke Pis 是布鲁塞尔三座小便雕像中最安静的两座，相距很近，可以用一次短步行串联。顺路会经过小便童。",
+      "sections": [
+        {
+          "title": "路线",
+          "body": "从 Rue des Chartreux 35 号向南走向 Rue Neuve，沿街到 Monnaie 广场，再经 Rue du Marché aux Herbes 或 Rue des Fripiers 切入老城。转入 Rue de l'Étuve 到达街角的小尿童，再走几步进入 Impasse de la Fidélité 就是小便女童。\n\n全程约 0.8 公里、10–12 分钟，几乎全程平坦。"
+        },
+        {
+          "title": "在小便女童处能看到什么",
+          "body": "Jeanneke Pis 比小便童小得多，也安静得多。她藏在一条窄巷中的低矮台座上——即使走对了街也可能错过。请寻找小巷入口，而不是寻找人群。\n\n小巷是公共通道，全天开放、免费参观。"
+        },
+        {
+          "title": "串联三座小便雕像",
+          "body": "从大广场出发，依次看小便童、小便女童和 Het Zinneke，再返回大广场的环线约 2 公里，从容走完需 45–60 分钟。\n\n按 大广场 → 小便童 → 小便女童 → Het Zinneke 的顺序，可以把两座安静的雕像安排在热闹街道之前。"
+        }
+      ],
+      "steps": [
+        "从 Rue des Chartreux 35 号的 Het Zinneke 出发，向南走向 Rue Neuve",
+        "沿 Rue Neuve 向南，经过购物街区，朝 Monnaie 广场方向",
+        "转入 Rue du Marché aux Herbes 或 Rue des Fripiers 前往老城",
+        "到达 Rue de l'Étuve——小便童就在街角",
+        "再走几步进入 Impasse de la Fidélité——小便女童就在小巷里"
+      ],
+      "facts": [
+        {
+          "label": "步行距离",
+          "value": "从 Rue des Chartreux 35 号到 Impasse de la Fidélité 约 0.8 公里"
+        },
+        {
+          "label": "步行时间",
+          "value": "正常步速约 10–12 分钟"
+        },
+        {
+          "label": "途经",
+          "value": "小便童——两座雕像相距约 2–3 分钟"
+        },
+        {
+          "label": "难度",
+          "value": "平坦的铺设街道与部分石块路"
+        },
+        {
+          "label": "门票",
+          "value": "免费，两座雕像都在公共街道上"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Zinneke Pis 离 Jeanneke Pis 有多远？",
+          "answer": "约 0.8 公里，经小便童步行约 10–12 分钟。"
+        },
+        {
+          "question": "必须经过小便童吗？",
+          "answer": "不必停留，但自然路线会经过它的街角——两座雕像只隔 2–3 分钟。"
+        },
+        {
+          "question": "Jeanneke Pis 具体在哪里？",
+          "answer": "在 Impasse de la Fidélité，一条窄公共小巷，距小便童和大广场都很近。"
+        },
+        {
+          "question": "路线适合轮椅吗？",
+          "answer": "街道平坦且有铺设，但有些路段狭窄拥挤。小巷本身是公共通道。"
+        },
+        {
+          "question": "可以一次走完三座小便雕像吗？",
+          "answer": "可以。大广场 → 小便童 → 小便女童 → Het Zinneke → 大广场约 2 公里，需 45–60 分钟。"
+        }
+      ],
+      "related": [
+        "mannekenPis",
+        "jeannekePis",
+        "statues"
+      ],
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Het%20Zinneke%20Brussels&destination=Jeanneke%20Pis%20Brussels&travelmode=walking",
+      "faqTitle": "常见问题"
+    },
+    "history": {
+      "pageTitle": "小便犬的历史：1998 还是 1999，以及 Tom Frantzen",
+      "pageDescription": "布鲁塞尔 Zinneke Pis（Het Zinneke）的历史：有据可查的部分、为何有的来源写 1998 年而有的写 1999 年，以及 Rue des Chartreux 上这座青铜小狗的故事。",
+      "title": "Zinneke Pis 的历史",
+      "intro": "与小尿童相比，Zinneke Pis 是一件新作品，但它已经有了自己的小传说。本页把有据可查的内容与坊间说法区分开——包括连官方来源都不一致的 1998 或 1999 之争。",
+      "sections": [
+        {
+          "title": "有据可查的内容",
+          "body": "布鲁塞尔首都大区官方旅游机构 Visit Brussels 将 Het Zinneke（Zinneke-Pis）列为布鲁塞尔雕塑家 Tom Frantzen 1999 年的作品，安放于 Rue des Chartreux 35 号。该雕像的公开 Google 地图条目同样使用 Het Zinneke 这一名称和相同地址。\n\n雕塑本身是一只杂种狗抬起后腿对着路灯杆撒尿的小型青铜像，直接安置在街面上，没有基座。"
+        },
+        {
+          "title": "为什么有的来源写 1998 年",
+          "body": "Tom Frantzen 本人的网站把作品年份列为 1998，而 Visit Brussels 写 1999。两种年份在网上流传，本指南展示 1999，因为它遵循该地址的官方旅游条目。\n\n我们刻意不把这个差异演绎成“1998 年创作、1999 年安装”之类的故事——没有可靠证据支持这一顺序。旧网页提到 1998 的地方，现行官方信息指向 1999，而艺术家自己的年份标注是另一个现存来源。在两者被一手资料澄清之前，如实呈现分歧是诚实的做法。"
+        },
+        {
+          "title": "第三座小便雕像",
+          "body": "在 Frantzen 加上一只狗之前，布鲁塞尔已经有一个撒尿男孩和一个撒尿女孩。小便童可追溯至 1619 年，是全市最著名的雕像；小便女童则在 1987 年作为刻意的对应而建。\n\nHet Zinneke 在 1990 年代末补齐了这个系列，而它的玩笑不同：男孩是地标，女孩是宣言，狗则是这座城市以杂种狗自况的自嘲。"
+        },
+        {
+          "title": "街道及其名字",
+          "body": "Rue des Chartreux 的名字来自加尔都西会修士（Chartreux / Kartuizers），他们的修会曾长期存在于布鲁塞尔这一区域。宗教建筑消失很久之后，街区 Kartuizerwijk 仍保留了这个名字。\n\nFrantzen 为雕像选中的这条街是一条生活街道：小食品店、咖啡馆和住宅，而不是旅游广场。这个选择与作品的幽默一脉相承。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "创作年份",
+          "value": "Visit Brussels 记为 1999 年；Tom Frantzen 本人网站列为 1998 年"
+        },
+        {
+          "label": "雕塑家",
+          "value": "Tom Frantzen，以幽默青铜公共艺术闻名的布鲁塞尔雕塑家"
+        },
+        {
+          "label": "材质",
+          "value": "青铜，置于街面高度，倚靠路灯杆"
+        },
+        {
+          "label": "地址",
+          "value": "Rue des Chartreux 35, 1000 Bruxelles"
+        },
+        {
+          "label": "背景",
+          "value": "布鲁塞尔第三座小便雕像，晚于小便童（1619）和小便女童（1987）"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Zinneke Pis 是什么时候创作的？",
+          "answer": "Visit Brussels 记为 1999 年；Tom Frantzen 本人的网站列为 1998 年。本指南展示 1999 年并注明分歧，而不编造解释。"
+        },
+        {
+          "question": "谁创作了 Zinneke Pis？",
+          "answer": "Tom Frantzen，一位以公共空间中幽默的青铜人物和动物闻名的布鲁塞尔雕塑家。"
+        },
+        {
+          "question": "为什么有些网站写 1998 年？",
+          "answer": "因为艺术家本人的网站使用该年份，许多网页照抄。现行官方旅游信息指向 1999 年。"
+        },
+        {
+          "question": "Zinneke Pis 是受小便童启发吗？",
+          "answer": "它是对这一传统的回应而非复制：同一座城市、同一个玩笑、另一种动物。小便童始于 1619 年，Het Zinneke 约在 1999 年。"
+        },
+        {
+          "question": "雕像被移动或更换过吗？",
+          "answer": "它仍在 Rue des Chartreux 的原址。布鲁塞尔街头雕像偶有修复清洁，但这件作品没有更换的记载。"
+        },
+        {
+          "question": "为什么叫 Zinneke？",
+          "answer": "Zinneke 是布鲁塞尔方言中对杂种狗的称呼，后来成为这座城市混合居民的自嘲式外号——正是雕像开的玩笑。"
+        }
+      ],
+      "related": [
+        "zinnekeMeaning",
+        "statues",
+        "rueDesChartreux"
+      ],
+      "faqTitle": "常见问题"
+    },
+    "zinnekeMeaning": {
+      "pageTitle": "Zinneke 是什么意思？布鲁塞尔方言词解析",
+      "pageDescription": "布鲁塞尔方言中 zinneke 的含义：杂种狗、塞讷河与布鲁塞尔身份认同——以及 Rue des Chartreux 上这座青铜小狗为何以此命名。",
+      "title": "Zinneke 是什么意思？",
+      "intro": "这个名字就是整件作品的关键。Zinneke 是一个布鲁塞尔方言词，理解它才能明白为什么一只撒尿的小狗会成为城市的象征。",
+      "sections": [
+        {
+          "title": "这个词本身",
+          "body": "在布鲁塞尔方言中，zinneke 指杂种狗：城里的狗与乡下的狗生下的狗，血统混杂、没有出身的街头动物。这个词与穿过布鲁塞尔的塞讷河（Zenne）以及围绕它形成的街头生活有关。\n\n叫某人 zinneke 从来不只是辱骂。它描述的是混杂的出身，而布鲁塞尔人带着几分自豪用它来形容自己。"
+        },
+        {
+          "title": "从杂种狗到城市认同",
+          "body": "随着时间推移，zinneke 成了指代布鲁塞尔混合居民的说法——这座城市既不纯荷兰语也不纯法语，而是两者再加上经港口和工业到来的一切的混合体。\n\n这正是这个词与雕像紧密相连的原因：一只其貌不扬、没有品种的街头狗，比任何宏伟纪念碑都更能诚实地代表布鲁塞尔。"
+        },
+        {
+          "title": "雕像如何运用这个玩笑",
+          "body": "Frantzen 的狗刻意反英雄。它很小，被抓拍在动态中，安在普通街道路灯杆旁，而不是高踞广场基座之上。期待看到纪念碑的游客，看到的是一只癞皮狗。\n\n这种幽默是典型的布鲁塞尔式 zwanze：先自嘲，免得别人来嘲。"
+        },
+        {
+          "title": "相关名称与写法",
+          "body": "这座雕像被称为 Het Zinneke（那只杂种狗）、Zinneke Pis（撒尿的杂种狗）和 Zinneke-Pis。Google 地图条目用 Het Zinneke，而多数游客搜索的是 Zinneke Pis。\n\n荷兰语里有时写作 Zinneke Pis Brussel 或简称 het zinnepisbeeld；法语里写作 Zinneke Pis Bruxelles 或 le chien qui fait pipi。这些名字指的都是同一只青铜狗。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "字面含义",
+          "value": "杂种狗——城市狗与乡村狗混血的后代"
+        },
+        {
+          "label": "语言",
+          "value": "布鲁塞尔方言（Brusseleir），与塞讷河 / Zenne 相关"
+        },
+        {
+          "label": "引申含义",
+          "value": "对布鲁塞尔混合居民与城市认同的称呼"
+        },
+        {
+          "label": "雕像名称",
+          "value": "Het Zinneke、Zinneke Pis、Zinneke-Pis——同一只青铜狗"
+        }
+      ],
+      "faq": [
+        {
+          "question": "zinneke 在荷兰语里是什么意思？",
+          "answer": "杂种狗——特指城里狗与乡下狗生下的狗。在布鲁塞尔方言中，它也成为该市混合居民的称呼。"
+        },
+        {
+          "question": "zinneke 是骂人的话吗？",
+          "answer": "可以带刺使用，但布鲁塞尔人带着自豪用它说自己。用在雕像上则是亲昵的。"
+        },
+        {
+          "question": "Zinneke Pis 字面意思是什么？",
+          "answer": "大约是“撒尿的杂种狗”——与 Manneken Pis（撒尿的小人）和 Jeanneke Pis 同一命名模式。"
+        },
+        {
+          "question": "为什么杂种狗能代表布鲁塞尔？",
+          "answer": "因为这座城市自视为混合体：语言、街区、移民的混合。狗是对这种混合的自嘲式象征。"
+        },
+        {
+          "question": "Brusseleir 是什么语言？",
+          "answer": "在布鲁塞尔使用的荷兰语地方方言，受法语影响并有独特词汇——zinneke 一词即来源于此。"
+        }
+      ],
+      "related": [
+        "history",
+        "statues",
+        "locationAndMap"
+      ],
+      "faqTitle": "常见问题"
+    },
+    "photos": {
+      "pageTitle": "小便犬照片：最佳角度、时段与实貌",
+      "pageDescription": "如何在布鲁塞尔拍摄 Zinneke Pis（Het Zinneke）：有效的角度、一天中最安静的时段、这只小型青铜狗的真实样子，以及本站的图集。",
+      "title": "拍摄 Zinneke Pis",
+      "intro": "Zinneke Pis 是个不好拍好的题材：它很小，位于生活街道上，高楼之间光线变化很快。本页介绍雕像的真实样貌、有效的角度和拍摄时机。",
+      "sections": [
+        {
+          "title": "雕像的真实样貌",
+          "body": "Het Zinneke 大约与真狗等身——比多数游客预期的小得多。它是一只翘着卷尾的青铜杂种狗，被抓拍在抬腿对着路灯杆的瞬间，造型刻意随意、带幽默感，近看比远看更有味道。\n\n因为它就在齐膝高的人行道上，多数照片失败的原因是拍得太远。"
+        },
+        {
+          "title": "六个有效的角度",
+          "body": "正面照能把整个轮廓连同路灯杆一起拍下。侧面角度能拍到抬起的后腿。头部和卷尾的特写展现铜绿与造型。把整根路灯杆拍进去，能看到雕塑家设计的构图。\n\n穿过街道用广角拍摄，可以把狗放进它的石块街道环境；天黑后路灯会勾出青铜的轮廓，但弱光需要提高 ISO 或稳住手。"
+        },
+        {
+          "title": "拍摄时机",
+          "body": "早上 8 点到 10 点最安静，光线干净地落在青铜上，画面里人最少。傍晚 18 点到 20 点光线更暖，附近咖啡馆露台已开。冬季中午是昏暗月份里自然光最好的时段。\n\n街道有车辆通行，后退取景时请留在人行道上。"
+        },
+        {
+          "title": "本站图集",
+          "body": "本站发布在 Rue des Chartreux 实地拍摄的雕像与街道照片——正面、侧面与细节，以及不同季节和夜晚的周边街区。这些为示意性图片。\n\n本站是独立的非商业游客指南。如果你认为某张图片说明有误、应当署名或删除，请联系我们，我们会更正。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "最佳时段",
+          "value": "早上 8–10 点画面干净；傍晚 18–20 点光线温暖"
+        },
+        {
+          "label": "拍摄",
+          "value": "自由拍摄、无限制——这是公共街道"
+        },
+        {
+          "label": "实用提示",
+          "value": "这是生活街道：留在人行道，注意车辆"
+        },
+        {
+          "label": "器材",
+          "value": "白天用手机即可；夜景需要稳手或提高 ISO"
+        }
+      ],
+      "faq": [
+        {
+          "question": "可以拍摄 Zinneke Pis 吗？",
+          "answer": "可以。拍摄自由且无限制——雕像位于公共街道上。"
+        },
+        {
+          "question": "Zinneke Pis 实际长什么样？",
+          "answer": "一只约真狗大小的青铜杂种狗，在齐膝高的位置抬腿对着路灯杆。"
+        },
+        {
+          "question": "什么时候拍摄最好？",
+          "answer": "早上 8 点到 10 点，街道安静、光线干净地照在青铜上。"
+        },
+        {
+          "question": "那里人多吗？",
+          "answer": "很少像小便童那样拥挤。下午购物者较多，但几乎总能拍到干净的画面。"
+        },
+        {
+          "question": "可以夜间拍摄吗？",
+          "answer": "可以。路灯会勾出青铜轮廓，但弱光需要更高 ISO、三脚架或稳固支撑。"
+        },
+        {
+          "question": "本站的照片来自哪里？",
+          "answer": "均为我们在 Rue des Chartreux 实地拍摄。欢迎指正或索取署名——联系方式见页脚。"
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "rueDesChartreux",
+        "grandPlaceRoute"
+      ],
+      "faqTitle": "常见问题"
+    },
+    "mannekenPis": {
+      "pageTitle": "小便童指南：位置、服装与参观提示",
+      "pageDescription": "在 Zinneke Pis 附近参观小便童：确切位置、距离、服装传统与服装博物馆、原作收藏地点，以及实用参观提示。",
+      "title": "小便童：参观指南",
+      "intro": "小便童是人们谈论布鲁塞尔时想到的那座雕像，也是离 Zinneke Pis 最近的主要地标，约 8 分钟——多数游客会一起看。本指南介绍参观要点与串联方式。",
+      "sections": [
+        {
+          "title": "它是什么，在哪里",
+          "body": "小便童是一座约 61 厘米高的青铜男孩像，立在 Rue de l'Étuve 与 Rue du Chêne 街角的喷泉座上，距大广场几步之遥。现存的青铜像是 20 世纪重铸的：此前的雕像曾被盗或受损，最初的中世纪原作已不在街头。\n\n它免费、露天、任何时段可见，不过周边街道下午最热闹。"
+        },
+        {
+          "title": "服装传统",
+          "body": "小便童全年穿着不断更换的服装——数百套服装由城市、行会和外国馈赠。这批收藏保存在 Garderobe（服装博物馆）中展出，距雕像很近。\n\n你参观当天它是否着装取决于日程，因此把每套服装当作意外之喜，而非参观目的。"
+        },
+        {
+          "title": "原作在哪里",
+          "body": "小便童原作由布鲁塞尔城市博物馆收藏，陈列于大广场上的 Maison du Roi（国王之家）内玻璃柜中。在同一次步行中既看街头雕像又看博物馆原作，是经典做法。\n\n前往前请查阅博物馆官网的开放时间与入馆规定。"
+        },
+        {
+          "title": "从 Zinneke Pis 前往",
+          "body": "从 Rue des Chartreux 35 号步行到小便童约 0.6 公里、8 分钟，经 Rue Neuve 和 Monnaie 广场。按 Zinneke Pis → 小便童 → 大广场的顺序，可以把安静的雕像放在前面、人流放在最后。\n\n我们的分步路线页详细列出了要走的街道。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "位置",
+          "value": "Rue de l'Étuve 与 Rue du Chêne 街角，近大广场"
+        },
+        {
+          "label": "年代",
+          "value": "1619 年——现存青铜为后世重铸"
+        },
+        {
+          "label": "门票",
+          "value": "免费、露天街道、无开放时间"
+        },
+        {
+          "label": "距小便犬",
+          "value": "约 0.6 公里，步行 8 分钟"
+        },
+        {
+          "label": "原作",
+          "value": "布鲁塞尔城市博物馆，大广场 Maison du Roi"
+        },
+        {
+          "label": "服装",
+          "value": "全年更换；收藏陈列于 Garderobe 服装博物馆"
+        }
+      ],
+      "faq": [
+        {
+          "question": "小便童离小便犬有多远？",
+          "answer": "约 0.6 公里，经 Rue Neuve 和 Monnaie 广场步行约 8 分钟。"
+        },
+        {
+          "question": "小便童免费参观吗？",
+          "answer": "免费。它位于公共街道，无门票、无围栏、无开放时间。"
+        },
+        {
+          "question": "小便童的原作在哪里？",
+          "answer": "在布鲁塞尔城市博物馆（大广场 Maison du Roi）。街头雕像是一尊较新的青铜像。"
+        },
+        {
+          "question": "去的时候会看到服装吗？",
+          "answer": "不一定。服装按城市与 Garderobe 博物馆的日程更换，任何一天都无法保证。"
+        },
+        {
+          "question": "小便童为什么有名？",
+          "answer": "它古老、小巧、玩世不恭，几个世纪来被盗、被仿制、被换上各种服装——布鲁塞尔把它当作非官方象征。"
+        },
+        {
+          "question": "小便童比小便犬大吗？",
+          "answer": "两者尺度相当。小便童含基座约 61 厘米；Het Zinneke 约与真狗等身、齐膝高。"
+        }
+      ],
+      "related": [
+        "jeannekePis",
+        "statues",
+        "route"
+      ],
+      "faqTitle": "常见问题"
+    },
+    "jeannekePis": {
+      "pageTitle": "小便女童：位置、如何找到她及建造缘由",
+      "pageDescription": "如何在布鲁塞尔找到小便女童：小巷中的位置、距小便犬与小尿童的距离、这座小雕像的样子，以及她为何而建。",
+      "title": "小便女童：参观指南",
+      "intro": "小便女童是三座小便雕像中最安静的一座——小小的，藏在小巷里，即使知道路线也可能错过。本指南说明如何找到她，以及她为何而建。",
+      "sections": [
+        {
+          "title": "她在哪里",
+          "body": "小便女童位于 Impasse de la Fidélité，一条距小便童很近的窄公共小巷。小巷入口很容易走过：请寻找建筑之间的缺口，而不是人群或指示牌。\n\n她距小便犬约 0.8 公里、步行 10–12 分钟，距小便童仅 2–3 分钟。"
+        },
+        {
+          "title": "她长什么样",
+          "body": "雕像是一个小幅蹲姿的青铜女孩像，安在靠巷墙的低矮台座上。她建于 1987 年，是对小便童数百年盛名的刻意回应。\n\n由于小巷狭窄，最好的照片是从正前方近距离拍摄。"
+        },
+        {
+          "title": "她为何存在",
+          "body": "1980 年代，布鲁塞尔最著名的雕像是个男孩，而这座城市的公共艺术几乎没有给另一种答案留出位置。小便女童受委托创作，补全了这个玩笑——并本着 zwanze 的精神，同时嘲笑原作的盛名。\n\n她常被解读为一座小型女性主义雕像，也确实是三者中访客最少的。"
+        },
+        {
+          "title": "与其他雕像串联",
+          "body": "经典环线是大广场 → 小便童 → 小便女童 → Het Zinneke → 大广场，约 2 公里、45–60 分钟。看完小便童紧接着看小便女童只需多几分钟。\n\n我们的步行路线页提供每一段逐街指引。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "位置",
+          "value": "Impasse de la Fidélité，小便童附近的窄公共小巷"
+        },
+        {
+          "label": "年代",
+          "value": "1987 年——对小尿童（1619）的对应"
+        },
+        {
+          "label": "门票",
+          "value": "免费、公共小巷、全天开放"
+        },
+        {
+          "label": "距小便犬",
+          "value": "约 0.8 公里，步行 10–12 分钟"
+        },
+        {
+          "label": "距小便童",
+          "value": "约 2–3 分钟"
+        }
+      ],
+      "faq": [
+        {
+          "question": "小便女童具体在哪里？",
+          "answer": "在 Impasse de la Fidélité，一条距小便童几分钟的窄小巷。"
+        },
+        {
+          "question": "小便女童离小便犬多远？",
+          "answer": "约 0.8 公里，经小便童步行约 10–12 分钟。"
+        },
+        {
+          "question": "为什么小便女童难找？",
+          "answer": "她很小，在窄巷里，周围也没有人群。请在小尿童附近寻找小巷入口。"
+        },
+        {
+          "question": "小便女童是什么时候建的？",
+          "answer": "1987 年，作为对小尿童的刻意对应。"
+        },
+        {
+          "question": "小便女童免费吗？",
+          "answer": "免费。她位于公共小巷，无门票、无开放时间。"
+        },
+        {
+          "question": "三座中哪座最安静？",
+          "answer": "小便女童和小便犬都比小尿童安静；小便女童的访客最少。"
+        }
+      ],
+      "related": [
+        "mannekenPis",
+        "jeannekeRoute",
+        "statues"
+      ],
+      "faqTitle": "常见问题"
+    },
+    "rueDesChartreux": {
+      "pageTitle": "Rue des Chartreux 与夏特勒区：布鲁塞尔街区指南",
+      "pageDescription": "布鲁塞尔 Rue des Chartreux（Kartuizersstraat）指南：小便犬所在的这条街、夏特勒区、可看的内容、小店与咖啡馆，以及步行提示。",
+      "title": "Rue des Chartreux 与夏特勒区",
+      "intro": "这条街是参观小便犬的一半理由。Rue des Chartreux（荷兰语 Kartuizersstraat）是那种让人感到布鲁塞尔很本地、而非很旅游化的街道，雕像只是街道家具的一部分。",
+      "sections": [
+        {
+          "title": "这条街",
+          "body": "Rue des Chartreux 穿过夏特勒区（Kartuizerwijk），位于 Rue Neuve 购物街以北、Antoine Dansaert 区以东几分钟处。街道狭窄，部分铺石块，两旁是小食品店、咖啡馆和住宅。\n\n青铜小狗就在 35 号门外的人行道上，靠着路灯杆——没有标识、没有围栏，很容易错过。"
+        },
+        {
+          "title": "街区与名字",
+          "body": "街道与街区的名字来自加尔都西会修士（Chartreux / Kartuizers），他们的修会曾在此存在数百年。街道的荷兰语名 Kartuizersstraat 也出自同一词源。\n\n今天留下来的是一片生活街区：面包师、果蔬店、咖啡馆和公寓，热闹的购物街只隔一个街区。"
+        },
+        {
+          "title": "可看与可做",
+          "body": "把整条街走完，而不是直奔雕像。看看店面和建筑立面，然后再回到路灯杆旁。这个街区值得慢十分钟，胜过快速的拍照打卡。\n\n从这里可以继续前往 Antoine Dansaert 区逛更多小店和咖啡馆，或折回 Rue Neuve 的购物街。"
+        },
+        {
+          "title": "实用提示",
+          "body": "清晨街上最安静；下午 Rue Neuve 的购物者会涌进来。这是有车辆和送货的生活街道，拍摄雕像时请留在人行道上。\n\n最近的地铁站是 De Brouckère，步行约 8 分钟；到大广场步行约 10 分钟。"
+        }
+      ],
+      "facts": [
+        {
+          "label": "街名",
+          "value": "Rue des Chartreux（法语）/ Kartuizersstraat（荷兰语）"
+        },
+        {
+          "label": "街区",
+          "value": "夏特勒区 / Kartuizerwijk，布鲁塞尔市，1000"
+        },
+        {
+          "label": "地标",
+          "value": "Het Zinneke（Zinneke Pis）位于 35 号外人行道"
+        },
+        {
+          "label": "特色",
+          "value": "狭窄、部分石块路、小食品店与咖啡馆"
+        },
+        {
+          "label": "最近地铁站",
+          "value": "De Brouckère（1、5 号线），步行约 8 分钟"
+        },
+        {
+          "label": "到大广场",
+          "value": "经 Rue au Beurre 步行约 10 分钟"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Rue des Chartreux 的荷兰语名是什么？",
+          "answer": "Kartuizersstraat。布鲁塞尔街牌是双语的，因此两个名字都能看到。"
+        },
+        {
+          "question": "夏特勒区在哪里？",
+          "answer": "在布鲁塞尔市中心，Rue Neuve 购物街与 Antoine Dansaert 区之间，大广场以北几分钟。"
+        },
+        {
+          "question": "为什么叫 Chartreux？",
+          "answer": "名字来自加尔都西会修士（Chartreux / Kartuizers），他们的修会曾长期存在于城市这一区域。"
+        },
+        {
+          "question": "这条街上有什么店？",
+          "answer": "多为小型独立食品店和咖啡馆，而不是连锁店——这是一条生活街区街道。"
+        },
+        {
+          "question": "怎么去 Rue des Chartreux？",
+          "answer": "乘地铁到 De Brouckère（步行约 8 分钟），或从大广场经 Rue au Beurre 步行约 10 分钟。"
+        },
+        {
+          "question": "这条街热闹吗？",
+          "answer": "清晨安静，下午 Rue Neuve 的购物者涌入时较热闹。从不像大广场那样拥挤。"
+        }
+      ],
+      "related": [
+        "locationAndMap",
+        "grandPlaceRoute",
+        "photos"
+      ],
+      "faqTitle": "常见问题"
+    }
   }
 }

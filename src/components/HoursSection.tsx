@@ -19,8 +19,8 @@ export default function HoursSection() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
           <TimeCard title={t('park')} time={t('parkTime')} iconKey="park" />
-          <TimeCard title={t('bestTime')} time={t('bestTimeSpring')} subtitle={t('bestTimeSummer')} iconKey="season" />
-          <TimeCard title={t('bestTime')} time={t('bestTimeAutumn')} subtitle={t('bestTimeWinter')} iconKey="season" />
+          <TimeCard title={t('bestTimeWarm')} time={t('bestTimeSpring')} subtitle={t('bestTimeSummer')} iconKey="season" />
+          <TimeCard title={t('bestTimeCold')} time={t('bestTimeAutumn')} subtitle={t('bestTimeWinter')} iconKey="season" />
         </div>
 
         <div

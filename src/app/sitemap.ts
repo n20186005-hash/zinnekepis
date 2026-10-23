@@ -1,24 +1,29 @@
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { hreflangAlternates, localizedPath } from '@/lib/site';
+import { TOPICS } from '@/data/topics';
 
-// Only these routes belong in the sitemap. Legal/utility pages are excluded.
-const ROUTES = [
-  { path: '/', priority: 1 },
-  { path: '/brussels-pis-statues', priority: 0.8 },
-  { path: '/zinneke-pis-to-manneken-pis', priority: 0.8 },
-];
-
+// Only content routes belong in the sitemap. Legal/utility pages are excluded.
 export default function sitemap(): MetadataRoute.Sitemap {
-  return ROUTES.flatMap(({ path, priority }) =>
+  const home: MetadataRoute.Sitemap = routing.locales.map((locale) => ({
+    url: localizedPath(locale, '/'),
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 1,
+    alternates: { languages: hreflangAlternates(routing.locales, '/') },
+  }));
+
+  const topics: MetadataRoute.Sitemap = TOPICS.flatMap((topic, index) =>
     routing.locales.map((locale) => ({
-      url: localizedPath(locale, path),
+      url: localizedPath(locale, `/${topic.slug}`),
       lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority,
+      changeFrequency: 'monthly' as const,
+      priority: index < 8 ? 0.8 : 0.7,
       alternates: {
-        languages: hreflangAlternates(routing.locales, path),
+        languages: hreflangAlternates(routing.locales, `/${topic.slug}`),
       },
     }))
   );
+
+  return [...home, ...topics];
 }
