@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import NearbyPhoto from '@/components/NearbyPhoto';
 import { nearbyPath, places, placesBySlug } from '@/data/nearby';
 import { labels } from '@/data/nearby-labels';
 import { routing, type Locale } from '@/i18n/routing';
@@ -44,7 +45,6 @@ export default async function NearbyPage({ params }: Props) {
   const { place, locale } = resolve(input.locale, input.place);
   setRequestLocale(locale);
   const [name, introduction, history, highlights, visit, photos] = place.copy[locale];
-  const licenseVersion = place.photo?.version ?? '4.0';
   const t = labels[locale];
   const inArea = places.filter((candidate) => candidate.area === place.area);
   const index = inArea.indexOf(place);
@@ -69,15 +69,7 @@ export default async function NearbyPage({ params }: Props) {
                 <a className="mt-5 inline-block rounded-md bg-white px-4 py-2 text-sm font-semibold text-nature-900" href={mapUrl}>{t.map}</a>
               </div>
               {place.photo ? (
-                <figure>
-                  {/* Wikimedia serves the credited, resized photograph. */}
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img className="max-h-72 w-full rounded-lg bg-nature-900 object-contain" src={place.photo.url} alt={name} referrerPolicy="no-referrer" />
-                  <figcaption className="mt-2 text-xs leading-relaxed">
-                    <a className={external} href={place.photo.source}>{place.photo.credit} · Wikimedia Commons</a> ·{' '}
-                    <a className={external} href={`https://creativecommons.org/licenses/by-sa/${licenseVersion}/`}>CC BY-SA {licenseVersion}</a> · {t.thumbnail}
-                  </figcaption>
-                </figure>
+                <NearbyPhoto key={place.photo.url} photo={place.photo} name={name} pending={t.placeholder} thumbnail={t.thumbnail} />
               ) : (
                 <div className="grid min-h-32 place-items-center rounded-lg border border-dashed border-white/40 p-6 text-sm">
                   {t.placeholder}
