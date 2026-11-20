@@ -25,12 +25,14 @@ export const ATTRACTION = {
   addressCountry: 'BE',
   countryName: 'Belgium',
 
-  latitude: 50.8487904,
-  longitude: 4.3266355,
+  // Coordinates from the Brussels heritage inventory, rounded to five decimals.
+  latitude: 50.84878,
+  longitude: 4.34566,
   plusCode: 'R8XW+G7 Brussels, Belgium',
 
   mapsUrl: 'https://maps.app.goo.gl/JYWuyur9ydE1bJCF7',
-  officialTourismUrl: 'https://visitbrussels.be/',
+  officialTourismUrl: 'https://www.visit.brussels/',
+  heritageUrl: 'https://collections.heritage.brussels/nl/objects/44975',
   officialVenueUrl:
     'https://www.visit.brussels/en/visitors/venue-details.Zinneke-Pis.50001051',
 
@@ -55,7 +57,7 @@ export const ATTRACTION = {
 } as const;
 
 export const MAPS_EMBED_URL =
-  'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d17935.098881751346!2d4.3266355!3d50.8487904!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c3880548ea1f%3A0x4b33b3c3e67ce1fb!2sHet%20Zinneke!5e1!3m2!1sen!2s!4v1787895931776!5m2!1sen!2s';
+  `https://maps.google.com/maps?q=${ATTRACTION.latitude},${ATTRACTION.longitude}&z=17&output=embed`;
 
 /** Hero / first gallery image, served from `public/gallery`. */
 export const HERO_IMAGE = '/gallery/zinneke-pis-brussels.jpg';

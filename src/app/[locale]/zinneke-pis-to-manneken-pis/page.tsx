@@ -35,6 +35,7 @@ export async function generateMetadata({
       canonical: selfUrl,
       languages: hreflangAlternates(routing.locales, PATH),
     },
+    twitter: { card: 'summary', title: t('pageTitle'), description: t('pageDescription') },
     openGraph: {
       title: t('pageTitle'),
       description: t('pageDescription'),
@@ -78,7 +79,7 @@ export default async function ZinnekeToMannekenPage({
 
   return (
     <>
-      <Header />
+      <Header solid />
       <main>
         <script
           type="application/ld+json"

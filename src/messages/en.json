@@ -4,7 +4,8 @@
     "gallery": "Photos",
     "reviews": "Rating",
     "map": "Map",
-    "backToHome": "Back to home"
+    "backToHome": "Back to home",
+    "nearby": "Nearby places"
   },
   "hero": {
     "title": "Zinneke Pis",
@@ -17,13 +18,13 @@
   },
   "location": {
     "title": "Where Is Zinneke Pis?",
-    "answer": "Zinneke Pis stands on the pavement outside number 35 on Rue des Chartreux in central Brussels, in the Chartreux (Kartuizers) district. It is a small bronze sculpture set against a lamppost, and it takes about 10 minutes to walk there from Grand Place.",
+    "answer": "Zinneke Pis stands on the pavement outside number 35 on Rue des Chartreux in central Brussels, in the Chartreux (Kartuizers) district. It is a small bronze sculpture set against a bollard, and it takes about 10 minutes to walk there from Grand Place.",
     "addressLabel": "Address",
     "addressValue": "Rue des Chartreux 35, 1000 Brussels, Belgium",
     "plusCodeLabel": "Plus Code",
     "coordinatesLabel": "Coordinates",
     "walkFromGrandPlaceLabel": "Walk from Grand Place",
-    "walkFromGrandPlaceValue": "About 10 minutes via Rue au Beurre and Rue des Chartreux",
+    "walkFromGrandPlaceValue": "About 10 minutes via the Bourse and Saint-Géry",
     "openMaps": "Open in Google Maps",
     "freeLabel": "Admission",
     "freeValue": "Free — an open-air street statue, no ticket, accessible at any hour"
@@ -31,14 +32,14 @@
   "intro": {
     "title": "About Zinneke Pis",
     "breadcrumbs": "Het Zinneke → Brussels → Brussels-Capital Region → Belgium",
-    "firstParagraph": "<strong>Het Zinneke</strong>, commonly known as <strong>Zinneke Pis</strong>, is the famous bronze peeing dog statue on <strong>Rue des Chartreux</strong> in central <strong>Brussels</strong>. It is small, sits almost at knee height beside a lamppost, and is easy to walk past if you do not know it is there.",
+    "firstParagraph": "<strong>Het Zinneke</strong>, commonly known as <strong>Zinneke Pis</strong>, is the famous bronze peeing dog statue on <strong>Rue des Chartreux</strong> in central <strong>Brussels</strong>. It is small, sits almost at knee height beside a bollard, and is easy to walk past if you do not know it is there.",
     "nearbyText": "From the statue you can walk to <strong>Manneken Pis</strong> in about 8 minutes, to <strong>Grand Place</strong> in about 10 minutes and to <strong>Jeanneke Pis</strong> in about 12 minutes, so it fits naturally into a short loop around the centre.",
-    "description": "Het Zinneke shows a scruffy street dog lifting its leg against a lamppost. It was created in 1999 by Brussels sculptor Tom Frantzen and completes the set of three 'Pis' figures in the city centre, next to Manneken Pis (1619) and Jeanneke Pis (1987).\n\nThe word 'Zinneke' comes from Brussels dialect and describes a mongrel born from a city dog and a village dog — a joke that Brussels people use about themselves. That is why the statue reads less as a monument and more as a wink at everyday city life.\n\nMost visitors spend five to ten minutes here. There is nothing to buy and nothing is fenced off: the dog simply stands on a narrow street of cafés, food shops and cobblestones, a few steps away from the busy shopping streets but noticeably calmer.",
+    "description": "Het Zinneke shows a scruffy street dog lifting its leg against a bollard. It was created in 1999 by Brussels sculptor Tom Frantzen and completes the set of three 'Pis' figures in the city centre, next to Manneken Pis (1619) and Jeanneke Pis (1987).\n\nThe word 'Zinneke' comes from Brussels dialect and describes a mongrel born from a city dog and a village dog — a joke that Brussels people use about themselves. That is why the statue reads less as a monument and more as a wink at everyday city life.\n\nMost visitors spend five to ten minutes here. There is nothing to buy and nothing is fenced off: the dog simply stands on a narrow street of cafés, food shops and cobblestones, a few steps away from the busy shopping streets but noticeably calmer.",
     "visitGuide": {
       "title": "How to visit",
       "items": [
         "Free and always accessible — no ticket, no gate, no opening hours",
-        "About a 10-minute walk from Grand Place via Rue au Beurre and Rue des Chartreux",
+        "About 10 minutes via the Bourse and Saint-Géry",
         "Most people stay 5–10 minutes: there is nothing to queue for",
         "Morning is the quietest time to photograph the statue without people in frame",
         "Combine it with Manneken Pis (8 min), Jeanneke Pis (12 min) and Grand Place (10 min)"
@@ -51,7 +52,8 @@
         "Zinneke Pis",
         "Zinneke-Pis"
       ]
-    }
+    },
+    "nearbyLink": "Explore places to visit near Zinneke Pis"
   },
   "knowledge": {
     "title": "History and Meaning of Het Zinneke",
@@ -59,7 +61,7 @@
       {
         "id": "dog-statue",
         "title": "What Is the Peeing Dog Statue in Brussels?",
-        "content": "The famous peeing dog statue in Brussels is Het Zinneke, better known as Zinneke Pis. It is a bronze sculpture of a mongrel dog urinating against a lamppost, installed in 1999 on Rue des Chartreux in the Chartreux district, roughly a 10-minute walk from Grand Place.\n\nIt is much smaller than most visitors expect — roughly the size of a real dog — so look down at the base of the lamppost rather than scanning the rooftops. Its official Google Maps listing name is 'Het Zinneke', which is why searches for the Dutch name return pictures of the same bronze dog."
+        "content": "The famous peeing dog statue in Brussels is Het Zinneke, better known as Zinneke Pis. It is a bronze sculpture of a mongrel dog urinating against a bollard, installed in 1999 on Rue des Chartreux in the Chartreux district, roughly a 10-minute walk from Grand Place.\n\nIt is much smaller than most visitors expect — roughly the size of a real dog — so look down at the base of the bollard rather than scanning the rooftops. Its official Google Maps listing name is 'Het Zinneke', which is why searches for the Dutch name return pictures of the same bronze dog."
       },
       {
         "id": "meaning",
@@ -125,9 +127,9 @@
   "transport": {
     "title": "How to Get to Zinneke Pis",
     "fromCenter": "From Grand Place — 10 minutes",
-    "fromCenterDesc": "Leave Grand Place by Rue au Beurre, continue along Rue des Bouchers or Rue Grétry, then turn into Rue des Chartreux. The dog is on the pavement at number 35.",
+    "fromCenterDesc": "Leave Grand Place via Rue au Beurre towards the Bourse. Cross Boulevard Anspach at a marked crossing towards the Saint-Géry neighbourhood. Continue to Rue des Chartreux and find the corner with Rue du Vieux Marché aux Grains.",
     "fromStation": "From Brussels Central Station — 15 minutes",
-    "fromStationDesc": "From the station walk to Grand Place, then follow Rue au Beurre and Rue des Chartreux. The whole walk is about 15 minutes at normal pace.",
+    "fromStationDesc": "From Brussels-Central, follow signs for Grand Place. Reach the Bourse via Rue au Beurre, then cross Boulevard Anspach towards Saint-Géry. Continue to the corner of Rue des Chartreux and Rue du Vieux Marché aux Grains.",
     "publicTransport": "Public transport",
     "publicTransportDesc": "Metro lines 1 and 5 stop at De Brouckère, about an 8-minute walk away. Bus routes to De Brouckère or Bourse stop just south of the statue.",
     "walking": "Walking loop",
@@ -135,20 +137,18 @@
     "driving": "By car",
     "drivingDesc": "The street is narrow and central Brussels has a low-emission zone. Parking under Grand Place or at De Brouckère and walking is simpler.",
     "fromAirport": "From Brussels Airport",
-    "fromAirportDesc": "Train to Brussels-Central takes about 20 minutes, then walk 15 minutes, or take the metro one stop to De Brouckère and walk from there."
+    "fromAirportDesc": "Take a train from Brussels Airport to Brussels-Central. From the station, follow the walking route via Grand Place or use the STIB–MIVB trip planner for the current metro connection."
   },
   "route": {
     "title": "Recommended Walking Route Around Zinneke Pis",
     "overview": "Start at Grand Place, add the two other Pis statues, and finish back in the centre. With photo stops and a café break the loop takes about two hours.",
     "steps": [
-      "Start at Grand Place and admire the Town Hall and guild houses",
-      "Walk down Rue au Beurre to Manneken Pis (about 5 minutes)",
-      "Continue into Impasse de la Fidélité for Jeanneke Pis (about 3 minutes)",
-      "Walk north through the shopping streets to Rue des Chartreux",
-      "Find Het Zinneke at number 35 and take your photos (about 8 minutes from Manneken Pis)",
-      "Browse the Chartreux district — food shops, cafés and cobblestone lanes",
-      "Return to Grand Place via Rue des Bouchers (about 10 minutes)",
-      "End on a terrace at Grand Place with waffles or Belgian beer"
+      "Start on Grand Place and look at the Town Hall and guild houses.",
+      "Follow the map to Manneken Pis at the corner of Rue du Chêne and Rue de l’Étuve.",
+      "Return through the old centre to Rue des Bouchers and look for Impasse de la Fidélité for Jeanneke Pis.",
+      "Cross Boulevard Anspach near the Bourse towards Saint-Géry.",
+      "Find Het Zinneke at the junction of Rue des Chartreux and Rue du Vieux Marché aux Grains.",
+      "Visit the Halles Saint-Géry or return to Grand Place via the Bourse."
     ]
   },
   "topics": {
@@ -224,14 +224,16 @@
       "slug": "rue-des-chartreux"
     },
     "directionsLink": "Open walking directions in Google Maps",
-    "relatedTitle": "Read next"
+    "relatedTitle": "Read next",
+    "factsTitle": "Key facts",
+    "stepsTitle": "Walking directions"
   },
   "photoSpots": {
     "title": "Photo Spots at Zinneke Pis",
     "spots": [
       {
         "name": "Front view",
-        "desc": "Stand in front of the dog on the pavement to get its whole silhouette against the lamppost"
+        "desc": "Stand in front of the dog on the pavement to get its whole silhouette against the bollard"
       },
       {
         "name": "Side angle",
@@ -242,8 +244,8 @@
         "desc": "Step in tight on the head and curled tail for texture — a short focal length is enough"
       },
       {
-        "name": "With the lamppost",
-        "desc": "Include the full lamppost to show the composition the sculptor intended"
+        "name": "With the bollard",
+        "desc": "Include the full bollard to show the composition the sculptor intended"
       },
       {
         "name": "Street context",
@@ -282,8 +284,8 @@
     "captions": [
       "Het Zinneke (Zinneke Pis) bronze dog statue on Rue des Chartreux, Brussels",
       "Close-up of the bronze dog head and curled tail of Het Zinneke",
-      "Side view of Zinneke Pis lifting its leg against the lamppost",
-      "Het Zinneke with its lamppost outside number 35 Rue des Chartreux",
+      "Side view of Zinneke Pis lifting its leg against the bollard",
+      "Het Zinneke with its bollard outside number 35 Rue des Chartreux",
       "Profile of the Zinneke Pis statue showing the bronze surface",
       "Rue des Chartreux street scene with Het Zinneke in Brussels",
       "Bronze details and patina of the Zinneke Pis dog sculpture",
@@ -378,7 +380,8 @@
         "heading": "4. Contact and changes",
         "content": "We may update this policy when the site changes. The date at the top shows the latest revision."
       }
-    ]
+    ],
+    "metaDescription": "How Zinneke Pis handles visitor data, cookies and privacy choices."
   },
   "terms": {
     "title": "Terms of Service",
@@ -400,7 +403,8 @@
         "heading": "4. Liability",
         "content": "The information is provided for general guidance only. We accept no liability for loss arising from its use."
       }
-    ]
+    ],
+    "metaDescription": "Terms for using the Zinneke Pis visitor guide and its content."
   },
   "cookieSettings": {
     "title": "Cookie Settings",
@@ -419,11 +423,13 @@
       "description": "Used to measure and limit advertising shown on the site."
     },
     "save": "Save preferences",
-    "saved": "Preferences saved!"
+    "saved": "Preferences saved!",
+    "metaDescription": "View and manage the cookie preferences for the Zinneke Pis visitor guide."
   },
   "officialManagement": {
     "title": "Sources and notes",
-    "text": "Fact-checking notes for this page.\n\n• Name and creation year come from Visit Brussels, which lists Het Zinneke (Zinneke-Pis) as a 1999 work by Tom Frantzen at Rue des Chartreux 35.\n\n• Address, Plus Code and map links follow the public Google Maps listing for Het Zinneke.\n\n• The rating and review count shown above are a snapshot of that listing, taken in October 2026, and may differ later.\n\nWhere older pages on the internet mention 1998, current official information points to 1999."
+    "text": "Visit Brussels identifies the sculpture as a 1999 work by Tom Frantzen at Rue des Chartreux 35. The Brussels heritage inventory documents the statue at the junction with Rue du Vieux Marché aux Grains and supplies the coordinates. The Google Maps rating is an October 2026 snapshot.",
+    "inventory": "Brussels heritage inventory"
   },
   "recommendations": {
     "title": "Plan the Rest of Your Walk",
@@ -483,7 +489,7 @@
       },
       {
         "label": "Het Zinneke / Zinneke Pis",
-        "value": "1999 · Rue des Chartreux 35, in the Chartreux district. A bronze mongrel lifting its leg against a lamppost, about a 10-minute walk from Grand Place."
+        "value": "1999 · Rue des Chartreux 35, in the Chartreux district. A bronze mongrel lifting its leg against a bollard, about a 10-minute walk from Grand Place."
       },
       {
         "label": "Total walking distance",
@@ -623,11 +629,11 @@
       "sections": [
         {
           "title": "The exact spot",
-          "body": "Zinneke Pis stands on the pavement outside number 35 on Rue des Chartreux, in the Chartreux district (Kartuizerswijk) of central Brussels, postal code 1000. The bronze dog leans against a lamppost at roughly knee height, so you will miss it if you scan the houses at eye level.\n\nThe street itself is narrow, cobbled in places and used by residents and delivery traffic. It is a working street rather than a pedestrian square, which is part of the statue's charm — and the reason you should stay on the pavement when you step back for photos."
+          "body": "Zinneke Pis stands on the pavement outside number 35 on Rue des Chartreux, in the Chartreux district (Kartuizerswijk) of central Brussels, postal code 1000. The bronze dog leans against a bollard at roughly knee height, so you will miss it if you scan the houses at eye level.\n\nThe street itself is narrow, cobbled in places and used by residents and delivery traffic. It is a working street rather than a pedestrian square, which is part of the statue's charm — and the reason you should stay on the pavement when you step back for photos."
         },
         {
           "title": "Coordinates and Plus Code",
-          "body": "The map links on this site use latitude 50.84879 and longitude 4.32664, with Plus Code R8XW+G7. These match the public Google Maps listing, which is filed under the name 'Het Zinneke'.\n\nIf your map app drops you at the wrong end of the street, walk towards number 35: the statue is on the pavement beside the lamppost, not on a corner or in a square."
+          "body": "The Brussels heritage inventory places the statue at approximately 50.84878, 4.34566. Its Plus Code is R8XW+G7. Look for the bronze dog beside the low bollard at the junction of Rue des Chartreux and Rue du Vieux Marché aux Grains."
         },
         {
           "title": "How to recognise the right street",
@@ -649,7 +655,7 @@
         },
         {
           "label": "Coordinates",
-          "value": "50.84879, 4.32664"
+          "value": "50.84878, 4.34566"
         },
         {
           "label": "District",
@@ -667,7 +673,7 @@
       "faq": [
         {
           "question": "Where exactly is Zinneke Pis?",
-          "answer": "On the pavement outside number 35 on Rue des Chartreux, 1000 Brussels, beside a lamppost. It is about a 10-minute walk from Grand Place."
+          "answer": "On the pavement outside number 35 on Rue des Chartreux, 1000 Brussels, beside a bollard. It is about a 10-minute walk from Grand Place."
         },
         {
           "question": "What is the Plus Code for Zinneke Pis?",
@@ -687,7 +693,7 @@
         },
         {
           "question": "Is there parking at the statue?",
-          "answer": "No. The street has no visitor parking. The nearest public car parks are under Grand Place and at De Brouckère."
+          "answer": "Rue des Chartreux, also called Kartuizersstraat, is in the Senne Quarter west of Boulevard Anspach. The bronze dog stands beside a low bollard where it meets Rue du Vieux Marché aux Grains."
         }
       ],
       "related": [
@@ -788,7 +794,7 @@
       "sections": [
         {
           "title": "The route in short",
-          "body": "Leave Grand Place by Rue au Beurre on its northern side, keep going north and continue into Rue des Chartreux. The statue is on the pavement at number 35, against the lamppost.\n\nThere is no steep grade and no complicated junction: if you keep the general direction north and watch for the street name, you will arrive without a map."
+          "body": "Leave Grand Place via Rue au Beurre towards the Bourse. Cross Boulevard Anspach at a marked crossing towards the Saint-Géry neighbourhood. Continue to Rue des Chartreux and find the corner with Rue du Vieux Marché aux Grains."
         },
         {
           "title": "What you will pass",
@@ -800,15 +806,13 @@
         },
         {
           "title": "A slightly longer alternative",
-          "body": "If you prefer shopping streets, go via Rue Neuve instead: it adds a few minutes and a lot of shops, and joins Rue des Chartreux at its southern end. The quieter Rue au Beurre route is the one most guides use."
+          "body": "For a separate square and market hall, detour via Place Saint-Géry. The hall’s operator places it about 200 metres from Het Zinneke."
         }
       ],
       "steps": [
-        "Stand with your back to Grand Place's Town Hall and find Rue au Beurre on the northern side of the square",
-        "Follow Rue au Beurre north out of the square",
-        "Continue straight into Rue des Chartreux, keeping north",
-        "Walk along the cobbled street past the small shops and cafés",
-        "The statue is on the pavement at number 35, beside the lamppost"
+        "Leave Grand Place via Rue au Beurre towards the Bourse.",
+        "Cross Boulevard Anspach at a marked crossing towards the Saint-Géry neighbourhood.",
+        "Continue to Rue des Chartreux and find the corner with Rue du Vieux Marché aux Grains."
       ],
       "facts": [
         {
@@ -870,27 +874,25 @@
       "sections": [
         {
           "title": "The route on foot",
-          "body": "Leave the station by the main exit onto Boulevard de l'Impératrice, walk up towards Mont des Arts and take the slope or steps down via Rue Montagne de la Cour to the edge of Grand Place. From there, follow Rue au Beurre north into Rue des Chartreux to number 35.\n\nThe whole walk is about 15 minutes and 1.2 km. It is one of several possible routes through the centre, but it uses recognisable landmarks at every stage."
+          "body": "From Brussels-Central, follow signs for Grand Place. Reach the Bourse via Rue au Beurre, then cross Boulevard Anspach towards Saint-Géry. Continue to the corner of Rue des Chartreux and Rue du Vieux Marché aux Grains."
         },
         {
           "title": "Distance and time",
-          "body": "Roughly 1.2 km, or about 15 minutes at a normal pace with traffic lights. The route is flat apart from the short descent from Mont des Arts to Grand Place, where lifts and ramps are available as an alternative to the steps."
+          "body": "Use the route map to compare the exits and walking time. Allow extra time for raised kerbs, paving and road crossings."
         },
         {
           "title": "With luggage",
-          "body": "Cobbles and crowded pavements make the full walk uncomfortable with suitcases. In that case take metro line 1 or 5 one stop from Gare Centrale to De Brouckère, then walk about 8 minutes — around 20 minutes door to door."
+          "body": "Use the route map to compare the exits and walking time. Allow extra time for raised kerbs, paving and road crossings. Check the STIB–MIVB planner for metro lines 1 and 5 between Gare Centrale and De Brouckère. Use the map for the final walk from the station."
         },
         {
           "title": "By metro instead",
-          "body": "Gare Centrale is on lines 1 and 5, the same lines that serve De Brouckère. One stop separates them, and the walk from De Brouckère to the statue is about 8 minutes along Rue Neuve and Rue des Chartreux."
+          "body": "Check the STIB–MIVB planner for metro lines 1 and 5 between Gare Centrale and De Brouckère. Use the map for the final walk from the station."
         }
       ],
       "steps": [
-        "Leave Brussels-Central station by the main exit onto Boulevard de l'Impératrice",
-        "Walk up towards Mont des Arts, then down via Rue Montagne de la Cour towards Grand Place",
-        "Cross the edge of Grand Place and find Rue au Beurre on its northern side",
-        "Follow Rue au Beurre north and continue into Rue des Chartreux",
-        "The statue is on the pavement at number 35, beside the lamppost"
+        "From Brussels-Central, follow signs for Grand Place.",
+        "Reach the Bourse via Rue au Beurre, then cross Boulevard Anspach towards Saint-Géry.",
+        "Continue to the corner of Rue des Chartreux and Rue du Vieux Marché aux Grains."
       ],
       "facts": [
         {
@@ -1023,7 +1025,7 @@
       "sections": [
         {
           "title": "The route",
-          "body": "From Rue des Chartreux 35, walk south towards Rue Neuve, follow it towards Place de la Monnaie, then cut into the old centre via Rue du Marché aux Herbes or Rue des Fripiers. Turn towards Rue de l'Étuve to reach Manneken Pis on its corner, then continue a few steps into Impasse de la Fidélité for Jeanneke Pis.\n\nThe whole walk is about 0.8 km and 10–12 minutes, almost entirely flat."
+          "body": "From Het Zinneke, head back towards the Bourse. Cross Boulevard Anspach and follow the map towards Rue des Bouchers. Look for Impasse de la Fidélité off Rue des Bouchers."
         },
         {
           "title": "What to expect at Jeanneke Pis",
@@ -1035,11 +1037,9 @@
         }
       ],
       "steps": [
-        "Leave Het Zinneke at Rue des Chartreux 35 and head south towards Rue Neuve",
-        "Follow Rue Neuve south past the shopping blocks towards Place de la Monnaie",
-        "Turn into Rue du Marché aux Herbes or Rue des Fripiers towards the old centre",
-        "Reach Rue de l'Étuve — Manneken Pis stands on the corner",
-        "Continue a few steps into Impasse de la Fidélité — Jeanneke Pis is in the alley"
+        "From Het Zinneke, head back towards the Bourse.",
+        "Cross Boulevard Anspach and follow the map towards Rue des Bouchers.",
+        "Look for Impasse de la Fidélité off Rue des Bouchers."
       ],
       "facts": [
         {
@@ -1101,7 +1101,7 @@
       "sections": [
         {
           "title": "What is documented",
-          "body": "Visit Brussels, the official tourism body for the Brussels-Capital Region, lists Het Zinneke (Zinneke-Pis) as a work by the Brussels sculptor Tom Frantzen dated 1999, installed at Rue des Chartreux 35. The public Google Maps listing for the statue uses the name 'Het Zinneke' and the same address.\n\nThe sculpture itself is a small bronze figure of a mongrel dog lifting its leg against a lamppost, set directly on the street without a plinth."
+          "body": "Visit Brussels, the official tourism body for the Brussels-Capital Region, lists Het Zinneke (Zinneke-Pis) as a work by the Brussels sculptor Tom Frantzen dated 1999, installed at Rue des Chartreux 35. The public Google Maps listing for the statue uses the name 'Het Zinneke' and the same address.\n\nThe sculpture itself is a small bronze figure of a mongrel dog lifting its leg against a bollard, set directly on the street without a plinth."
         },
         {
           "title": "Why some sources say 1998",
@@ -1127,7 +1127,7 @@
         },
         {
           "label": "Material",
-          "value": "Bronze, set at street level against a lamppost"
+          "value": "Bronze, set at street level against a bollard"
         },
         {
           "label": "Address",
@@ -1187,7 +1187,7 @@
         },
         {
           "title": "How the statue uses the joke",
-          "body": "Frantzen's dog is deliberately unheroic. It is small, caught mid-movement, and set against a lamppost on an ordinary street rather than raised on a plinth in a square. Visitors who expect a monument are surprised by a mutt.\n\nThe humour is typical of Brussels' 'zwanze': the local habit of mocking yourself before anyone else can."
+          "body": "Frantzen's dog is deliberately unheroic. It is small, caught mid-movement, and set against a bollard on an ordinary street rather than raised on a plinth in a square. Visitors who expect a monument are surprised by a mutt.\n\nThe humour is typical of Brussels' 'zwanze': the local habit of mocking yourself before anyone else can."
         },
         {
           "title": "Related names and spellings",
@@ -1249,11 +1249,11 @@
       "sections": [
         {
           "title": "What the statue really looks like",
-          "body": "Het Zinneke is roughly the size of a real dog — much smaller than most visitors expect. It is a bronze mongrel with a curled tail, caught lifting its leg against a lamppost, with a slightly scruffy, humorous modelling that reads better up close than in wide shots.\n\nBecause it stands at knee height on the pavement, most photographs fail by being taken from too far away."
+          "body": "Het Zinneke is roughly the size of a real dog — much smaller than most visitors expect. It is a bronze mongrel with a curled tail, caught lifting its leg against a bollard, with a slightly scruffy, humorous modelling that reads better up close than in wide shots.\n\nBecause it stands at knee height on the pavement, most photographs fail by being taken from too far away."
         },
         {
           "title": "Six angles that work",
-          "body": "The front view shows the whole silhouette against the lamppost. A side angle captures the raised leg. A close-up on the head and tail shows the patina and modelling. Including the full lamppost shows the composition the sculptor intended.\n\nCrossing the street and shooting wider places the dog in its cobbled setting, and after dark the street lighting picks out the bronze — though low light needs a higher ISO or a steady hand."
+          "body": "The front view shows the whole silhouette against the bollard. A side angle captures the raised leg. A close-up on the head and tail shows the patina and modelling. Including the full bollard shows the composition the sculptor intended.\n\nCrossing the street and shooting wider places the dog in its cobbled setting, and after dark the street lighting picks out the bronze — though low light needs a higher ISO or a steady hand."
         },
         {
           "title": "When to shoot",
@@ -1289,7 +1289,7 @@
         },
         {
           "question": "What does Zinneke Pis actually look like?",
-          "answer": "A small bronze mongrel dog, roughly the size of a real dog, lifting its leg against a lamppost at knee height."
+          "answer": "A small bronze mongrel dog, roughly the size of a real dog, lifting its leg against a bollard at knee height."
         },
         {
           "question": "When is the best time to photograph it?",
@@ -1483,7 +1483,7 @@
       "sections": [
         {
           "title": "The street",
-          "body": "Rue des Chartreux runs through the Chartreux district (Kartuizerswijk), just north of the Rue Neuve shopping street and a few minutes east of the Antoine Dansaert quarter. It is narrow, partly cobbled, and lined with small food shops, cafés and housing.\n\nThe bronze dog stands on the pavement at number 35, against a lamppost — unmarked, unfenced and easy to miss."
+          "body": "Rue des Chartreux, also called Kartuizersstraat, is in the Senne Quarter west of Boulevard Anspach. The bronze dog stands beside a low bollard where it meets Rue du Vieux Marché aux Grains."
         },
         {
           "title": "The district and its name",
@@ -1491,7 +1491,7 @@
         },
         {
           "title": "What to see and do",
-          "body": "Walk the length of the street rather than heading straight to the statue. Look at the shopfronts and the façades, then double back to the lamppost. The district rewards a slow ten minutes more than a fast photo stop.\n\nFrom here you can continue to the Antoine Dansaert quarter for more shops and cafés, or cut back to Rue Neuve for the shopping streets."
+          "body": "Walk the length of the street rather than heading straight to the statue. Look at the shopfronts and the façades, then double back to the bollard. The district rewards a slow ten minutes more than a fast photo stop.\n\nFrom here you can continue to the Antoine Dansaert quarter for more shops and cafés, or cut back to Rue Neuve for the shopping streets."
         },
         {
           "title": "Practical tips",

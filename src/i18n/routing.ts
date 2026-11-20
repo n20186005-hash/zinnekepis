@@ -25,6 +25,7 @@ export const routing = defineRouting({
     '/manneken-pis': '/manneken-pis',
     '/jeanneke-pis': '/jeanneke-pis',
     '/rue-des-chartreux': '/rue-des-chartreux',
+    '/nearby/[place]': '/nearby/[place]',
   },
 });
 

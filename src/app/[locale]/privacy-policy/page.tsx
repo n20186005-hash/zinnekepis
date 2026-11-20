@@ -1,4 +1,4 @@
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
 import { routing } from '@/i18n/routing';
@@ -12,8 +12,16 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  const t = await getTranslations({locale, namespace: 'privacy'});
+  const title = `${t('title')} | Zinneke Pis`;
+  const description = t('metaDescription');
+  const url = localizedPath(locale, PATH);
 
   return {
+    title,
+    description,
+    openGraph: { title, description, url, type: 'website' },
+    twitter: { card: 'summary', title, description },
     metadataBase: new URL(SITE_URL),
     alternates: {
       canonical: localizedPath(locale, PATH),

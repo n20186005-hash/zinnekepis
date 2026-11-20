@@ -2,6 +2,7 @@ import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { hreflangAlternates, localizedPath } from '@/lib/site';
 import { TOPICS } from '@/data/topics';
+import { nearbyPath, places } from '@/data/nearby';
 
 // Only content routes belong in the sitemap. Legal/utility pages are excluded.
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -25,5 +26,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   );
 
-  return [...home, ...topics];
+  const nearby: MetadataRoute.Sitemap = places.flatMap((place) => {
+    const path = nearbyPath(place);
+    const languages = hreflangAlternates(routing.locales, path);
+    return routing.locales.map((locale) => ({
+      url: localizedPath(locale, path),
+      alternates: { languages },
+    }));
+  });
+
+  return [...home, ...topics, ...nearby];
 }

@@ -4,7 +4,8 @@
     "gallery": "Foto's",
     "reviews": "Beoordeling",
     "map": "Kaart",
-    "backToHome": "Terug naar home"
+    "backToHome": "Terug naar home",
+    "nearby": "In de buurt"
   },
   "hero": {
     "title": "Zinneke Pis",
@@ -17,13 +18,13 @@
   },
   "location": {
     "title": "Waar ligt Zinneke Pis?",
-    "answer": "Zinneke Pis staat op het voetpad voor nummer 35 in de Kartuizersstraat (Rue des Chartreux) in het centrum van Brussel, in de Kartuizerswijk. Het is een klein bronzen beeld tegen een lantaarnpaal, op ongeveer 10 minuten wandelen van de Grote Markt.",
+    "answer": "Zinneke Pis staat op het voetpad voor nummer 35 in de Kartuizersstraat (Rue des Chartreux) in het centrum van Brussel, in de Kartuizerswijk. Het is een klein bronzen beeld tegen een paaltje, op ongeveer 10 minuten wandelen van de Grote Markt.",
     "addressLabel": "Adres",
     "addressValue": "Rue des Chartreux 35, 1000 Brussel, België",
     "plusCodeLabel": "Plus Code",
     "coordinatesLabel": "Coördinaten",
     "walkFromGrandPlaceLabel": "Wandelen vanaf de Grote Markt",
-    "walkFromGrandPlaceValue": "Ongeveer 10 minuten via Boterstraat en Kartuizersstraat",
+    "walkFromGrandPlaceValue": "Ongeveer 10 minuten via de Beurs en Sint-Goriks",
     "openMaps": "Openen in Google Maps",
     "freeLabel": "Toegang",
     "freeValue": "Gratis — een beeld in de openbare ruimte, geen ticket, op elk uur te bekijken"
@@ -31,14 +32,14 @@
   "intro": {
     "title": "Over Zinneke Pis",
     "breadcrumbs": "Het Zinneke → Brussel → Brussels Hoofstedelijk Gewest → België",
-    "firstParagraph": "<strong>Het Zinneke</strong>, algemeen bekend als <strong>Zinneke Pis</strong>, is het beroemde bronzen plassende hondenbeeld in de <strong>Kartuizersstraat</strong> in het centrum van <strong>Brussel</strong>. Het beeld is klein, zit bijna op kniehoogte naast een lantaarnpaal en is makkelijk voorbij te lopen als je niet weet dat het er staat.",
+    "firstParagraph": "<strong>Het Zinneke</strong>, algemeen bekend als <strong>Zinneke Pis</strong>, is het beroemde bronzen plassende hondenbeeld in de <strong>Kartuizersstraat</strong> in het centrum van <strong>Brussel</strong>. Het beeld is klein, zit bijna op kniehoogte naast een paaltje en is makkelijk voorbij te lopen als je niet weet dat het er staat.",
     "nearbyText": "Vanaf het beeld wandel je in ongeveer 8 minuten naar <strong>Manneken Pis</strong>, in ongeveer 10 minuten naar de <strong>Grote Markt</strong> en in ongeveer 12 minuten naar <strong>Jeanneke Pis</strong>. Zo past het beeld vanzelf in een korte lus door het centrum.",
-    "description": "Het Zinneke toont een slordige straathond die zijn poot optilt tegen een lantaarnpaal. Het werd in 1999 gemaakt door de Brusselse beeldhouwer Tom Frantzen en vervolledigt het trio 'Pis'-beelden in het centrum, naast Manneken Pis (1619) en Jeanneke Pis (1987).\n\nHet woord 'Zinneke' komt uit het Brusselse dialect en duidde een bastaardhond aan: een hond uit een kruising tussen een stadshond en een dorpshond. Brusselaars gebruiken het woord met evenveel plezier voor zichzelf. Daarom leest het beeld eerder als een knipoog naar het dagelijkse stadsleven dan als een officieel monument.\n\nDe meeste bezoekers blijven hier vijf tot tien minuten. Er valt niets te kopen en er staat geen hek rond: de hond staat gewoon op een smalle straat met cafés, voedingszaken en kasseien, een paar stappen van de drukke winkelstraten maar merkbaar rustiger.",
+    "description": "Het Zinneke toont een slordige straathond die zijn poot optilt tegen een paaltje. Het werd in 1999 gemaakt door de Brusselse beeldhouwer Tom Frantzen en vervolledigt het trio 'Pis'-beelden in het centrum, naast Manneken Pis (1619) en Jeanneke Pis (1987).\n\nHet woord 'Zinneke' komt uit het Brusselse dialect en duidde een bastaardhond aan: een hond uit een kruising tussen een stadshond en een dorpshond. Brusselaars gebruiken het woord met evenveel plezier voor zichzelf. Daarom leest het beeld eerder als een knipoog naar het dagelijkse stadsleven dan als een officieel monument.\n\nDe meeste bezoekers blijven hier vijf tot tien minuten. Er valt niets te kopen en er staat geen hek rond: de hond staat gewoon op een smalle straat met cafés, voedingszaken en kasseien, een paar stappen van de drukke winkelstraten maar merkbaar rustiger.",
     "visitGuide": {
       "title": "Praktisch bezoek",
       "items": [
         "Gratis en altijd toegankelijk — geen ticket, geen hek, geen openingsuren",
-        "Ongeveer 10 minuten wandelen vanaf de Grote Markt via Boterstraat en Kartuizersstraat",
+        "Ongeveer 10 minuten via de Beurs en Sint-Goriks",
         "De meeste bezoekers blijven 5 tot 10 minuten: er is geen wachtrij",
         "'s Ochtends is het rustigst om het beeld zonder mensen in beeld te fotograferen",
         "Goed te combineren met Manneken Pis (8 min), Jeanneke Pis (12 min) en de Grote Markt (10 min)"
@@ -51,7 +52,8 @@
         "Zinneke Pis",
         "Zinneke-Pis"
       ]
-    }
+    },
+    "nearbyLink": "Bekijk de bezienswaardigheden rond Zinneke Pis"
   },
   "knowledge": {
     "title": "Geschiedenis en betekenis van Het Zinneke",
@@ -59,7 +61,7 @@
       {
         "id": "dog-statue",
         "title": "Wat is het plassende hondenbeeld in Brussel?",
-        "content": "Het beroemde plassende hondenbeeld in Brussel is Het Zinneke, beter bekend als Zinneke Pis. Het is een bronzen sculptuur van een bastaardhond die tegen een lantaarnpaal plast, in 1999 geplaatst in de Kartuizersstraat, op ongeveer 10 minuten wandelen van de Grote Markt.\n\nHet beeld is veel kleiner dan de meeste bezoekers verwachten — ongeveer zo groot als een echte hond. Kijk dus omlaag naar de voet van de lantaarnpaal in plaats van langs de gevels. De officiële naam in Google Maps is 'Het Zinneke', en daarom toont een zoekopdracht op de Nederlandse naam foto's van dezelfde bronzen hond."
+        "content": "Het beroemde plassende hondenbeeld in Brussel is Het Zinneke, beter bekend als Zinneke Pis. Het is een bronzen sculptuur van een bastaardhond die tegen een paaltje plast, in 1999 geplaatst in de Kartuizersstraat, op ongeveer 10 minuten wandelen van de Grote Markt.\n\nHet beeld is veel kleiner dan de meeste bezoekers verwachten — ongeveer zo groot als een echte hond. Kijk dus omlaag naar de voet van de paaltje in plaats van langs de gevels. De officiële naam in Google Maps is 'Het Zinneke', en daarom toont een zoekopdracht op de Nederlandse naam foto's van dezelfde bronzen hond."
       },
       {
         "id": "meaning",
@@ -125,9 +127,9 @@
   "transport": {
     "title": "Zo kom je bij Zinneke Pis",
     "fromCenter": "Vanaf de Grote Markt — 10 minuten",
-    "fromCenterDesc": "Verlaat de Grote Markt via de Boterstraat, volg de Beenhouwersstraat of de Grétrystraat en sla dan in in de Kartuizersstraat. De hond staat op het voetpad bij nummer 35.",
+    "fromCenterDesc": "Verlaat de Grote Markt via de Boterstraat richting de Beurs. Steek de Anspachlaan over via een aangeduide oversteekplaats richting Sint-Goriks. Volg de Kartuizersstraat tot aan de hoek met de Oude Graanmarkt.",
     "fromStation": "Vanaf station Brussel-Centraal — 15 minuten",
-    "fromStationDesc": "Wandel vanaf het station naar de Grote Markt en volg dan de Boterstraat en de Kartuizersstraat. Samen ongeveer 15 minuten op normaal tempo.",
+    "fromStationDesc": "Volg vanaf Brussel-Centraal de richting van de Grote Markt. Loop via de Boterstraat naar de Beurs en steek de Anspachlaan over richting Sint-Goriks. Wandel naar de hoek van de Kartuizersstraat en de Oude Graanmarkt.",
     "publicTransport": "Openbaar vervoer",
     "publicTransportDesc": "Metrolijnen 1 en 5 stoppen aan De Brouckère, op ongeveer 8 minuten wandelen. Verschillende bussen stoppen aan De Brouckère of Beurs, net ten zuiden van het beeld.",
     "walking": "Wandellus",
@@ -135,20 +137,18 @@
     "driving": "Met de auto",
     "drivingDesc": "De straat is smal en het centrum van Brussel is een lage-emissiezone. Parkeren onder de Grote Markt of aan De Brouckère en dan wandelen is eenvoudiger.",
     "fromAirport": "Vanaf Brussels Airport",
-    "fromAirportDesc": "De trein naar Brussel-Centraal duurt ongeveer 20 minuten, daarna wandel je 15 minuten, of je neemt de metro één halte tot De Brouckère en wandelt van daar."
+    "fromAirportDesc": "Neem de trein van Brussels Airport naar Brussel-Centraal. Loop via de Grote Markt of controleer de actuele metroverbinding in de MIVB-routeplanner."
   },
   "route": {
     "title": "Aanbevolen wandelroute rond Zinneke Pis",
     "overview": "Start op de Grote Markt, neem de twee andere Pis-beelden mee en eindig weer in het centrum. Met fotostops en een koffiepauze duurt de lus ongeveer twee uur.",
     "steps": [
-      "Begin op de Grote Markt en bewonder het stadhuis en de gildehuizen",
-      "Wandel via de Stoofstraat naar Manneken Pis (ongeveer 8 minuten)",
-      "Sla de Impasse de la Fidélité in voor Jeanneke Pis (ongeveer 2 minuten)",
-      "Loop noordwaarts door de winkelstraten naar de Kartuizerswijk",
-      "Zoek Het Zinneke bij nummer 35 en maak je foto's (ongeveer 8 minuten vanaf Manneken Pis)",
-      "Slenter door de Kartuizerswijk langs voedingszaken, cafés en kasseien",
-      "Keer via de Beenhouwersstraat terug naar de Grote Markt (ongeveer 10 minuten)",
-      "Eindig op een terras aan de Grote Markt met wafels of Belgisch bier"
+      "Begin op de Grote Markt bij het stadhuis en de gildehuizen.",
+      "Volg de kaart naar Manneken Pis op de hoek van de Eikstraat en de Stoofstraat.",
+      "Ga terug door het centrum naar de Beenhouwersstraat en zoek de Getrouwheidsgang voor Jeanneke Pis.",
+      "Steek de Anspachlaan bij de Beurs over richting Sint-Goriks.",
+      "Zoek Het Zinneke op de hoek van de Kartuizersstraat met de Oude Graanmarkt.",
+      "Bezoek de Sint-Gorikshallen of keer via de Beurs terug naar de Grote Markt."
     ]
   },
   "topics": {
@@ -224,14 +224,16 @@
       "slug": "rue-des-chartreux"
     },
     "directionsLink": "Open wandelroute in Google Maps",
-    "relatedTitle": "Lees verder"
+    "relatedTitle": "Lees verder",
+    "factsTitle": "Praktische informatie",
+    "stepsTitle": "Wandelroute"
   },
   "photoSpots": {
     "title": "Fotoplekken bij Zinneke Pis",
     "spots": [
       {
         "name": "Vooraanzicht",
-        "desc": "Ga op het voetpad voor de hond staan om het volledige silhouet tegen de lantaarnpaal te krijgen"
+        "desc": "Ga op het voetpad voor de hond staan om het volledige silhouet tegen de paaltje te krijgen"
       },
       {
         "name": "Zijaanzicht",
@@ -242,7 +244,7 @@
         "desc": "Kom dichtbij op kop en krullende staart: een korte brandpuntsafstand volstaat"
       },
       {
-        "name": "Met de lantaarnpaal",
+        "name": "Met de paaltje",
         "desc": "Neem de volledige paal mee om de compositie van de kunstenaar te tonen"
       },
       {
@@ -282,8 +284,8 @@
     "captions": [
       "Het Zinneke (Zinneke Pis), bronzen hondenbeeld in de Kartuizersstraat, Brussel",
       "Close-up van de bronzen kop en gekrulde staart van Het Zinneke",
-      "Zijaanzicht van Zinneke Pis die zijn poot optilt tegen de lantaarnpaal",
-      "Het Zinneke met zijn lantaarnpaal voor nummer 35 in de Kartuizersstraat",
+      "Zijaanzicht van Zinneke Pis die zijn poot optilt tegen de paaltje",
+      "Het Zinneke met zijn paaltje voor nummer 35 in de Kartuizersstraat",
       "Profiel van het Zinneke Pis-beeld met zicht op het bronsoppervlak",
       "Straatbeeld van de Kartuizersstraat met Het Zinneke in Brussel",
       "Bronsdetails en patina van de hondensculptuur Zinneke Pis",
@@ -378,7 +380,8 @@
         "heading": "4. Contact en wijzigingen",
         "content": "We kunnen dit beleid aanpassen wanneer de site verandert. De datum bovenaan toont de laatste herziening."
       }
-    ]
+    ],
+    "metaDescription": "Zo gaat Zinneke Pis om met bezoekersgegevens, cookies en privacykeuzes."
   },
   "terms": {
     "title": "Gebruiksvoorwaarden",
@@ -400,7 +403,8 @@
         "heading": "4. Aansprakelijkheid",
         "content": "De informatie wordt uitsluitend ter algemene oriëntatie aangeboden. Wij aanvaarden geen aansprakelijkheid voor schade die uit het gebruik ontstaat."
       }
-    ]
+    ],
+    "metaDescription": "Voorwaarden voor het gebruik van de bezoekersgids van Zinneke Pis en de inhoud ervan."
   },
   "cookieSettings": {
     "title": "Cookie-instellingen",
@@ -419,11 +423,13 @@
       "description": "Worden gebruikt om advertenties op de site te meten en te beperken."
     },
     "save": "Voorkeuren opslaan",
-    "saved": "Voorkeuren opgeslagen!"
+    "saved": "Voorkeuren opgeslagen!",
+    "metaDescription": "Bekijk en beheer je cookievoorkeuren voor de bezoekersgids van Zinneke Pis."
   },
   "officialManagement": {
     "title": "Bronnen en kanttekeningen",
-    "text": "Factchecking-notities bij deze pagina.\n\n• Naam en ontstaansjaar komen van Visit Brussels, dat Het Zinneke (Zinneke-Pis) vermeldt als een werk van Tom Frantzen uit 1999 in de Kartuizersstraat 35.\n\n• Adres, Plus Code en kaartlinks volgen de publieke Google Maps-vermelding voor Het Zinneke.\n\n• De hierboven vermelde score en het aantal beoordelingen zijn een momentopname van die vermelding, genomen in oktober 2026, en kunnen later afwijken.\n\nWaar oudere internetpagina's 1998 vermelden, wijst actuele officiële informatie op 1999."
+    "text": "Visit Brussels vermeldt het beeld als een werk uit 1999 van Tom Frantzen bij Kartuizersstraat 35. De Brusselse erfgoedinventaris documenteert de hoek met de Oude Graanmarkt en vermeldt de coördinaten. De Google Maps-score is een momentopname uit oktober 2026.",
+    "inventory": "Brusselse erfgoedinventaris"
   },
   "recommendations": {
     "title": "Plan de rest van je wandeling",
@@ -483,7 +489,7 @@
       },
       {
         "label": "Het Zinneke / Zinneke Pis",
-        "value": "1999 · Kartuizersstraat 35, in de Kartuizerswijk. Een bronzen bastaardhond die zijn poot optilt tegen een lantaarnpaal, op ongeveer 10 minuten wandelen van de Grote Markt."
+        "value": "1999 · Kartuizersstraat 35, in de Kartuizerswijk. Een bronzen bastaardhond die zijn poot optilt tegen een paaltje, op ongeveer 10 minuten wandelen van de Grote Markt."
       },
       {
         "label": "Totale wandelafstand",
@@ -623,11 +629,11 @@
       "sections": [
         {
           "title": "De exacte plaats",
-          "body": "Zinneke Pis staat op de stoep bij nummer 35 van de Kartuizersstraat, in de Kartuizerwijk in het centrum van Brussel, postcode 1000. De bronzen hond leunt tegen een lantaarnpaal op ongeveer kniehoogte, dus je mist hem als je de huizen op ooghoogte afzoekt.\n\nDe straat zelf is smal, deels geplaveid met kasseien en wordt gebruikt door bewoners en leveringen. Het is een werkstraat en geen voetgangersplein - en daarom blijf je best op de stoep als je achteruitstapt voor een foto."
+          "body": "Zinneke Pis staat op de stoep bij nummer 35 van de Kartuizersstraat, in de Kartuizerwijk in het centrum van Brussel, postcode 1000. De bronzen hond leunt tegen een paaltje op ongeveer kniehoogte, dus je mist hem als je de huizen op ooghoogte afzoekt.\n\nDe straat zelf is smal, deels geplaveid met kasseien en wordt gebruikt door bewoners en leveringen. Het is een werkstraat en geen voetgangersplein - en daarom blijf je best op de stoep als je achteruitstapt voor een foto."
         },
         {
           "title": "Coordinaten en Plus Code",
-          "body": "De kaartlinks op deze site gebruiken breedtegraad 50.84879 en lengtegraad 4.32664, met Plus Code R8XW+G7. Die komen overeen met de openbare Google Maps-vermelding, die onder de naam 'Het Zinneke' staat.\n\nZet je navigatie je aan het verkeerde einde van de straat neer? Loop dan naar nummer 35: het beeld staat op de stoep naast de lantaarnpaal, niet op een hoek of aan een plein."
+          "body": "De Brusselse erfgoedinventaris plaatst het beeld bij benadering op 50.84878, 4.34566. De Plus Code is R8XW+G7. Zoek de bronzen hond bij het paaltje op de hoek van de Kartuizersstraat en de Oude Graanmarkt."
         },
         {
           "title": "Hoe je de juiste straat herkent",
@@ -649,7 +655,7 @@
         },
         {
           "label": "Coordinaten",
-          "value": "50.84879, 4.32664"
+          "value": "50.84878, 4.34566"
         },
         {
           "label": "Wijk",
@@ -667,7 +673,7 @@
       "faq": [
         {
           "question": "Waar staat Zinneke Pis precies?",
-          "answer": "Op de stoep bij nummer 35 van de Kartuizersstraat, 1000 Brussel, naast een lantaarnpaal. Het is ongeveer 10 minuten wandelen van de Grote Markt."
+          "answer": "Op de stoep bij nummer 35 van de Kartuizersstraat, 1000 Brussel, naast een paaltje. Het is ongeveer 10 minuten wandelen van de Grote Markt."
         },
         {
           "question": "Wat is de Plus Code van Zinneke Pis?",
@@ -687,7 +693,7 @@
         },
         {
           "question": "Is er parking bij het beeld?",
-          "answer": "Nee. De straat heeft geen bezoekersparking. De dichtstbijzijnde openbare parkings zijn onder de Grote Markt en bij De Brouckère."
+          "answer": "De Kartuizersstraat, ook Rue des Chartreux, ligt in de Zennewijk ten westen van de Anspachlaan. De bronzen hond staat bij een paaltje op de hoek met de Oude Graanmarkt."
         }
       ],
       "related": [
@@ -788,7 +794,7 @@
       "sections": [
         {
           "title": "De route in het kort",
-          "body": "Verlaat de Grote Markt via de Boterstraat aan de noordkant, ga noordwaarts verder en sla de Kartuizersstraat in. Het beeld staat op de stoep bij nummer 35, tegen de lantaarnpaal.\n\nEr is geen steile helling en geen ingewikkelde kruising: houd de algemene richting noord en let op de straatnaam, dan kom je aan zonder kaart."
+          "body": "Verlaat de Grote Markt via de Boterstraat richting de Beurs. Steek de Anspachlaan over via een aangeduide oversteekplaats richting Sint-Goriks. Volg de Kartuizersstraat tot aan de hoek met de Oude Graanmarkt."
         },
         {
           "title": "Wat je onderweg ziet",
@@ -800,15 +806,13 @@
         },
         {
           "title": "Een iets langer alternatief",
-          "body": "Wil je liever winkelstraten, neem dan de Nieuwstraat: dat kost een paar minuten meer en levert veel meer winkels op, en komt aan het zuidelijke einde van de Kartuizersstraat uit. De rustige route via de Boterstraat is degene die de meeste gidsen gebruiken."
+          "body": "Loop om via het Sint-Goriksplein als je de markthal wilt zien. Volgens de beheerder ligt ze op ongeveer 200 meter van Het Zinneke."
         }
       ],
       "steps": [
-        "Ga met je rug naar het stadhuis op de Grote Markt staan en zoek de Boterstraat aan de noordkant van het plein",
-        "Volg de Boterstraat noordwaarts het plein uit",
-        "Ga rechtdoor de Kartuizersstraat in en blijf noordwaarts lopen",
-        "Loop de kasseistraat langs de kleine winkels en cafés",
-        "Het beeld staat op de stoep bij nummer 35, naast de lantaarnpaal"
+        "Verlaat de Grote Markt via de Boterstraat richting de Beurs.",
+        "Steek de Anspachlaan over via een aangeduide oversteekplaats richting Sint-Goriks.",
+        "Volg de Kartuizersstraat tot aan de hoek met de Oude Graanmarkt."
       ],
       "facts": [
         {
@@ -870,27 +874,25 @@
       "sections": [
         {
           "title": "De route te voet",
-          "body": "Verlaat het station via de hoofduitgang op het Boulevard de l'Impératrice, loop richting Kunstberg en daal af via de Hofbergstraat naar de rand van de Grote Markt. Volg daarna de Boterstraat noordwaarts de Kartuizersstraat in tot nummer 35.\n\nDe hele wandeling is ongeveer 15 minuten en 1,2 km. Het is een van de mogelijke routes door het centrum, maar gebruikt op elke fase herkenbare orientatiepunten."
+          "body": "Volg vanaf Brussel-Centraal de richting van de Grote Markt. Loop via de Boterstraat naar de Beurs en steek de Anspachlaan over richting Sint-Goriks. Wandel naar de hoek van de Kartuizersstraat en de Oude Graanmarkt."
         },
         {
           "title": "Afstand en tijd",
-          "body": "Ongeveer 1,2 km, of ongeveer 15 minuten op normaal tempo met verkeerslichten. De route is vlak, behalve de korte daling van Kunstberg naar de Grote Markt, waar liften en hellingen als alternatief voor de trappen dienen."
+          "body": "Bekijk de kaart voor de uitgang en de wandeltijd. Houd rekening met stoepranden, kasseien en oversteekplaatsen."
         },
         {
           "title": "Met bagage",
-          "body": "Kasseien en drukke stoepen maken de volledige wandeling met koffers ongemakkelijk. Neem in dat geval metrolijn 1 of 5 een halte van Gare Centrale naar De Brouckère en loop ongeveer 8 minuten - ongeveer 20 minuten van deur tot deur."
+          "body": "Bekijk de kaart voor de uitgang en de wandeltijd. Houd rekening met stoepranden, kasseien en oversteekplaatsen. Controleer in de MIVB-routeplanner de lijnen 1 en 5 tussen Centraal Station en De Brouckère. Gebruik de kaart voor het laatste stuk te voet."
         },
         {
           "title": "Met de metro",
-          "body": "Gare Centrale ligt op lijnen 1 en 5, dezelfde lijnen die De Brouckère bedienen. Een halte scheidt ze, en de wandeling van De Brouckère naar het beeld is ongeveer 8 minuten via de Nieuwstraat en de Kartuizersstraat."
+          "body": "Controleer in de MIVB-routeplanner de lijnen 1 en 5 tussen Centraal Station en De Brouckère. Gebruik de kaart voor het laatste stuk te voet."
         }
       ],
       "steps": [
-        "Verlaat station Brussel-Centraal via de hoofduitgang op het Boulevard de l'Impératrice",
-        "Loop richting Kunstberg en daal af via de Hofbergstraat naar de Grote Markt",
-        "Steek de Grote Markt over naar de noordkant en zoek de Boterstraat aan de noordkant",
-        "Volg de Boterstraat noordwaarts en ga rechtdoor de Kartuizersstraat in",
-        "Het beeld staat op de stoep bij nummer 35, naast de lantaarnpaal"
+        "Volg vanaf Brussel-Centraal de richting van de Grote Markt.",
+        "Loop via de Boterstraat naar de Beurs en steek de Anspachlaan over richting Sint-Goriks.",
+        "Wandel naar de hoek van de Kartuizersstraat en de Oude Graanmarkt."
       ],
       "facts": [
         {
@@ -1023,7 +1025,7 @@
       "sections": [
         {
           "title": "De route",
-          "body": "Van de Kartuizersstraat 35 loop je zuidwaarts richting Nieuwstraat, volg je die richting Place de la Monnaie en snijdt je de oude kern in via de rue du Marché aux Herbes ou la rue des Fripiers. Sla de Stoofstraat in om Manneken Pis op de hoek te bereiken en ga een paar stappen verder de Impasse de la Fidélité in voor Jeanneke Pis.\n\nDe hele wandeling is ongeveer 0,8 km en 10-12 minuten, bijna volledig vlak."
+          "body": "Loop vanaf Het Zinneke richting de Beurs. Steek de Anspachlaan over en volg de kaart naar de Beenhouwersstraat. Zoek de Getrouwheidsgang aan de Beenhouwersstraat."
         },
         {
           "title": "Wat je bij Jeanneke Pis verwacht",
@@ -1035,11 +1037,9 @@
         }
       ],
       "steps": [
-        "Verlaat Het Zinneke aan de Kartuizersstraat 35 en loop zuidwaarts richting Nieuwstraat",
-        "Volg de Nieuwstraat zuidwaarts langs de winkelblokken richting Place de la Monnaie",
-        "Sla de rue du Marché aux Herbes ou la rue des Fripiers in richting de oude kern",
-        "Bereik de Stoofstraat - Manneken Pis staat op de hoek",
-        "Ga een paar stappen verder de Impasse de la Fidélité in - Jeanneke Pis staat in de steeg"
+        "Loop vanaf Het Zinneke richting de Beurs.",
+        "Steek de Anspachlaan over en volg de kaart naar de Beenhouwersstraat.",
+        "Zoek de Getrouwheidsgang aan de Beenhouwersstraat."
       ],
       "facts": [
         {
@@ -1101,7 +1101,7 @@
       "sections": [
         {
           "title": "Wat gedocumenteerd is",
-          "body": "Visit Brussels, het officiele toerismeorgaan van het Brussels Hoofdstedelijk Gewest, vermeldt Het Zinneke (Zinneke-Pis) als een werk van de Brusselse beeldhouwer Tom Frantzen uit 1999, aangebracht aan de Kartuizersstraat 35. De openbare Google Maps-vermelding van het beeld gebruikt de naam 'Het Zinneke' en hetzelfde adres.\n\nHet beeld zelf is een kleine bronzen figuur van een straathond die zijn pof tegen een lantaarnpaal heft, direct op straat gezet zonder sokkel."
+          "body": "Visit Brussels, het officiele toerismeorgaan van het Brussels Hoofdstedelijk Gewest, vermeldt Het Zinneke (Zinneke-Pis) als een werk van de Brusselse beeldhouwer Tom Frantzen uit 1999, aangebracht aan de Kartuizersstraat 35. De openbare Google Maps-vermelding van het beeld gebruikt de naam 'Het Zinneke' en hetzelfde adres.\n\nHet beeld zelf is een kleine bronzen figuur van een straathond die zijn pof tegen een paaltje heft, direct op straat gezet zonder sokkel."
         },
         {
           "title": "Waarom sommige bronnen 1998 zeggen",
@@ -1127,7 +1127,7 @@
         },
         {
           "label": "Materiaal",
-          "value": "Brons, op straathoogte tegen een lantaarnpaal"
+          "value": "Brons, op straathoogte tegen een paaltje"
         },
         {
           "label": "Adres",
@@ -1187,7 +1187,7 @@
         },
         {
           "title": "Hoe het beeld de grap gebruikt",
-          "body": "Frantzens hond is bewust onheroïsch. Hij is klein, vastgelegd in beweging en tegen een lantaarnpaal gezet op een gewone straat in plaats van opgeheven op een sokkel aan een plein. Bezoekers die een monument verwachten, worden verrast door een bastaard.\n\nDe humor is typisch voor de Brusselse zwanze: de lokale gewoonte om jezelf eerst uit te lachen."
+          "body": "Frantzens hond is bewust onheroïsch. Hij is klein, vastgelegd in beweging en tegen een paaltje gezet op een gewone straat in plaats van opgeheven op een sokkel aan een plein. Bezoekers die een monument verwachten, worden verrast door een bastaard.\n\nDe humor is typisch voor de Brusselse zwanze: de lokale gewoonte om jezelf eerst uit te lachen."
         },
         {
           "title": "Verwante namen en spellingen",
@@ -1249,11 +1249,11 @@
       "sections": [
         {
           "title": "Hoe het beeld er echt uitziet",
-          "body": "Het Zinneke is ongeveer zo groot als een echte hond - veel kleiner dan de meeste bezoekers verwachten. Het is een bronzen bastaard met een opgerolde staart, vastgelegd terwijl hij zijn pof tegen een lantaarnpaal heft, met een licht ongeregelde, humoristische modellering die van dichtbij beter leest dan op grote afstand.\n\nOmdat hij op kniehoogte op de stoep staat, mislukken de meeste foto's doordat ze van te ver genomen worden."
+          "body": "Het Zinneke is ongeveer zo groot als een echte hond - veel kleiner dan de meeste bezoekers verwachten. Het is een bronzen bastaard met een opgerolde staart, vastgelegd terwijl hij zijn pof tegen een paaltje heft, met een licht ongeregelde, humoristische modellering die van dichtbij beter leest dan op grote afstand.\n\nOmdat hij op kniehoogte op de stoep staat, mislukken de meeste foto's doordat ze van te ver genomen worden."
         },
         {
           "title": "Zes invalshoeken die werken",
-          "body": "De vooraanzicht toont de hele silhouet tegen de lantaarnpaal. Een zijkant vangt het geheven been. Een close-up op kop en staart toont de patina en de modellering. Neem je de volledige lantaarnpaal mee, dan zie je de compositie die de beeldhouwer bedoelde.\n\nSteek de straat over en schiet breder om de hond in zijn kassei-omgeving te plaatsen, en na donker werpt het straatlicht de bronzen uit - al vraagt weinig licht een hogere ISO of een rustige hand."
+          "body": "De vooraanzicht toont de hele silhouet tegen de paaltje. Een zijkant vangt het geheven been. Een close-up op kop en staart toont de patina en de modellering. Neem je de volledige paaltje mee, dan zie je de compositie die de beeldhouwer bedoelde.\n\nSteek de straat over en schiet breder om de hond in zijn kassei-omgeving te plaatsen, en na donker werpt het straatlicht de bronzen uit - al vraagt weinig licht een hogere ISO of een rustige hand."
         },
         {
           "title": "Wanneer schieten",
@@ -1289,7 +1289,7 @@
         },
         {
           "question": "Hoe ziet Zinneke Pis er echt uit?",
-          "answer": "Een kleine bronzen straathond, ongeveer zo groot als een echte hond, die zijn pof tegen een lantaarnpaal heft op kniehoogte."
+          "answer": "Een kleine bronzen straathond, ongeveer zo groot als een echte hond, die zijn pof tegen een paaltje heft op kniehoogte."
         },
         {
           "question": "Wanneer is het beste moment om te fotograferen?",
@@ -1483,7 +1483,7 @@
       "sections": [
         {
           "title": "De straat",
-          "body": "De Kartuizersstraat loopt door de Kartuizerwijk, net ten noorden van de Nieuwstraat en een paar minuten ten oosten van de Antoine Dansaertwijk. Hij is smal, deels met kasseien geplaveid en bebouwd met kleine voedingswinkels, cafés en woningen.\n\nDe bronzen hond staat op de stoep bij nummer 35, tegen een lantaarnpaal - ongemerkt, zonder hek en makkelijk te missen."
+          "body": "De Kartuizersstraat, ook Rue des Chartreux, ligt in de Zennewijk ten westen van de Anspachlaan. De bronzen hond staat bij een paaltje op de hoek met de Oude Graanmarkt."
         },
         {
           "title": "De wijk en haar naam",
@@ -1491,7 +1491,7 @@
         },
         {
           "title": "Wat er te zien en te doen is",
-          "body": "Loop de hele straat af in plaats van rechtstreeks naar het beeld te gaan. Kijk naar de etalages en de gevels, en kom daarna terug naar de lantaarnpaal. De wijk beloont een langzame tien minuten meer dan een snelle fotostop.\n\nVan hieruit loop je door naar de Antoine Dansaertwijk voor meer winkels en cafés, of terug naar de Nieuwstraat voor de winkelstraten."
+          "body": "Loop de hele straat af in plaats van rechtstreeks naar het beeld te gaan. Kijk naar de etalages en de gevels, en kom daarna terug naar de paaltje. De wijk beloont een langzame tien minuten meer dan een snelle fotostop.\n\nVan hieruit loop je door naar de Antoine Dansaertwijk voor meer winkels en cafés, of terug naar de Nieuwstraat voor de winkelstraten."
         },
         {
           "title": "Praktische tips",

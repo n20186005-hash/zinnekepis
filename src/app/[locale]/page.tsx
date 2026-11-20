@@ -1,4 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
+import type { Locale } from '@/i18n/routing';
+import NearbyPlaces from '@/components/NearbyPlaces';
+import HomeStructuredData from '@/components/HomeStructuredData';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import LocationSection from '@/components/LocationSection';
@@ -22,7 +25,7 @@ import Footer from '@/components/Footer';
 export default async function HomePage({
   params,
 }: {
-  params: Promise<{ locale: string }>;
+  params: Promise<{ locale: Locale }>;
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
@@ -31,6 +34,7 @@ export default async function HomePage({
     <>
       <Header />
       <main>
+        <HomeStructuredData locale={locale} />
         <Hero />
         <LocationSection />
         <Intro />
@@ -41,6 +45,7 @@ export default async function HomePage({
         <InfoSection />
         <RouteSection />
         <RelatedTopics />
+        <NearbyPlaces locale={locale} />
         <PhotoSpotsSection />
         <Recommendations />
         <HotelsSection />

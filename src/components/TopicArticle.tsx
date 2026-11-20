@@ -19,15 +19,16 @@ export default function TopicArticle({ ns }: { ns: string }) {
   const locale = useLocale();
   const messages = useMessages() as any;
 
-  const sections = (messages?.[ns]?.sections || []) as Section[];
-  const facts = (messages?.[ns]?.facts || []) as Fact[];
-  const steps = (messages?.[ns]?.steps || []) as string[];
-  const faq = (messages?.[ns]?.faq || []) as QA[];
-  const related = (messages?.[ns]?.related || []) as string[];
-  const directionsUrl = messages?.[ns]?.directionsUrl as string | undefined;
+  const entry = ns.startsWith('topic.') ? messages?.topic?.[ns.slice(6)] : messages?.[ns];
+  const sections = (entry?.sections || []) as Section[];
+  const facts = (entry?.facts || []) as Fact[];
+  const steps = (entry?.steps || []) as string[];
+  const faq = (entry?.faq || []) as QA[];
+  const related = (entry?.related || []) as string[];
+  const directionsUrl = entry?.directionsUrl as string | undefined;
 
   return (
-    <article className="mx-auto max-w-3xl px-4 sm:px-6 py-10 sm:py-14">
+    <article className="mx-auto max-w-3xl px-4 pb-10 pt-24 sm:px-6 sm:pb-14">
       <Link
         href={`/${locale}`}
         className="inline-flex items-center gap-2 text-sm font-medium mb-8 transition-opacity hover:opacity-70"
@@ -82,7 +83,7 @@ export default function TopicArticle({ ns }: { ns: string }) {
             className="font-display text-2xl font-semibold mb-6"
             style={{ color: 'var(--text-primary)' }}
           >
-            {t('factsTitle')}
+            {t.has('factsTitle') ? t('factsTitle') : tt('factsTitle')}
           </h2>
           <dl className="space-y-4">
             {facts.map((fact) => (
@@ -109,10 +110,9 @@ export default function TopicArticle({ ns }: { ns: string }) {
             className="font-display text-2xl font-semibold mb-6"
             style={{ color: 'var(--text-primary)' }}
           >
-            {t('stepsTitle')}
+            {t.has('stepsTitle') ? t('stepsTitle') : tt('stepsTitle')}
           </h2>
-          <ol className="relative space-y-4">
-            <div className="absolute left-5 top-0 bottom-0 w-0.5" style={{ background: 'var(--border-color)' }} />
+          <ol className="space-y-4">
             {steps.map((step, i) => (
               <li key={i} className="relative flex gap-4 pl-2">
                 <div

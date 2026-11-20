@@ -1,4 +1,5 @@
 import { useTranslations, useMessages } from 'next-intl';
+import { ATTRACTION } from '@/lib/site';
 
 export default function Intro() {
   const t = useTranslations('intro');
@@ -55,6 +56,7 @@ export default function Intro() {
           }}
         >
           <span dangerouslySetInnerHTML={{ __html: t('nearbyText') }} />
+          <a className="mt-3 block font-medium underline underline-offset-4" href="#nearby">{t('nearbyLink')}</a>
         </p>
 
         <p
@@ -113,6 +115,10 @@ export default function Intro() {
           <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
             {tOff('text')}
           </div>
+          <p className="mt-3 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+            <a className="underline underline-offset-4" href={ATTRACTION.officialVenueUrl}>Visit Brussels</a>
+            <a className="underline underline-offset-4" href={ATTRACTION.heritageUrl}>{tOff('inventory')}</a>
+          </p>
         </div>
       </div>
     </section>

@@ -4,7 +4,8 @@
     "gallery": "图库",
     "reviews": "评分",
     "map": "地图",
-    "backToHome": "返回首页"
+    "backToHome": "返回首页",
+    "nearby": "周边景点"
   },
   "hero": {
     "title": "Zinneke Pis",
@@ -23,7 +24,7 @@
     "plusCodeLabel": "Plus Code",
     "coordinatesLabel": "坐标",
     "walkFromGrandPlaceLabel": "从大广场步行",
-    "walkFromGrandPlaceValue": "经 Boterstraat 与夏特勒街约 10 分钟",
+    "walkFromGrandPlaceValue": "经交易所与圣热里步行约 10 分钟",
     "openMaps": "在 Google 地图中打开",
     "freeLabel": "门票",
     "freeValue": "免费——街道上的露天雕像，无需门票，任何时候都可参观"
@@ -38,7 +39,7 @@
       "title": "参观方式",
       "items": [
         "免费且随时可达——没有门票，没有围栏，也没有开放时间限制",
-        "从大广场经 Boterstraat 与夏特勒街步行约 10 分钟",
+        "经交易所与圣热里步行约 10 分钟",
         "大多数游客停留 5 至 10 分钟：现场无需排队",
         "清晨人最少，最适合拍摄没有路人入镜的照片",
         "可串联参访小尿童（8 分钟）、女性小尿童（12 分钟）与大广场（10 分钟）"
@@ -51,7 +52,8 @@
         "Zinneke Pis",
         "Zinneke-Pis"
       ]
-    }
+    },
+    "nearbyLink": "查看撒尿小狗雕像周边景点"
   },
   "knowledge": {
     "title": "Het Zinneke 的历史与含义",
@@ -125,9 +127,9 @@
   "transport": {
     "title": "如何前往 Zinneke Pis",
     "fromCenter": "从大广场出发——10 分钟",
-    "fromCenterDesc": "从大广场经 Boterstraat 离开，沿 Beenhouwersstraat 或 Grétrystraat 前进，然后转入夏特勒街。小狗就停在 35 号人行道上。",
+    "fromCenterDesc": "从大广场沿黄油街走向交易所。 经标示的人行过街处穿过安斯帕赫大道，往圣热里方向走。 沿夏特勒街抵达与旧谷物市场街交会的街角。",
     "fromStation": "从布鲁塞尔中央车站出发——15 分钟",
-    "fromStationDesc": "从车站步行至大广场，再沿 Boterstraat 与夏特勒街前行，全程按正常速度约 15 分钟。",
+    "fromStationDesc": "从布鲁塞尔中央车站按指示往大广场步行。 经黄油街到交易所，在人行过街处穿过安斯帕赫大道，往圣热里走。 走到夏特勒街与旧谷物市场街交会处。",
     "publicTransport": "公共交通",
     "publicTransportDesc": "地铁 1 号线与 5 号线可到 De Brouckère 站，下车步行约 8 分钟。多条公交线路停靠 De Brouckère 或 Beurs，位于雕像稍南侧。",
     "walking": "徒步环线",
@@ -135,20 +137,18 @@
     "driving": "自驾",
     "drivingDesc": "街道狭窄，且布鲁塞尔市中心为低排放区。把车停在大广场或 De Brouckère 停车场后步行会更省事。",
     "fromAirport": "从布鲁塞尔机场出发",
-    "fromAirportDesc": "乘火车到布鲁塞尔中央车站约 20 分钟，然后步行 15 分钟；或乘地铁一站到 De Brouckère 再步行。"
+    "fromAirportDesc": "从布鲁塞尔机场乘火车到中央车站，再经大广场步行。也可用 STIB–MIVB 查询当天的地铁转乘方案。"
   },
   "route": {
     "title": "Zinneke Pis 周边推荐散步路线",
     "overview": "从大广场出发，串联另外两座 Pis 雕像，再回到市中心。加上拍照与咖啡休息，整条约需两小时。",
     "steps": [
-      "从大广场出发，欣赏市政厅与同业公会会馆",
-      "经 Stoofstraat 前往小尿童 Manneken Pis（约 8 分钟）",
-      "转入 Impasse de la Fidélité 参观女性小尿童 Jeanneke Pis（约 2 分钟）",
-      "向北穿过购物街前往夏特勒区",
-      "在 35 号找到 Het Zinneke 并拍照（距小尿童约 8 分钟）",
-      "漫步夏特勒区，逛食品店、咖啡馆与鹅卵石小巷",
-      "经 Beenhouwersstraat 返回大广场（约 10 分钟）",
-      "在大广场的露天座位上以比利时松饼或啤酒收尾"
+      "从大广场开始，看市政厅和行会建筑。",
+      "按地图走到橡树街与炉灶街交会处的撒尿小童像。",
+      "穿过老城到屠夫街，在忠诚小巷看撒尿女童。",
+      "从交易所附近穿过安斯帕赫大道，往圣热里步行。",
+      "在夏特勒街与旧谷物市场街交会处找撒尿小狗。",
+      "参观圣热里市场大厅，或经交易所回大广场。"
     ]
   },
   "topics": {
@@ -224,7 +224,9 @@
       "slug": "rue-des-chartreux"
     },
     "directionsLink": "在 Google 地图中打开步行路线",
-    "relatedTitle": "继续阅读"
+    "relatedTitle": "继续阅读",
+    "factsTitle": "实用信息",
+    "stepsTitle": "步行路线"
   },
   "photoSpots": {
     "title": "Zinneke Pis 的拍照位置",
@@ -378,7 +380,8 @@
         "heading": "4. 联络与变更",
         "content": "本站内容变更时，我们可能会更新本政策。页面顶部的日期标示最近一次修订时间。"
       }
-    ]
+    ],
+    "metaDescription": "了解 Zinneke Pis 网站如何处理访客数据、Cookie 和隐私选择。"
   },
   "terms": {
     "title": "服务条款",
@@ -400,7 +403,8 @@
         "heading": "4. 责任限制",
         "content": "本站资讯仅供一般性参考，对于因使用资讯而产生的任何损失，我们不承担责任。"
       }
-    ]
+    ],
+    "metaDescription": "查看 Zinneke Pis 游览指南及其内容的使用条款。"
   },
   "cookieSettings": {
     "title": "Cookie 设置",
@@ -419,11 +423,13 @@
       "description": "用于衡量与限制站内显示的广告。"
     },
     "save": "保存偏好设置",
-    "saved": "偏好设置已保存！"
+    "saved": "偏好设置已保存！",
+    "metaDescription": "查看并管理 Zinneke Pis 游览指南的 Cookie 偏好。"
   },
   "officialManagement": {
     "title": "来源与说明",
-    "text": "本页的事实查核说明。\n\n• 名称与创作年份取自布鲁塞尔旅游局（Visit Brussels），其将 Het Zinneke（Zinneke-Pis）列为汤姆·弗兰岑于 1999 年完成、位于夏特勒街 35 号的作品。\n\n• 地址、Plus Code 与地图链接依据 Google 地图上 Het Zinneke 的公开资料。\n\n• 上方显示的评分与评价数为该资料的快照，撷取于 2026 年 10 月，日后可能不同。\n\n网路上部分旧页面提到 1998 年，但现行官方资料指向 1999 年。"
+    "text": "Visit Brussels 将这座雕像记为汤姆·弗兰岑 1999 年的作品，地址为夏特勒街 35 号。布鲁塞尔遗产名录记录了它与旧谷物市场街相交的位置和坐标。Google 地图评分为 2026 年 10 月的快照。",
+    "inventory": "布鲁塞尔遗产名录"
   },
   "recommendations": {
     "title": "接下来怎么安排行程",
@@ -623,11 +629,11 @@
       "sections": [
         {
           "title": "确切地点",
-          "body": "Zinneke Pis 位于布鲁塞尔市中心夏特勒区（Kartuizerswijk）Rue des Chartreux 35 号门外的人行道上，邮编 1000。青铜小狗倚靠在一根路灯杆上，高约及膝——如果你平视扫描房屋，就会错过它。\n\n这条街本身很窄，部分铺有石块，有居民和送货车辆通行。它是一条生活街道而非步行广场——这也是你后退拍照时要留在人行道上的原因。"
+          "body": "Zinneke Pis 位于布鲁塞尔市中心夏特勒区（Kartuizerswijk）Rue des Chartreux 35 号门外的人行道上，邮编 1000。青铜小狗倚靠在一根矮柱上，高约及膝——如果你平视扫描房屋，就会错过它。\n\n这条街本身很窄，部分铺有石块，有居民和送货车辆通行。它是一条生活街道而非步行广场——这也是你后退拍照时要留在人行道上的原因。"
         },
         {
           "title": "坐标与 Plus Code",
-          "body": "本站的地图链接使用纬度 50.84879、经度 4.32664，Plus Code 为 R8XW+G7。这与公开的 Google 地图条目一致，该条目使用的名称是 Het Zinneke。\n\n如果你的导航 App 把你放在街的另一端，请走向 35 号：雕像就在路灯杆旁的人行道上，不在街角，也不在广场上。"
+          "body": "布鲁塞尔遗产名录将雕像标在约 50.84878、4.34566，Plus Code 为 R8XW+G7。请在夏特勒街与旧谷物市场街交会处的矮柱旁找青铜小狗。"
         },
         {
           "title": "如何认出正确的街道",
@@ -649,7 +655,7 @@
         },
         {
           "label": "坐标",
-          "value": "50.84879, 4.32664"
+          "value": "50.84878, 4.34566"
         },
         {
           "label": "街区",
@@ -667,7 +673,7 @@
       "faq": [
         {
           "question": "Zinneke Pis 到底在哪里？",
-          "answer": "在 Rue des Chartreux 35 号门外的人行道上，紧挨路灯杆，距大广场步行约 10 分钟。"
+          "answer": "在 Rue des Chartreux 35 号门外的人行道上，紧挨矮柱，距大广场步行约 10 分钟。"
         },
         {
           "question": "Zinneke Pis 的 Plus Code 是什么？",
@@ -687,7 +693,7 @@
         },
         {
           "question": "雕像旁边有停车场吗？",
-          "answer": "没有。这条街没有访客停车位；最近的公共停车场在大广场地下和 De Brouckère。"
+          "answer": "夏特勒街（Rue des Chartreux／Kartuizersstraat）位于安斯帕赫大道以西的塞讷河街区。青铜小狗在它与旧谷物市场街相交的矮柱旁。"
         }
       ],
       "related": [
@@ -788,7 +794,7 @@
       "sections": [
         {
           "title": "路线简述",
-          "body": "从大广场北侧的 Rue au Beurre 离开广场，继续向北并入 Rue des Chartreux。雕像就在 35 号门外的人行道上，紧挨路灯杆。\n\n没有陡坡，也没有复杂的路口：保持大致向北、留意街名，不用地图也能走到。"
+          "body": "从大广场沿黄油街走向交易所。 经标示的人行过街处穿过安斯帕赫大道，往圣热里方向走。 沿夏特勒街抵达与旧谷物市场街交会的街角。"
         },
         {
           "title": "沿途会经过什么",
@@ -800,15 +806,13 @@
         },
         {
           "title": "稍长一些的替代路线",
-          "body": "如果你更喜欢商业街，可以改走 Rue Neuve：多花几分钟、多很多商店，并在 Rue des Chartreux 的南端汇入。经 Rue au Beurre 的安静路线是大多数指南使用的那条。"
+          "body": "想看旧市场大厅，可绕到圣热里广场。运营方标明大厅距离撒尿小狗雕像约 200 米。"
         }
       ],
       "steps": [
-        "背对大广场的市政厅，在广场北侧找到 Rue au Beurre",
-        "沿 Rue au Beurre 向北走出广场",
-        "继续直行进入 Rue des Chartreux，保持向北",
-        "沿着铺石街道经过两旁的小店和咖啡馆",
-        "雕像就在 35 号门外的人行道上，紧挨路灯杆"
+        "从大广场沿黄油街走向交易所。",
+        "经标示的人行过街处穿过安斯帕赫大道，往圣热里方向走。",
+        "沿夏特勒街抵达与旧谷物市场街交会的街角。"
       ],
       "facts": [
         {
@@ -870,27 +874,25 @@
       "sections": [
         {
           "title": "步行路线",
-          "body": "从车站正门出口到 Boulevard de l'Impératrice，向艺术山（Mont des Arts）方向走，再经 Rue Montagne de la Cour 下行至大广场边缘。随后沿 Rue au Beurre 向北进入 Rue des Chartreux 到 35 号。\n\n全程步行约 15 分钟、1.2 公里。这是穿过市中心的可行路线之一，每一段都有明确的地标可循。"
+          "body": "从布鲁塞尔中央车站按指示往大广场步行。 经黄油街到交易所，在人行过街处穿过安斯帕赫大道，往圣热里走。 走到夏特勒街与旧谷物市场街交会处。"
         },
         {
           "title": "距离与时间",
-          "body": "约 1.2 公里，正常步速含红绿灯约 15 分钟。路线基本平坦，只有从艺术山下到大广场的一段下行，那里有电梯和坡道可替代台阶。"
+          "body": "打开路线图确认车站出口和步行时间。石路、路缘和过街等待都可能影响用时。"
         },
         {
           "title": "携带行李时",
-          "body": "石块路和拥挤的人行道让全程步行拖着行李箱很不舒服。这种情况下，乘地铁 1 号线或 5 号线从 Gare Centrale 到 De Brouckère，再步行约 8 分钟——门到门约 20 分钟。"
+          "body": "打开路线图确认车站出口和步行时间。石路、路缘和过街等待都可能影响用时。 用 STIB–MIVB 查询中央车站与德布鲁凯尔之间地铁 1、5 号线的实时安排，再从地铁站按地图步行。"
         },
         {
           "title": "改乘地铁",
-          "body": "中央车站位于 1 号线和 5 号线上，与 De Brouckère 同线，只隔一站。从 De Brouckère 经 Rue Neuve 和 Rue des Chartreux 步行到雕像约 8 分钟。"
+          "body": "用 STIB–MIVB 查询中央车站与德布鲁凯尔之间地铁 1、5 号线的实时安排，再从地铁站按地图步行。"
         }
       ],
       "steps": [
-        "从布鲁塞尔中央车站正门出口走到 Boulevard de l'Impératrice",
-        "向艺术山（Mont des Arts）方向走，再经 Rue Montagne de la Cour 下行前往大广场",
-        "穿越大广场边缘，在北侧找到 Rue au Beurre",
-        "沿 Rue au Beurre 向北，继续直行进入 Rue des Chartreux",
-        "雕像就在 35 号门外的人行道上，紧挨路灯杆"
+        "从布鲁塞尔中央车站按指示往大广场步行。",
+        "经黄油街到交易所，在人行过街处穿过安斯帕赫大道，往圣热里走。",
+        "走到夏特勒街与旧谷物市场街交会处。"
       ],
       "facts": [
         {
@@ -1023,7 +1025,7 @@
       "sections": [
         {
           "title": "路线",
-          "body": "从 Rue des Chartreux 35 号向南走向 Rue Neuve，沿街到 Monnaie 广场，再经 Rue du Marché aux Herbes 或 Rue des Fripiers 切入老城。转入 Rue de l'Étuve 到达街角的小尿童，再走几步进入 Impasse de la Fidélité 就是小便女童。\n\n全程约 0.8 公里、10–12 分钟，几乎全程平坦。"
+          "body": "从撒尿小狗雕像往证券交易所步行。 穿过安斯帕赫大道，按地图走向屠夫街。 在屠夫街上寻找忠诚小巷的入口。"
         },
         {
           "title": "在小便女童处能看到什么",
@@ -1035,11 +1037,9 @@
         }
       ],
       "steps": [
-        "从 Rue des Chartreux 35 号的 Het Zinneke 出发，向南走向 Rue Neuve",
-        "沿 Rue Neuve 向南，经过购物街区，朝 Monnaie 广场方向",
-        "转入 Rue du Marché aux Herbes 或 Rue des Fripiers 前往老城",
-        "到达 Rue de l'Étuve——小便童就在街角",
-        "再走几步进入 Impasse de la Fidélité——小便女童就在小巷里"
+        "从撒尿小狗雕像往证券交易所步行。",
+        "穿过安斯帕赫大道，按地图走向屠夫街。",
+        "在屠夫街上寻找忠诚小巷的入口。"
       ],
       "facts": [
         {
@@ -1101,7 +1101,7 @@
       "sections": [
         {
           "title": "有据可查的内容",
-          "body": "布鲁塞尔首都大区官方旅游机构 Visit Brussels 将 Het Zinneke（Zinneke-Pis）列为布鲁塞尔雕塑家 Tom Frantzen 1999 年的作品，安放于 Rue des Chartreux 35 号。该雕像的公开 Google 地图条目同样使用 Het Zinneke 这一名称和相同地址。\n\n雕塑本身是一只杂种狗抬起后腿对着路灯杆撒尿的小型青铜像，直接安置在街面上，没有基座。"
+          "body": "布鲁塞尔首都大区官方旅游机构 Visit Brussels 将 Het Zinneke（Zinneke-Pis）列为布鲁塞尔雕塑家 Tom Frantzen 1999 年的作品，安放于 Rue des Chartreux 35 号。该雕像的公开 Google 地图条目同样使用 Het Zinneke 这一名称和相同地址。\n\n雕塑本身是一只杂种狗抬起后腿对着矮柱撒尿的小型青铜像，直接安置在街面上，没有基座。"
         },
         {
           "title": "为什么有的来源写 1998 年",
@@ -1127,7 +1127,7 @@
         },
         {
           "label": "材质",
-          "value": "青铜，置于街面高度，倚靠路灯杆"
+          "value": "青铜，置于街面高度，倚靠矮柱"
         },
         {
           "label": "地址",
@@ -1187,7 +1187,7 @@
         },
         {
           "title": "雕像如何运用这个玩笑",
-          "body": "Frantzen 的狗刻意反英雄。它很小，被抓拍在动态中，安在普通街道路灯杆旁，而不是高踞广场基座之上。期待看到纪念碑的游客，看到的是一只癞皮狗。\n\n这种幽默是典型的布鲁塞尔式 zwanze：先自嘲，免得别人来嘲。"
+          "body": "Frantzen 的狗刻意反英雄。它很小，被抓拍在动态中，安在普通街道矮柱旁，而不是高踞广场基座之上。期待看到纪念碑的游客，看到的是一只癞皮狗。\n\n这种幽默是典型的布鲁塞尔式 zwanze：先自嘲，免得别人来嘲。"
         },
         {
           "title": "相关名称与写法",
@@ -1249,11 +1249,11 @@
       "sections": [
         {
           "title": "雕像的真实样貌",
-          "body": "Het Zinneke 大约与真狗等身——比多数游客预期的小得多。它是一只翘着卷尾的青铜杂种狗，被抓拍在抬腿对着路灯杆的瞬间，造型刻意随意、带幽默感，近看比远看更有味道。\n\n因为它就在齐膝高的人行道上，多数照片失败的原因是拍得太远。"
+          "body": "Het Zinneke 大约与真狗等身——比多数游客预期的小得多。它是一只翘着卷尾的青铜杂种狗，被抓拍在抬腿对着矮柱的瞬间，造型刻意随意、带幽默感，近看比远看更有味道。\n\n因为它就在齐膝高的人行道上，多数照片失败的原因是拍得太远。"
         },
         {
           "title": "六个有效的角度",
-          "body": "正面照能把整个轮廓连同路灯杆一起拍下。侧面角度能拍到抬起的后腿。头部和卷尾的特写展现铜绿与造型。把整根路灯杆拍进去，能看到雕塑家设计的构图。\n\n穿过街道用广角拍摄，可以把狗放进它的石块街道环境；天黑后路灯会勾出青铜的轮廓，但弱光需要提高 ISO 或稳住手。"
+          "body": "正面照能把整个轮廓连同矮柱一起拍下。侧面角度能拍到抬起的后腿。头部和卷尾的特写展现铜绿与造型。把整根矮柱拍进去，能看到雕塑家设计的构图。\n\n穿过街道用广角拍摄，可以把狗放进它的石块街道环境；天黑后路灯会勾出青铜的轮廓，但弱光需要提高 ISO 或稳住手。"
         },
         {
           "title": "拍摄时机",
@@ -1289,7 +1289,7 @@
         },
         {
           "question": "Zinneke Pis 实际长什么样？",
-          "answer": "一只约真狗大小的青铜杂种狗，在齐膝高的位置抬腿对着路灯杆。"
+          "answer": "一只约真狗大小的青铜杂种狗，在齐膝高的位置抬腿对着矮柱。"
         },
         {
           "question": "什么时候拍摄最好？",
@@ -1483,7 +1483,7 @@
       "sections": [
         {
           "title": "这条街",
-          "body": "Rue des Chartreux 穿过夏特勒区（Kartuizerwijk），位于 Rue Neuve 购物街以北、Antoine Dansaert 区以东几分钟处。街道狭窄，部分铺石块，两旁是小食品店、咖啡馆和住宅。\n\n青铜小狗就在 35 号门外的人行道上，靠着路灯杆——没有标识、没有围栏，很容易错过。"
+          "body": "夏特勒街（Rue des Chartreux／Kartuizersstraat）位于安斯帕赫大道以西的塞讷河街区。青铜小狗在它与旧谷物市场街相交的矮柱旁。"
         },
         {
           "title": "街区与名字",
@@ -1491,7 +1491,7 @@
         },
         {
           "title": "可看与可做",
-          "body": "把整条街走完，而不是直奔雕像。看看店面和建筑立面，然后再回到路灯杆旁。这个街区值得慢十分钟，胜过快速的拍照打卡。\n\n从这里可以继续前往 Antoine Dansaert 区逛更多小店和咖啡馆，或折回 Rue Neuve 的购物街。"
+          "body": "把整条街走完，而不是直奔雕像。看看店面和建筑立面，然后再回到矮柱旁。这个街区值得慢十分钟，胜过快速的拍照打卡。\n\n从这里可以继续前往 Antoine Dansaert 区逛更多小店和咖啡馆，或折回 Rue Neuve 的购物街。"
         },
         {
           "title": "实用提示",

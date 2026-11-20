@@ -4,7 +4,8 @@
     "gallery": "Photos",
     "reviews": "Avis",
     "map": "Carte",
-    "backToHome": "Retour à l'accueil"
+    "backToHome": "Retour à l'accueil",
+    "nearby": "À proximité"
   },
   "hero": {
     "title": "Zinneke Pis",
@@ -17,13 +18,13 @@
   },
   "location": {
     "title": "Où se trouve Zinneke Pis ?",
-    "answer": "Zinneke Pis se dresse sur le trottoir, devant le numéro 35 de la rue des Chartreux, dans le centre de Bruxelles, au cœur du quartier des Chartreux. C'est une petite sculpture en bronze adossée à un lampadaire, à environ 10 minutes de marche de la Grand-Place.",
+    "answer": "Zinneke Pis se dresse sur le trottoir, devant le numéro 35 de la rue des Chartreux, dans le centre de Bruxelles, au cœur du quartier des Chartreux. C'est une petite sculpture en bronze adossée à un potelet, à environ 10 minutes de marche de la Grand-Place.",
     "addressLabel": "Adresse",
     "addressValue": "Rue des Chartreux 35, 1000 Bruxelles, Belgique",
     "plusCodeLabel": "Plus Code",
     "coordinatesLabel": "Coordonnées",
     "walkFromGrandPlaceLabel": "Depuis la Grand-Place",
-    "walkFromGrandPlaceValue": "Environ 10 minutes par la rue au Beurre et la rue des Chartreux",
+    "walkFromGrandPlaceValue": "Environ 10 minutes via la Bourse et Saint-Géry",
     "openMaps": "Ouvrir dans Google Maps",
     "freeLabel": "Entrée",
     "freeValue": "Gratuite — une statue dans la rue, sans billet, visible à toute heure"
@@ -31,14 +32,14 @@
   "intro": {
     "title": "À propos de Zinneke Pis",
     "breadcrumbs": "Het Zinneke → Bruxelles → Région de Bruxelles-Capitale → Belgique",
-    "firstParagraph": "Le <strong>Het Zinneke</strong>, plus connu sous le nom de <strong>Zinneke Pis</strong>, est la célèbre statue de bronze du chien qui fait pipi, installée <strong>rue des Chartreux</strong> dans le centre de <strong>Bruxelles</strong>. Elle est petite, presque à hauteur de genou au pied d'un lampadaire, et il est facile de passer devant sans la remarquer.",
+    "firstParagraph": "Le <strong>Het Zinneke</strong>, plus connu sous le nom de <strong>Zinneke Pis</strong>, est la célèbre statue de bronze du chien qui fait pipi, installée <strong>rue des Chartreux</strong> dans le centre de <strong>Bruxelles</strong>. Elle est petite, presque à hauteur de genou au pied d'un potelet, et il est facile de passer devant sans la remarquer.",
     "nearbyText": "Depuis la statue, comptez environ 8 minutes à pied jusqu'au <strong>Manneken Pis</strong>, environ 10 minutes jusqu'à la <strong>Grand-Place</strong> et environ 12 minutes jusqu'au <strong>Jeanneke Pis</strong> : elle s'intègre naturellement dans une courte boucle autour du centre.",
-    "description": "Het Zinneke montre un chien des rues, l'air un peu dégingandé, qui lève la patte contre un lampadaire. L'œuvre a été réalisée en 1999 par le sculpteur bruxellois Tom Frantzen et complète le trio de statues « Pis » du centre, aux côtés du Manneken Pis (1619) et de la Jeanneke Pis (1987).\n\nLe mot « Zinneke » vient du dialecte bruxellois et désignait un chien bâtard, issu du croisement entre un chien de la ville et un chien de village. Les Bruxellois emploient volontiers ce mot pour parler d'eux-mêmes. C'est pourquoi la statue se lit moins comme un monument officiel que comme un clin d'œil à la vie quotidienne de la ville.\n\nLa plupart des visiteurs restent cinq à dix minutes. Il n'y a rien à acheter ni aucune barrière : le chien se tient simplement sur une rue étroite bordée de cafés, de commerces de bouche et de pavés, à deux pas des grandes rues commerçantes mais nettement plus calme.",
+    "description": "Het Zinneke montre un chien des rues, l'air un peu dégingandé, qui lève la patte contre un potelet. L'œuvre a été réalisée en 1999 par le sculpteur bruxellois Tom Frantzen et complète le trio de statues « Pis » du centre, aux côtés du Manneken Pis (1619) et de la Jeanneke Pis (1987).\n\nLe mot « Zinneke » vient du dialecte bruxellois et désignait un chien bâtard, issu du croisement entre un chien de la ville et un chien de village. Les Bruxellois emploient volontiers ce mot pour parler d'eux-mêmes. C'est pourquoi la statue se lit moins comme un monument officiel que comme un clin d'œil à la vie quotidienne de la ville.\n\nLa plupart des visiteurs restent cinq à dix minutes. Il n'y a rien à acheter ni aucune barrière : le chien se tient simplement sur une rue étroite bordée de cafés, de commerces de bouche et de pavés, à deux pas des grandes rues commerçantes mais nettement plus calme.",
     "visitGuide": {
       "title": "Comment la visiter",
       "items": [
         "Gratuite et accessible à tout moment : pas de billet, pas de grille, pas d'horaires",
-        "Environ 10 minutes de marche depuis la Grand-Place par la rue au Beurre et la rue des Chartreux",
+        "Environ 10 minutes via la Bourse et Saint-Géry",
         "La plupart des visiteurs restent 5 à 10 minutes : il n'y a aucune file d'attente",
         "Le matin est le moment le plus calme pour photographier la statue sans personne dans le cadre",
         "À combiner avec le Manneken Pis (8 min), la Jeanneke Pis (12 min) et la Grand-Place (10 min)"
@@ -51,7 +52,8 @@
         "Zinneke Pis",
         "Zinneke-Pis"
       ]
-    }
+    },
+    "nearbyLink": "Découvrir les lieux à visiter près de Zinneke Pis"
   },
   "knowledge": {
     "title": "Histoire et signification de Het Zinneke",
@@ -59,7 +61,7 @@
       {
         "id": "dog-statue",
         "title": "Quelle est la statue du chien qui fait pipi à Bruxelles ?",
-        "content": "La célèbre statue du chien qui fait pipi à Bruxelles est Het Zinneke, plus connue sous le nom de Zinneke Pis. Il s'agit d'une sculpture en bronze représentant un chien bâtard urinant contre un lampadaire, installée en 1999 rue des Chartreux, à environ 10 minutes de marche de la Grand-Place.\n\nElle est beaucoup plus petite que la plupart des visiteurs ne l'imaginent — à peu près la taille d'un vrai chien. Regardez donc au pied du lampadaire plutôt que vers les façades. Le nom officiel dans Google Maps est « Het Zinneke », ce qui explique pourquoi une recherche en néerlandais renvoie les photos du même chien de bronze."
+        "content": "La célèbre statue du chien qui fait pipi à Bruxelles est Het Zinneke, plus connue sous le nom de Zinneke Pis. Il s'agit d'une sculpture en bronze représentant un chien bâtard urinant contre un potelet, installée en 1999 rue des Chartreux, à environ 10 minutes de marche de la Grand-Place.\n\nElle est beaucoup plus petite que la plupart des visiteurs ne l'imaginent — à peu près la taille d'un vrai chien. Regardez donc au pied du potelet plutôt que vers les façades. Le nom officiel dans Google Maps est « Het Zinneke », ce qui explique pourquoi une recherche en néerlandais renvoie les photos du même chien de bronze."
       },
       {
         "id": "meaning",
@@ -125,9 +127,9 @@
   "transport": {
     "title": "Comment rejoindre Zinneke Pis",
     "fromCenter": "Depuis la Grand-Place — 10 minutes",
-    "fromCenterDesc": "Quittez la Grand-Place par la rue au Beurre, continuez par la rue des Bouchers ou la rue Grétry, puis tournez dans la rue des Chartreux. Le chien est sur le trottoir, au numéro 35.",
+    "fromCenterDesc": "Quittez la Grand-Place par la rue au Beurre en direction de la Bourse. Traversez le boulevard Anspach à un passage balisé vers Saint-Géry. Rejoignez la rue des Chartreux et son croisement avec la rue du Vieux Marché aux Grains.",
     "fromStation": "Depuis la gare de Bruxelles-Central — 15 minutes",
-    "fromStationDesc": "Depuis la gare, rejoignez la Grand-Place, puis suivez la rue au Beurre et la rue des Chartreux. Comptez environ 15 minutes à allure normale.",
+    "fromStationDesc": "Depuis Bruxelles-Central, suivez la direction de la Grand-Place. Gagnez la Bourse par la rue au Beurre et traversez le boulevard Anspach vers Saint-Géry. Continuez jusqu’au carrefour des rues des Chartreux et du Vieux Marché aux Grains.",
     "publicTransport": "Transports en commun",
     "publicTransportDesc": "Les lignes de métro 1 et 5 s'arrêtent à De Brouckère, à environ 8 minutes à pied. Plusieurs lignes de bus s'arrêtent à De Brouckère ou à la Bourse, juste au sud de la statue.",
     "walking": "Boucle à pied",
@@ -135,20 +137,18 @@
     "driving": "En voiture",
     "drivingDesc": "La rue est étroite et le centre de Bruxelles est une zone de basses émissions. Garer sous la Grand-Place ou à De Brouckère puis continuer à pied est plus simple.",
     "fromAirport": "Depuis l'aéroport de Bruxelles",
-    "fromAirportDesc": "Le train jusqu'à Bruxelles-Central prend environ 20 minutes, puis comptez 15 minutes de marche, ou descendez d'une station de métro jusqu'à De Brouckère et finissez à pied."
+    "fromAirportDesc": "Prenez le train de l’aéroport jusqu’à Bruxelles-Central. Continuez à pied par la Grand-Place ou consultez l’itinéraire actualisé de la STIB."
   },
   "route": {
     "title": "Boucle pédestre recommandée autour de Zinneke Pis",
     "overview": "Partez de la Grand-Place, ajoutez les deux autres statues Pis et terminez dans le centre. Avec les arrêts photo et une pause café, la boucle prend environ deux heures.",
     "steps": [
-      "Commencez à la Grand-Place et admirez l'hôtel de ville et les maisons des corporations",
-      "Descendez vers le Manneken Pis par la rue de l'Étuve (environ 8 minutes)",
-      "Engagez-vous dans l'impasse de la Fidélité pour la Jeanneke Pis (environ 2 minutes)",
-      "Remontez vers le nord par les rues commerçantes jusqu'au quartier des Chartreux",
-      "Trouvez Het Zinneke au numéro 35 et prenez vos photos (environ 8 minutes depuis le Manneken Pis)",
-      "Flânez dans le quartier des Chartreux entre commerces de bouche, cafés et pavés",
-      "Revenez vers la Grand-Place par la rue des Bouchers (environ 10 minutes)",
-      "Terminez en terrasse sur la Grand-Place avec une gaufre ou une bière belge"
+      "Commencez à la Grand-Place entre l’Hôtel de Ville et les maisons de corporations.",
+      "Suivez la carte vers Manneken Pis à l’angle des rues du Chêne et de l’Étuve.",
+      "Revenez vers la rue des Bouchers et trouvez l’impasse de la Fidélité pour Jeanneke Pis.",
+      "Traversez le boulevard Anspach à hauteur de la Bourse vers Saint-Géry.",
+      "Repérez Het Zinneke au carrefour des rues des Chartreux et du Vieux Marché aux Grains.",
+      "Visitez les Halles Saint-Géry ou retournez à la Grand-Place par la Bourse."
     ]
   },
   "topics": {
@@ -224,14 +224,16 @@
       "slug": "rue-des-chartreux"
     },
     "directionsLink": "Ouvrir l’itinéraire dans Google Maps",
-    "relatedTitle": "À lire ensuite"
+    "relatedTitle": "À lire ensuite",
+    "factsTitle": "L’essentiel",
+    "stepsTitle": "Itinéraire à pied"
   },
   "photoSpots": {
     "title": "Où photographier Zinneke Pis",
     "spots": [
       {
         "name": "Vue de face",
-        "desc": "Placez-vous sur le trottoir devant le chien pour cadrer toute sa silhouette contre le lampadaire"
+        "desc": "Placez-vous sur le trottoir devant le chien pour cadrer toute sa silhouette contre le potelet"
       },
       {
         "name": "Angle de côté",
@@ -242,8 +244,8 @@
         "desc": "Approchez-vous de la tête et de la queue repliée : une courte focale suffit"
       },
       {
-        "name": "Avec le lampadaire",
-        "desc": "Cadrez le lampadaire entier pour restituer la composition voulue par le sculpteur"
+        "name": "Avec le potelet",
+        "desc": "Cadrez le potelet entier pour restituer la composition voulue par le sculpteur"
       },
       {
         "name": "Dans le décor de la rue",
@@ -282,15 +284,15 @@
     "captions": [
       "Het Zinneke (Zinneke Pis), statue de bronze du chien rue des Chartreux à Bruxelles",
       "Gros plan sur la tête en bronze et la queue repliée de Het Zinneke",
-      "Vue de côté de Zinneke Pis levant la patte contre le lampadaire",
-      "Het Zinneke et son lampadaire devant le numéro 35 de la rue des Chartreux",
+      "Vue de côté de Zinneke Pis levant la patte contre le potelet",
+      "Het Zinneke et son potelet devant le numéro 35 de la rue des Chartreux",
       "Profil de la statue Zinneke Pis révélant le travail du bronze",
       "Scène de rue rue des Chartreux avec Het Zinneke à Bruxelles",
       "Détails et patine du bronze de la sculpture Zinneke Pis",
       "Rue pavée bordant Het Zinneke dans le quartier des Chartreux",
       "Ambiance quotidienne du quartier autour de Zinneke Pis dans le centre de Bruxelles",
       "Het Zinneke un jour de froid hivernal à 1000 Bruxelles",
-      "Zinneke Pis éclairée par le lampadaire à la tombée du jour à Bruxelles"
+      "Zinneke Pis éclairée par le potelet à la tombée du jour à Bruxelles"
     ],
     "viewAll": "Plus de photos sur Google Maps",
     "showAll": "Voir toutes les photos",
@@ -378,7 +380,8 @@
         "heading": "4. Contact et modifications",
         "content": "Nous pouvons mettre à jour cette politique lorsque le site évolue. La date en haut de page indique la dernière révision."
       }
-    ]
+    ],
+    "metaDescription": "Informations sur les données des visiteurs, les cookies et les choix de confidentialité sur Zinneke Pis."
   },
   "terms": {
     "title": "Conditions d'utilisation",
@@ -400,7 +403,8 @@
         "heading": "4. Responsabilité",
         "content": "Les informations sont fournies à titre d'orientation générale. Nous déclinons toute responsabilité pour les préjudices liés à leur utilisation."
       }
-    ]
+    ],
+    "metaDescription": "Conditions d’utilisation du guide de visite de Zinneke Pis et de ses contenus."
   },
   "cookieSettings": {
     "title": "Paramètres des cookies",
@@ -419,11 +423,13 @@
       "description": "Servent à mesurer et à limiter la publicité affichée sur le site."
     },
     "save": "Enregistrer mes préférences",
-    "saved": "Préférences enregistrées !"
+    "saved": "Préférences enregistrées !",
+    "metaDescription": "Consultez et gérez les préférences de cookies du guide Zinneke Pis."
   },
   "officialManagement": {
     "title": "Sources et notes",
-    "text": "Notes de vérification de cette page.\n\n• Le nom et l'année de création proviennent de Visit Brussels, qui répertorie Het Zinneke (Zinneke-Pis) comme une œuvre de Tom Frantzen datée de 1999, rue des Chartreux 35.\n\n• L'adresse, le Plus Code et les liens de carte suivent la fiche Google Maps publique de Het Zinneke.\n\n• La note et le nombre d'avis affichés ci-dessus sont un instantané de cette fiche, relevé en octobre 2026, et peuvent différer par la suite.\n\nLorsque d'anciennes pages web mentionnent 1998, les informations officielles actuelles indiquent 1999."
+    "text": "Visit Brussels identifie la sculpture comme une œuvre de Tom Frantzen, datée de 1999, au 35, rue des Chartreux. L’inventaire du patrimoine bruxellois documente le carrefour avec la rue du Vieux Marché aux Grains et donne les coordonnées. La note Google Maps correspond à un relevé d’octobre 2026.",
+    "inventory": "Inventaire du patrimoine bruxellois"
   },
   "recommendations": {
     "title": "Planifiez le reste de la balade",
@@ -483,7 +489,7 @@
       },
       {
         "label": "Het Zinneke / Zinneke Pis",
-        "value": "1999 · rue des Chartreux 35, dans le quartier des Chartreux. Un chien bâtard de bronze qui lève la patte contre un lampadaire, à environ 10 minutes de marche de la Grand-Place."
+        "value": "1999 · rue des Chartreux 35, dans le quartier des Chartreux. Un chien bâtard de bronze qui lève la patte contre un potelet, à environ 10 minutes de marche de la Grand-Place."
       },
       {
         "label": "Distance totale à parcourir",
@@ -623,11 +629,11 @@
       "sections": [
         {
           "title": "L'endroit exact",
-          "body": "Zinneke Pis se dresse sur le trottoir devant le numéro 35 de la rue des Chartreux, dans le quartier des Chartreux (Kartuizerswijk) du centre de Bruxelles, code postal 1000. Le chien en bronze s'appuie contre un lampadaire à hauteur de genou : vous le manquerez si vous scrutez les façades à hauteur d'yeux.\n\nLa rue elle-même est étroite, pavée par endroits, et utilisée par les habitants et les livraisons. C'est une rue vivante plutôt qu'une place piétonne — et la raison pour laquelle il faut rester sur le trottoir quand on recule pour une photo."
+          "body": "Zinneke Pis se dresse sur le trottoir devant le numéro 35 de la rue des Chartreux, dans le quartier des Chartreux (Kartuizerswijk) du centre de Bruxelles, code postal 1000. Le chien en bronze s'appuie contre un potelet à hauteur de genou : vous le manquerez si vous scrutez les façades à hauteur d'yeux.\n\nLa rue elle-même est étroite, pavée par endroits, et utilisée par les habitants et les livraisons. C'est une rue vivante plutôt qu'une place piétonne — et la raison pour laquelle il faut rester sur le trottoir quand on recule pour une photo."
         },
         {
           "title": "Coordonnées et Plus Code",
-          "body": "Les liens de carte de ce site utilisent la latitude 50.84879 et la longitude 4.32664, avec le Plus Code R8XW+G7. Ils correspondent à la fiche Google Maps publique, enregistrée sous le nom « Het Zinneke ».\n\nSi votre application de navigation vous dépose au mauvais bout de la rue, marchez vers le numéro 35 : la statue est sur le trottoir, près du lampadaire, pas sur un coin ni sur une place."
+          "body": "L’inventaire du patrimoine bruxellois situe la statue vers 50.84878, 4.34566. Son Plus Code est R8XW+G7. Cherchez le chien en bronze contre le potelet au carrefour des rues des Chartreux et du Vieux Marché aux Grains."
         },
         {
           "title": "Comment reconnaître la bonne rue",
@@ -649,7 +655,7 @@
         },
         {
           "label": "Coordonnées",
-          "value": "50.84879, 4.32664"
+          "value": "50.84878, 4.34566"
         },
         {
           "label": "Quartier",
@@ -667,7 +673,7 @@
       "faq": [
         {
           "question": "Où se trouve exactement Zinneke Pis ?",
-          "answer": "Sur le trottoir devant le numéro 35 de la rue des Chartreux, 1000 Bruxelles, près d'un lampadaire. C'est à environ 10 minutes de marche de la Grand-Place."
+          "answer": "Sur le trottoir devant le numéro 35 de la rue des Chartreux, 1000 Bruxelles, près d'un potelet. C'est à environ 10 minutes de marche de la Grand-Place."
         },
         {
           "question": "Quel est le Plus Code de Zinneke Pis ?",
@@ -687,7 +693,7 @@
         },
         {
           "question": "Y a-t-il un parking près de la statue ?",
-          "answer": "Non. La rue n'a pas de parking visiteurs. Les parkings publics les plus proches sont sous la Grand-Place et à De Brouckère."
+          "answer": "La rue des Chartreux, ou Kartuizersstraat, traverse le quartier de la Senne à l’ouest du boulevard Anspach. Le chien en bronze se trouve contre un potelet au carrefour de la rue du Vieux Marché aux Grains."
         }
       ],
       "related": [
@@ -788,7 +794,7 @@
       "sections": [
         {
           "title": "L'itinéraire en bref",
-          "body": "Quittez la Grand-Place par la rue au Beurre, sur son côté nord, continuez vers le nord et poursuivez dans la rue des Chartreux. La statue est sur le trottoir au numéro 35, contre le lampadaire.\n\nPas de pente raide ni de carrefour compliqué : en gardant cap au nord et en surveillant le nom des rues, vous arriverez sans carte."
+          "body": "Quittez la Grand-Place par la rue au Beurre en direction de la Bourse. Traversez le boulevard Anspach à un passage balisé vers Saint-Géry. Rejoignez la rue des Chartreux et son croisement avec la rue du Vieux Marché aux Grains."
         },
         {
           "title": "Ce que l'on croise en chemin",
@@ -800,15 +806,13 @@
         },
         {
           "title": "Une alternative un peu plus longue",
-          "body": "Si vous préférez les rues commerçantes, passez par la rue Neuve : cela ajoute quelques minutes et beaucoup de boutiques, et rejoint la rue des Chartreux à son extrémité sud. L'itinéraire calme par la rue au Beurre est celui qu'utilisent la plupart des guides."
+          "body": "Faites un détour par la place Saint-Géry si vous souhaitez voir son ancienne halle. Selon son gestionnaire, elle se trouve à environ 200 mètres de Het Zinneke."
         }
       ],
       "steps": [
-        "Placez-vous dos à l'hôtel de ville de la Grand-Place et trouvez la rue au Beurre sur le côté nord de la place",
-        "Suivez la rue au Beurre vers le nord pour sortir de la place",
-        "Continuez tout droit dans la rue des Chartreux, toujours vers le nord",
-        "Longez la rue pavée avec ses petites boutiques et ses cafés",
-        "La statue est sur le trottoir au numéro 35, près du lampadaire"
+        "Quittez la Grand-Place par la rue au Beurre en direction de la Bourse.",
+        "Traversez le boulevard Anspach à un passage balisé vers Saint-Géry.",
+        "Rejoignez la rue des Chartreux et son croisement avec la rue du Vieux Marché aux Grains."
       ],
       "facts": [
         {
@@ -870,27 +874,25 @@
       "sections": [
         {
           "title": "L'itinéraire à pied",
-          "body": "Quittez la gare par la sortie principale sur le boulevard de l'Impératrice, montez vers le Mont des Arts et descendez par la rue Montagne de la Cour jusqu'au bord de la Grand-Place. De là, suivez la rue au Beurre vers le nord dans la rue des Chartreux jusqu'au numéro 35.\n\nL'ensemble de la marche prend environ 15 minutes et 1,2 km. C'est l'un des itinéraires possibles à travers le centre, mais il s'appuie à chaque étape sur des repères reconnaissables."
+          "body": "Depuis Bruxelles-Central, suivez la direction de la Grand-Place. Gagnez la Bourse par la rue au Beurre et traversez le boulevard Anspach vers Saint-Géry. Continuez jusqu’au carrefour des rues des Chartreux et du Vieux Marché aux Grains."
         },
         {
           "title": "Distance et temps",
-          "body": "Environ 1,2 km, soit environ 15 minutes à allure normale avec les feux de circulation. L'itinéraire est plat, sauf la courte descente du Mont des Arts vers la Grand-Place, où ascenseurs et rampes offrent une alternative aux escaliers."
+          "body": "Consultez la carte pour choisir la sortie et estimer le temps de marche. Tenez compte des bordures, des pavés et des traversées."
         },
         {
           "title": "Avec des bagages",
-          "body": "Les pavés et les trottoirs bondés rendent la marche complète inconfortable avec des valises. Dans ce cas, prenez le métro ligne 1 ou 5 de Gare Centrale à De Brouckère, puis marchez environ 8 minutes — environ 20 minutes en tout."
+          "body": "Consultez la carte pour choisir la sortie et estimer le temps de marche. Tenez compte des bordures, des pavés et des traversées. Consultez la STIB pour les lignes 1 et 5 entre Gare Centrale et De Brouckère. Suivez la carte pour terminer à pied depuis la station."
         },
         {
           "title": "En métro à la place",
-          "body": "La gare Centrale est sur les lignes 1 et 5, les mêmes lignes qui desservent De Brouckère. Un seul arrêt les sépare, et la marche de De Brouckère à la statue prend environ 8 minutes par la rue Neuve et la rue des Chartreux."
+          "body": "Consultez la STIB pour les lignes 1 et 5 entre Gare Centrale et De Brouckère. Suivez la carte pour terminer à pied depuis la station."
         }
       ],
       "steps": [
-        "Quittez la gare de Bruxelles-Central par la sortie principale sur le boulevard de l'Impératrice",
-        "Montez vers le Mont des Arts, puis descendez par la rue Montagne de la Cour vers la Grand-Place",
-        "Traversez le bord de la Grand-Place et trouvez la rue au Beurre sur son côté nord",
-        "Suivez la rue au Beurre vers le nord et continuez dans la rue des Chartreux",
-        "La statue est sur le trottoir au numéro 35, près du lampadaire"
+        "Depuis Bruxelles-Central, suivez la direction de la Grand-Place.",
+        "Gagnez la Bourse par la rue au Beurre et traversez le boulevard Anspach vers Saint-Géry.",
+        "Continuez jusqu’au carrefour des rues des Chartreux et du Vieux Marché aux Grains."
       ],
       "facts": [
         {
@@ -1023,7 +1025,7 @@
       "sections": [
         {
           "title": "L'itinéraire",
-          "body": "Depuis la rue des Chartreux 35, marchez vers le sud en direction de la rue Neuve, suivez-la vers la place de la Monnaie, puis coupez vers le vieux centre par la rue du Marché aux Herbes ou la rue des Fripiers. Prenez la rue de l'Étuve pour rejoindre Manneken Pis à son coin, puis continuez quelques pas dans l'impasse de la Fidélité pour Jeanneke Pis.\n\nL'ensemble fait environ 0,8 km et 10 à 12 minutes, presque entièrement à plat."
+          "body": "Depuis Het Zinneke, revenez vers la Bourse. Traversez le boulevard Anspach et suivez la carte jusqu’à la rue des Bouchers. Repérez l’impasse de la Fidélité qui débouche dans la rue des Bouchers."
         },
         {
           "title": "À quoi s'attendre chez Jeanneke Pis",
@@ -1035,11 +1037,9 @@
         }
       ],
       "steps": [
-        "Quittez Het Zinneke rue des Chartreux 35 et marchez vers le sud en direction de la rue Neuve",
-        "Suivez la rue Neuve vers le sud, passé les îlots commerçants, en direction de la place de la Monnaie",
-        "Prenez la rue du Marché aux Herbes ou la rue des Fripiers vers le vieux centre",
-        "Atteignez la rue de l'Étuve — Manneken Pis est sur le coin",
-        "Continuez quelques pas dans l'impasse de la Fidélité — Jeanneke Pis est dans la ruelle"
+        "Depuis Het Zinneke, revenez vers la Bourse.",
+        "Traversez le boulevard Anspach et suivez la carte jusqu’à la rue des Bouchers.",
+        "Repérez l’impasse de la Fidélité qui débouche dans la rue des Bouchers."
       ],
       "facts": [
         {
@@ -1101,7 +1101,7 @@
       "sections": [
         {
           "title": "Ce qui est documenté",
-          "body": "Visit Brussels, l'organisme officiel du tourisme pour la Région de Bruxelles-Capitale, recense Het Zinneke (Zinneke-Pis) comme une œuvre du sculpteur bruxellois Tom Frantzen datée de 1999, installée rue des Chartreux 35. La fiche Google Maps publique de la statue utilise le nom « Het Zinneke » et la même adresse.\n\nLa sculpture elle-même est une petite figure en bronze d'un chien bâtard qui lève la patte contre un lampadaire, posée directement dans la rue, sans soclé."
+          "body": "Visit Brussels, l'organisme officiel du tourisme pour la Région de Bruxelles-Capitale, recense Het Zinneke (Zinneke-Pis) comme une œuvre du sculpteur bruxellois Tom Frantzen datée de 1999, installée rue des Chartreux 35. La fiche Google Maps publique de la statue utilise le nom « Het Zinneke » et la même adresse.\n\nLa sculpture elle-même est une petite figure en bronze d'un chien bâtard qui lève la patte contre un potelet, posée directement dans la rue, sans soclé."
         },
         {
           "title": "Pourquoi certaines sources disent 1998",
@@ -1127,7 +1127,7 @@
         },
         {
           "label": "Matériau",
-          "value": "Bronze, posé au niveau de la rue contre un lampadaire"
+          "value": "Bronze, posé au niveau de la rue contre un potelet"
         },
         {
           "label": "Adresse",
@@ -1187,7 +1187,7 @@
         },
         {
           "title": "Comment la statue utilise la plaisanterie",
-          "body": "Le chien de Frantzen est délibérément antihéroïque. Il est petit, saisi en mouvement, et posé contre un lampadaire dans une rue ordinaire plutôt qu'élevé sur un socle au milieu d'une place. Les visiteurs qui s'attendent à un monument sont surpris par un bâtard.\n\nL'humour est typique de la « zwanze » bruxelloise : l'habitude locale de se moquer de soi-même avant les autres."
+          "body": "Le chien de Frantzen est délibérément antihéroïque. Il est petit, saisi en mouvement, et posé contre un potelet dans une rue ordinaire plutôt qu'élevé sur un socle au milieu d'une place. Les visiteurs qui s'attendent à un monument sont surpris par un bâtard.\n\nL'humour est typique de la « zwanze » bruxelloise : l'habitude locale de se moquer de soi-même avant les autres."
         },
         {
           "title": "Noms et orthographes liés",
@@ -1249,11 +1249,11 @@
       "sections": [
         {
           "title": "À quoi ressemble vraiment la statue",
-          "body": "Het Zinneke est à peu près de la taille d'un vrai chien — bien plus petit que ne l'attendent la plupart des visiteurs. C'est un bâtard en bronze à la queue retroussée, saisi en train de lever la patte contre un lampadaire, avec un modelé volontairement négligé et humoristique qui se lit mieux de près que de loin.\n\nComme il est à hauteur de genou sur le trottoir, la plupart des photos ratent parce qu'elles sont prises de trop loin."
+          "body": "Het Zinneke est à peu près de la taille d'un vrai chien — bien plus petit que ne l'attendent la plupart des visiteurs. C'est un bâtard en bronze à la queue retroussée, saisi en train de lever la patte contre un potelet, avec un modelé volontairement négligé et humoristique qui se lit mieux de près que de loin.\n\nComme il est à hauteur de genou sur le trottoir, la plupart des photos ratent parce qu'elles sont prises de trop loin."
         },
         {
           "title": "Six angles qui fonctionnent",
-          "body": "La vue de face montre la silhouette entière contre le lampadaire. Un angle de côté capte la patte levée. Un gros plan sur la tête et la queue révèle la patine et le modelé. Inclure le lampadaire entier montre la composition voulue par le sculpteur.\n\nTraversez la rue et élargissez le cadre pour placer le chien dans son décor de pavés, et après la tombée du jour, l'éclairage public fait ressortir le bronze — mais la faible lumière demande un ISO plus élevé ou une main stable."
+          "body": "La vue de face montre la silhouette entière contre le potelet. Un angle de côté capte la patte levée. Un gros plan sur la tête et la queue révèle la patine et le modelé. Inclure le potelet entier montre la composition voulue par le sculpteur.\n\nTraversez la rue et élargissez le cadre pour placer le chien dans son décor de pavés, et après la tombée du jour, l'éclairage public fait ressortir le bronze — mais la faible lumière demande un ISO plus élevé ou une main stable."
         },
         {
           "title": "Quand photographier",
@@ -1289,7 +1289,7 @@
         },
         {
           "question": "À quoi ressemble réellement Zinneke Pis ?",
-          "answer": "Un petit chien en bronze, à peu près de la taille d'un vrai chien, qui lève la patte contre un lampadaire à hauteur de genou."
+          "answer": "Un petit chien en bronze, à peu près de la taille d'un vrai chien, qui lève la patte contre un potelet à hauteur de genou."
         },
         {
           "question": "Quel est le meilleur moment pour photographier la statue ?",
@@ -1483,7 +1483,7 @@
       "sections": [
         {
           "title": "La rue",
-          "body": "La rue des Chartreux traverse le quartier des Chartreux (Kartuizerswijk), juste au nord de la rue Neuve commerçante et à quelques minutes à l'est du quartier Antoine Dansaert. Elle est étroite, en partie pavée, et bordée de petites épiceries, de cafés et d'habitations.\n\nLe chien en bronze se trouve sur le trottoir au numéro 35, contre un lampadaire — sans signalisation, sans barrière, et facile à manquer."
+          "body": "La rue des Chartreux, ou Kartuizersstraat, traverse le quartier de la Senne à l’ouest du boulevard Anspach. Le chien en bronze se trouve contre un potelet au carrefour de la rue du Vieux Marché aux Grains."
         },
         {
           "title": "Le quartier et son nom",
@@ -1491,7 +1491,7 @@
         },
         {
           "title": "Ce qu'il faut voir et faire",
-          "body": "Parcourez la rue en entier plutôt que de foncer vers la statue. Regardez les devantures et les façades, puis revenez au lampadaire. Le quartier récompense dix minutes lentes plus qu'un arrêt photo rapide.\n\nDe là, on peut continuer vers le quartier Antoine Dansaert pour plus de boutiques et de cafés, ou reprendre la rue Neuve pour les rues commerçantes."
+          "body": "Parcourez la rue en entier plutôt que de foncer vers la statue. Regardez les devantures et les façades, puis revenez au potelet. Le quartier récompense dix minutes lentes plus qu'un arrêt photo rapide.\n\nDe là, on peut continuer vers le quartier Antoine Dansaert pour plus de boutiques et de cafés, ou reprendre la rue Neuve pour les rues commerçantes."
         },
         {
           "title": "Conseils pratiques",
